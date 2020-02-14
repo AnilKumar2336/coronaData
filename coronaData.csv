@@ -1,1419 +1,1419 @@
-"","Province/State","Country/Region","Confirmed","Deaths","Recovered","recorded_date"
-"1","Anhui","Mainland China",NA,NA,NA,"Jan21"
-"2","Beijing","Mainland China",10,NA,NA,"Jan21"
-"3","Chongqing","Mainland China",5,NA,NA,"Jan21"
-"4","Guangdong","Mainland China",17,NA,NA,"Jan21"
-"5","Guangxi","Mainland China",NA,NA,NA,"Jan21"
-"6","Guizhou","Mainland China",NA,NA,NA,"Jan21"
-"7","Hainan","Mainland China",NA,NA,NA,"Jan21"
-"8","Heilongjiang","Mainland China",NA,NA,NA,"Jan21"
-"9","Henan","Mainland China",1,NA,NA,"Jan21"
-"10","Hong Kong","Hong Kong",NA,NA,NA,"Jan21"
-"11","Hubei","Mainland China",270,6,25,"Jan21"
-"12","Hunan","Mainland China",1,NA,NA,"Jan21"
-"13","Jiangxi","Mainland China",2,NA,NA,"Jan21"
-"14","Jilin","Mainland China",NA,NA,NA,"Jan21"
-"15","Liaoning","Mainland China",NA,NA,NA,"Jan21"
-"16","Ningxia","Mainland China",NA,NA,NA,"Jan21"
-"17","Shandong","Mainland China",1,NA,NA,"Jan21"
-"18","Shanghai","Mainland China",9,NA,NA,"Jan21"
-"19","Sichuan","Mainland China",2,NA,NA,"Jan21"
-"20","Taiwan","Taiwan",1,NA,NA,"Jan21"
-"21","Tianjin","Mainland China",2,NA,NA,"Jan21"
-"22","Yunnan","Mainland China",1,NA,NA,"Jan21"
-"23","Zhejiang","Mainland China",5,NA,NA,"Jan21"
-"24","","Japan",1,NA,NA,"Jan21"
-"25","Washington","US",1,NA,NA,"Jan21"
-"26","","South Korea",1,NA,NA,"Jan21"
-"27","","Thailand",2,NA,NA,"Jan21"
-"28","Anhui","Mainland China",1,NA,NA,"Jan22"
-"29","Beijing","Mainland China",14,NA,NA,"Jan22"
-"30","Chongqing","Mainland China",6,NA,NA,"Jan22"
-"31","Fujian","Mainland China",1,NA,NA,"Jan22"
-"32","Gansu","Mainland China",NA,NA,NA,"Jan22"
-"33","Guangdong","Mainland China",26,NA,NA,"Jan22"
-"34","Guangxi","Mainland China",2,NA,NA,"Jan22"
-"35","Guizhou","Mainland China",1,NA,NA,"Jan22"
-"36","Hainan","Mainland China",4,NA,NA,"Jan22"
-"37","Hebei","Mainland China",1,NA,NA,"Jan22"
-"38","Heilongjiang","Mainland China",NA,NA,NA,"Jan22"
-"39","Henan","Mainland China",5,NA,NA,"Jan22"
-"40","Hong Kong","Hong Kong",NA,NA,NA,"Jan22"
-"41","Hubei","Mainland China",444,17,28,"Jan22"
-"42","Hunan","Mainland China",4,NA,NA,"Jan22"
-"43","Inner Mongolia","Mainland China",NA,NA,NA,"Jan22"
-"44","Jiangsu","Mainland China",1,NA,NA,"Jan22"
-"45","Jiangxi","Mainland China",2,NA,NA,"Jan22"
-"46","Jilin","Mainland China",NA,NA,NA,"Jan22"
-"47","Liaoning","Mainland China",2,NA,NA,"Jan22"
-"48","Macau","Macau",1,NA,NA,"Jan22"
-"49","Ningxia","Mainland China",1,NA,NA,"Jan22"
-"50","Qinghai","Mainland China",NA,NA,NA,"Jan22"
-"51","Shaanxi","Mainland China",NA,NA,NA,"Jan22"
-"52","Shandong","Mainland China",2,NA,NA,"Jan22"
-"53","Shanghai","Mainland China",9,NA,NA,"Jan22"
-"54","Shanxi","Mainland China",1,NA,NA,"Jan22"
-"55","Sichuan","Mainland China",5,NA,NA,"Jan22"
-"56","Taiwan","Taiwan",1,NA,NA,"Jan22"
-"57","Tianjin","Mainland China",4,NA,NA,"Jan22"
-"58","Tibet","Mainland China",NA,NA,NA,"Jan22"
-"59","Washington","US",1,NA,NA,"Jan22"
-"60","Xinjiang","Mainland China",NA,NA,NA,"Jan22"
-"61","Yunnan","Mainland China",1,NA,NA,"Jan22"
-"62","Zhejiang","Mainland China",10,NA,NA,"Jan22"
-"63","","Japan",2,NA,NA,"Jan22"
-"64","","Thailand",2,NA,NA,"Jan22"
-"65","","South Korea",1,NA,NA,"Jan22"
-"66","Anhui","Mainland China",9,NA,NA,"Jan23"
-"67","Beijing","Mainland China",22,NA,NA,"Jan23"
-"68","Chongqing","Mainland China",9,NA,NA,"Jan23"
-"69","Fujian","Mainland China",5,NA,NA,"Jan23"
-"70","Gansu","Mainland China",2,NA,NA,"Jan23"
-"71","Guangdong","Mainland China",32,NA,2,"Jan23"
-"72","Guangxi","Mainland China",5,NA,NA,"Jan23"
-"73","Guizhou","Mainland China",3,NA,NA,"Jan23"
-"74","Hainan","Mainland China",5,NA,NA,"Jan23"
-"75","Hebei","Mainland China",1,1,NA,"Jan23"
-"76","Heilongjiang","Mainland China",2,NA,NA,"Jan23"
-"77","Henan","Mainland China",5,NA,NA,"Jan23"
-"78","Hong Kong","Hong Kong",2,NA,NA,"Jan23"
-"79","Hubei","Mainland China",444,17,28,"Jan23"
-"80","Hunan","Mainland China",9,NA,NA,"Jan23"
-"81","Inner Mongolia","Mainland China",NA,NA,NA,"Jan23"
-"82","Jiangsu","Mainland China",5,NA,NA,"Jan23"
-"83","Jiangxi","Mainland China",7,NA,NA,"Jan23"
-"84","Jilin","Mainland China",1,NA,NA,"Jan23"
-"85","Liaoning","Mainland China",3,NA,NA,"Jan23"
-"86","Macau","Macau",2,NA,NA,"Jan23"
-"87","Ningxia","Mainland China",1,NA,NA,"Jan23"
-"88","Qinghai","Mainland China",NA,NA,NA,"Jan23"
-"89","Shaanxi","Mainland China",3,NA,NA,"Jan23"
-"90","Shandong","Mainland China",6,NA,NA,"Jan23"
-"91","Shanghai","Mainland China",16,NA,NA,"Jan23"
-"92","Shanxi","Mainland China",1,NA,NA,"Jan23"
-"93","Sichuan","Mainland China",8,NA,NA,"Jan23"
-"94","Taiwan","Taiwan",1,NA,NA,"Jan23"
-"95","Tianjin","Mainland China",4,NA,NA,"Jan23"
-"96","Tibet","Mainland China",NA,NA,NA,"Jan23"
-"97","Washington","US",1,NA,NA,"Jan23"
-"98","Xinjiang","Mainland China",2,NA,NA,"Jan23"
-"99","Yunnan","Mainland China",2,NA,NA,"Jan23"
-"100","Zhejiang","Mainland China",27,NA,NA,"Jan23"
-"101","","Japan",1,NA,NA,"Jan23"
-"102","","Thailand",3,NA,NA,"Jan23"
-"103","","South Korea",1,NA,NA,"Jan23"
-"104","","Singapore",1,NA,NA,"Jan23"
-"105","","Philippines",NA,NA,NA,"Jan23"
-"106","","Malaysia",NA,NA,NA,"Jan23"
-"107","","Vietnam",2,NA,NA,"Jan23"
-"108","","Australia",NA,NA,NA,"Jan23"
-"109","","Mexico",NA,NA,NA,"Jan23"
-"110","","Brazil",NA,NA,NA,"Jan23"
-"111","","Colombia",NA,NA,NA,"Jan23"
-"112","Hubei","Mainland China",549,24,31,"Jan24"
-"113","Guangdong","Mainland China",53,NA,2,"Jan24"
-"114","Zhejiang","Mainland China",43,NA,1,"Jan24"
-"115","Beijing","Mainland China",36,NA,1,"Jan24"
-"116","Chongqing","Mainland China",27,NA,NA,"Jan24"
-"117","Hunan","Mainland China",24,NA,NA,"Jan24"
-"118","Guangxi","Mainland China",23,NA,NA,"Jan24"
-"119","Shanghai","Mainland China",20,NA,1,"Jan24"
-"120","Jiangxi","Mainland China",18,NA,NA,"Jan24"
-"121","Sichuan","Mainland China",15,NA,NA,"Jan24"
-"122","Shandong","Mainland China",15,NA,NA,"Jan24"
-"123","Anhui","Mainland China",15,NA,NA,"Jan24"
-"124","Fujian","Mainland China",10,NA,NA,"Jan24"
-"125","Henan","Mainland China",9,NA,NA,"Jan24"
-"126","Jiangsu","Mainland China",9,NA,NA,"Jan24"
-"127","Hainan","Mainland China",8,NA,NA,"Jan24"
-"128","Tianjin","Mainland China",8,NA,NA,"Jan24"
-"129","Yunnan","Mainland China",5,NA,NA,"Jan24"
-"130","Shaanxi","Mainland China",5,NA,NA,"Jan24"
-"131","Heilongjiang","Mainland China",4,1,NA,"Jan24"
-"132","Liaoning","Mainland China",4,NA,NA,"Jan24"
-"133","Guizhou","Mainland China",3,NA,NA,"Jan24"
-"134","Jilin","Mainland China",3,NA,NA,"Jan24"
-"135","Taiwan","Taiwan",3,NA,NA,"Jan24"
-"136","Ningxia","Mainland China",2,NA,NA,"Jan24"
-"137","Hong Kong","Hong Kong",2,NA,NA,"Jan24"
-"138","Macau","Macau",2,NA,NA,"Jan24"
-"139","Hebei","Mainland China",2,1,NA,"Jan24"
-"140","Gansu","Mainland China",2,NA,NA,"Jan24"
-"141","Xinjiang","Mainland China",2,NA,NA,"Jan24"
-"142","Shanxi","Mainland China",1,NA,NA,"Jan24"
-"143","Inner Mongolia","Mainland China",1,NA,NA,"Jan24"
-"144","Qinghai","Mainland China",NA,NA,NA,"Jan24"
-"145","Washington","US",1,NA,NA,"Jan24"
-"146","Chicago","US",1,NA,NA,"Jan24"
-"147","","Japan",2,NA,NA,"Jan24"
-"148","","Thailand",5,NA,NA,"Jan24"
-"149","","South Korea",2,NA,NA,"Jan24"
-"150","","Singapore",3,NA,NA,"Jan24"
-"151","","Vietnam",2,NA,NA,"Jan24"
-"152","","France",2,NA,NA,"Jan24"
-"153","Hubei","Mainland China",1052,52,42,"Jan25"
-"154","Zhejiang","Mainland China",104,NA,1,"Jan25"
-"155","Guangdong","Mainland China",98,NA,2,"Jan25"
-"156","Henan","Mainland China",83,1,NA,"Jan25"
-"157","Chongqing","Mainland China",75,NA,NA,"Jan25"
-"158","Hunan","Mainland China",69,NA,NA,"Jan25"
-"159","Anhui","Mainland China",60,NA,NA,"Jan25"
-"160","Beijing","Mainland China",51,NA,2,"Jan25"
-"161","Sichuan","Mainland China",44,NA,NA,"Jan25"
-"162","Shanghai","Mainland China",40,1,1,"Jan25"
-"163","Shandong","Mainland China",39,NA,NA,"Jan25"
-"164","Jiangxi","Mainland China",36,NA,NA,"Jan25"
-"165","Guangxi","Mainland China",33,NA,NA,"Jan25"
-"166","Jiangsu","Mainland China",31,NA,1,"Jan25"
-"167","Hainan","Mainland China",19,NA,NA,"Jan25"
-"168","Liaoning","Mainland China",19,NA,NA,"Jan25"
-"169","Fujian","Mainland China",18,1,NA,"Jan25"
-"170","Heilongjiang","Mainland China",15,NA,NA,"Jan25"
-"171","Shaanxi","Mainland China",15,NA,NA,"Jan25"
-"172","Tianjin","Mainland China",13,NA,NA,"Jan25"
-"173","Hebei","Mainland China",13,1,NA,"Jan25"
-"174","Yunnan","Mainland China",11,NA,NA,"Jan25"
-"175","Shanxi","Mainland China",9,NA,NA,"Jan25"
-"176","Inner Mongolia","Mainland China",7,NA,NA,"Jan25"
-"177","Gansu","Mainland China",7,NA,NA,"Jan25"
-"178","Guizhou","Mainland China",5,NA,NA,"Jan25"
-"179","Hong Kong","Hong Kong",5,NA,NA,"Jan25"
-"180","Ningxia","Mainland China",4,NA,NA,"Jan25"
-"181","Jilin","Mainland China",4,NA,NA,"Jan25"
-"182","Xinjiang","Mainland China",4,NA,NA,"Jan25"
-"183","Taiwan","Taiwan",3,NA,NA,"Jan25"
-"184","Macau","Macau",2,NA,NA,"Jan25"
-"185","Qinghai","Mainland China",1,NA,NA,"Jan25"
-"186","Washington","US",1,NA,NA,"Jan25"
-"187","Illinois","US",1,NA,NA,"Jan25"
-"188","","Japan",2,NA,NA,"Jan25"
-"189","","Thailand",7,NA,NA,"Jan25"
-"190","","South Korea",3,NA,NA,"Jan25"
-"191","","Singapore",3,NA,NA,"Jan25"
-"192","","Vietnam",2,NA,NA,"Jan25"
-"193","","France",3,NA,NA,"Jan25"
-"194","","Australia",4,NA,NA,"Jan25"
-"195","","Nepal",1,NA,NA,"Jan25"
-"196","","Malaysia",3,NA,NA,"Jan25"
-"197","Hubei","Mainland China",1423,76,44,"Jan26"
-"198","Guangdong","Mainland China",146,NA,2,"Jan26"
-"199","Zhejiang","Mainland China",128,NA,1,"Jan26"
-"200","Henan","Mainland China",128,1,NA,"Jan26"
-"201","Chongqing","Mainland China",110,NA,NA,"Jan26"
-"202","Hunan","Mainland China",100,NA,NA,"Jan26"
-"203","Anhui","Mainland China",70,NA,NA,"Jan26"
-"204","Sichuan","Mainland China",69,NA,NA,"Jan26"
-"205","Beijing","Mainland China",68,NA,2,"Jan26"
-"206","Shandong","Mainland China",63,NA,NA,"Jan26"
-"207","Shanghai","Mainland China",53,1,1,"Jan26"
-"208","Jiangxi","Mainland China",48,NA,NA,"Jan26"
-"209","Jiangsu","Mainland China",47,NA,1,"Jan26"
-"210","Guangxi","Mainland China",46,NA,NA,"Jan26"
-"211","Fujian","Mainland China",35,NA,NA,"Jan26"
-"212","Liaoning","Mainland China",23,NA,NA,"Jan26"
-"213","Hainan","Mainland China",22,NA,NA,"Jan26"
-"214","Shaanxi","Mainland China",22,NA,NA,"Jan26"
-"215","Heilongjiang","Mainland China",21,1,NA,"Jan26"
-"216","Yunnan","Mainland China",19,NA,NA,"Jan26"
-"217","Hebei","Mainland China",18,1,NA,"Jan26"
-"218","Tianjin","Mainland China",14,NA,NA,"Jan26"
-"219","Gansu","Mainland China",14,NA,NA,"Jan26"
-"220","Shanxi","Mainland China",13,NA,NA,"Jan26"
-"221","Inner Mongolia","Mainland China",11,NA,NA,"Jan26"
-"222","Hong Kong","Hong Kong",8,NA,NA,"Jan26"
-"223","Guizhou","Mainland China",7,NA,NA,"Jan26"
-"224","Jilin","Mainland China",6,NA,NA,"Jan26"
-"225","Macau","Macau",6,NA,NA,"Jan26"
-"226","Xinjiang","Mainland China",5,NA,NA,"Jan26"
-"227","Ningxia","Mainland China",4,NA,NA,"Jan26"
-"228","Taiwan","Taiwan",4,NA,NA,"Jan26"
-"229","Qinghai","Mainland China",4,NA,NA,"Jan26"
-"230","Washington","US",1,NA,NA,"Jan26"
-"231","Illinois","US",1,NA,NA,"Jan26"
-"232","California","US",2,NA,NA,"Jan26"
-"233","Arizona","US",1,NA,NA,"Jan26"
-"234","","Japan",4,NA,1,"Jan26"
-"235","","Thailand",8,NA,2,"Jan26"
-"236","","South Korea",3,NA,NA,"Jan26"
-"237","","Singapore",4,NA,NA,"Jan26"
-"238","","Vietnam",2,NA,NA,"Jan26"
-"239","","France",3,NA,NA,"Jan26"
-"240","","Australia",4,NA,NA,"Jan26"
-"241","","Nepal",1,NA,NA,"Jan26"
-"242","","Malaysia",4,NA,NA,"Jan26"
-"243","Ontario","Canada",1,NA,NA,"Jan26"
-"244","Hubei","Mainland China",1423,76,44,"Jan26"
-"245","Guangdong","Mainland China",146,NA,2,"Jan26"
-"246","Zhejiang","Mainland China",128,NA,1,"Jan26"
-"247","Henan","Mainland China",128,1,NA,"Jan26"
-"248","Chongqing","Mainland China",110,NA,NA,"Jan26"
-"249","Hunan","Mainland China",100,NA,NA,"Jan26"
-"250","Anhui","Mainland China",70,NA,NA,"Jan26"
-"251","Sichuan","Mainland China",69,NA,NA,"Jan26"
-"252","Beijing","Mainland China",68,NA,2,"Jan26"
-"253","Shandong","Mainland China",63,NA,NA,"Jan26"
-"254","Shanghai","Mainland China",53,1,1,"Jan26"
-"255","Jiangxi","Mainland China",48,NA,NA,"Jan26"
-"256","Jiangsu","Mainland China",47,NA,1,"Jan26"
-"257","Guangxi","Mainland China",46,NA,NA,"Jan26"
-"258","Fujian","Mainland China",35,NA,NA,"Jan26"
-"259","Liaoning","Mainland China",23,NA,NA,"Jan26"
-"260","Hainan","Mainland China",22,NA,NA,"Jan26"
-"261","Shaanxi","Mainland China",22,NA,NA,"Jan26"
-"262","Heilongjiang","Mainland China",21,1,NA,"Jan26"
-"263","Yunnan","Mainland China",19,NA,NA,"Jan26"
-"264","Hebei","Mainland China",18,1,NA,"Jan26"
-"265","Tianjin","Mainland China",14,NA,NA,"Jan26"
-"266","Gansu","Mainland China",14,NA,NA,"Jan26"
-"267","Shanxi","Mainland China",13,NA,NA,"Jan26"
-"268","Inner Mongolia","Mainland China",11,NA,NA,"Jan26"
-"269","Hong Kong","Hong Kong",8,NA,NA,"Jan26"
-"270","Guizhou","Mainland China",7,NA,NA,"Jan26"
-"271","Jilin","Mainland China",6,NA,NA,"Jan26"
-"272","Macau","Macau",6,NA,NA,"Jan26"
-"273","Xinjiang","Mainland China",5,NA,NA,"Jan26"
-"274","Ningxia","Mainland China",4,NA,NA,"Jan26"
-"275","Taiwan","Taiwan",4,NA,NA,"Jan26"
-"276","Qinghai","Mainland China",4,NA,NA,"Jan26"
-"277","Washington","US",1,NA,NA,"Jan26"
-"278","Illinois","US",1,NA,NA,"Jan26"
-"279","California","US",2,NA,NA,"Jan26"
-"280","Arizona","US",1,NA,NA,"Jan26"
-"281","","Japan",4,NA,1,"Jan26"
-"282","","Thailand",8,NA,2,"Jan26"
-"283","","South Korea",3,NA,NA,"Jan26"
-"284","","Singapore",4,NA,NA,"Jan26"
-"285","","Vietnam",2,NA,NA,"Jan26"
-"286","","France",3,NA,NA,"Jan26"
-"287","","Australia",4,NA,NA,"Jan26"
-"288","","Nepal",1,NA,NA,"Jan26"
-"289","","Malaysia",4,NA,NA,"Jan26"
-"290","Ontario","Canada",1,NA,NA,"Jan26"
-"291","Hubei","Mainland China",1423,76,45,"Jan27"
-"292","Guangdong","Mainland China",151,NA,4,"Jan27"
-"293","Zhejiang","Mainland China",128,NA,1,"Jan27"
-"294","Henan","Mainland China",128,1,NA,"Jan27"
-"295","Chongqing","Mainland China",110,NA,NA,"Jan27"
-"296","Hunan","Mainland China",100,NA,NA,"Jan27"
-"297","Beijing","Mainland China",80,1,2,"Jan27"
-"298","Shandong","Mainland China",75,NA,NA,"Jan27"
-"299","Jiangxi","Mainland China",72,NA,2,"Jan27"
-"300","Anhui","Mainland China",70,NA,NA,"Jan27"
-"301","Sichuan","Mainland China",69,NA,NA,"Jan27"
-"302","Fujian","Mainland China",59,NA,NA,"Jan27"
-"303","Shanghai","Mainland China",53,1,3,"Jan27"
-"304","Jiangsu","Mainland China",47,NA,1,"Jan27"
-"305","Guangxi","Mainland China",46,NA,NA,"Jan27"
-"306","Shaanxi","Mainland China",35,NA,NA,"Jan27"
-"307","Hainan","Mainland China",33,1,NA,"Jan27"
-"308","Liaoning","Mainland China",27,NA,NA,"Jan27"
-"309","Yunnan","Mainland China",26,NA,NA,"Jan27"
-"310","Tianjin","Mainland China",23,NA,NA,"Jan27"
-"311","Heilongjiang","Mainland China",21,1,NA,"Jan27"
-"312","Hebei","Mainland China",18,1,NA,"Jan27"
-"313","Gansu","Mainland China",14,NA,NA,"Jan27"
-"314","Shanxi","Mainland China",13,NA,NA,"Jan27"
-"315","Inner Mongolia","Mainland China",11,NA,NA,"Jan27"
-"316","Hong Kong","Hong Kong",8,NA,NA,"Jan27"
-"317","Guizhou","Mainland China",7,NA,NA,"Jan27"
-"318","Ningxia","Mainland China",7,NA,NA,"Jan27"
-"319","Jilin","Mainland China",6,NA,NA,"Jan27"
-"320","Macau","Macau",6,NA,NA,"Jan27"
-"321","Qinghai","Mainland China",6,NA,NA,"Jan27"
-"322","Taiwan","Taiwan",5,NA,NA,"Jan27"
-"323","Xinjiang","Mainland China",5,NA,NA,"Jan27"
-"324","Washington","US",1,NA,NA,"Jan27"
-"325","Illinois","US",1,NA,NA,"Jan27"
-"326","California","US",2,NA,NA,"Jan27"
-"327","Arizona","US",1,NA,NA,"Jan27"
-"328","","Japan",4,NA,1,"Jan27"
-"329","","Thailand",8,NA,2,"Jan27"
-"330","","South Korea",4,NA,NA,"Jan27"
-"331","","Singapore",5,NA,NA,"Jan27"
-"332","","Vietnam",2,NA,NA,"Jan27"
-"333","","France",3,NA,NA,"Jan27"
-"334","","Nepal",1,NA,NA,"Jan27"
-"335","","Malaysia",4,NA,NA,"Jan27"
-"336","Ontario","Canada",1,NA,NA,"Jan27"
-"337","","Cambodia",1,NA,NA,"Jan27"
-"338","","Sri Lanka",1,NA,NA,"Jan27"
-"339","","Ivory Coast",1,NA,NA,"Jan27"
-"340","New South Wales","Australia",4,NA,NA,"Jan27"
-"341","Victoria","Australia",1,NA,NA,"Jan27"
-"342","Hubei","Mainland China",3554,125,80,"Jan28"
-"343","Zhejiang","Mainland China",296,NA,3,"Jan28"
-"344","Guangdong","Mainland China",241,NA,5,"Jan28"
-"345","Hunan","Mainland China",221,NA,NA,"Jan28"
-"346","Henan","Mainland China",206,2,1,"Jan28"
-"347","Anhui","Mainland China",152,NA,NA,"Jan28"
-"348","Chongqing","Mainland China",147,NA,1,"Jan28"
-"349","Shandong","Mainland China",121,NA,NA,"Jan28"
-"350","Jiangxi","Mainland China",109,NA,3,"Jan28"
-"351","Sichuan","Mainland China",108,NA,NA,"Jan28"
-"352","Jiangsu","Mainland China",99,NA,1,"Jan28"
-"353","Beijing","Mainland China",91,1,4,"Jan28"
-"354","Fujian","Mainland China",82,NA,NA,"Jan28"
-"355","Shanghai","Mainland China",80,1,4,"Jan28"
-"356","Guangxi","Mainland China",58,NA,2,"Jan28"
-"357","Shaanxi","Mainland China",56,NA,NA,"Jan28"
-"358","Hebei","Mainland China",48,1,NA,"Jan28"
-"359","Yunnan","Mainland China",44,NA,NA,"Jan28"
-"360","Hainan","Mainland China",43,1,NA,"Jan28"
-"361","Heilongjiang","Mainland China",37,1,NA,"Jan28"
-"362","Liaoning","Mainland China",36,NA,NA,"Jan28"
-"363","Shanxi","Mainland China",27,NA,NA,"Jan28"
-"364","Tianjin","Mainland China",25,NA,NA,"Jan28"
-"365","Gansu","Mainland China",24,NA,NA,"Jan28"
-"366","Inner Mongolia","Mainland China",16,NA,NA,"Jan28"
-"367","Xinjiang","Mainland China",13,NA,NA,"Jan28"
-"368","Ningxia","Mainland China",12,NA,NA,"Jan28"
-"369","Guizhou","Mainland China",9,NA,NA,"Jan28"
-"370","Jilin","Mainland China",9,NA,NA,"Jan28"
-"371","Hong Kong","Hong Kong",8,NA,NA,"Jan28"
-"372","Taiwan","Taiwan",8,NA,NA,"Jan28"
-"373","Macau","Macau",7,NA,NA,"Jan28"
-"374","Qinghai","Mainland China",6,NA,NA,"Jan28"
-"375","Washington","US",1,NA,NA,"Jan28"
-"376","Illinois","US",1,NA,NA,"Jan28"
-"377","California","US",2,NA,NA,"Jan28"
-"378","Arizona","US",1,NA,NA,"Jan28"
-"379","","Japan",7,NA,1,"Jan28"
-"380","","Thailand",14,NA,5,"Jan28"
-"381","","South Korea",4,NA,NA,"Jan28"
-"382","","Singapore",7,NA,NA,"Jan28"
-"383","","Vietnam",2,NA,NA,"Jan28"
-"384","","France",4,NA,NA,"Jan28"
-"385","","Nepal",1,NA,NA,"Jan28"
-"386","","Malaysia",7,NA,NA,"Jan28"
-"387","Ontario","Canada",1,NA,NA,"Jan28"
-"388","British Columbia","Canada",1,NA,NA,"Jan28"
-"389","","Cambodia",1,NA,NA,"Jan28"
-"390","","Sri Lanka",1,NA,NA,"Jan28"
-"391","New South Wales","Australia",4,NA,NA,"Jan28"
-"392","Victoria","Australia",1,NA,NA,"Jan28"
-"393","Bavaria","Germany",4,NA,NA,"Jan28"
-"394","Hubei","Mainland China",4586,162,90,"Jan29"
-"395","Zhejiang","Mainland China",428,NA,4,"Jan29"
-"396","Guangdong","Mainland China",311,NA,6,"Jan29"
-"397","Henan","Mainland China",278,2,2,"Jan29"
-"398","Hunan","Mainland China",277,NA,NA,"Jan29"
-"399","Anhui","Mainland China",200,NA,2,"Jan29"
-"400","Chongqing","Mainland China",165,NA,1,"Jan29"
-"401","Jiangxi","Mainland China",162,NA,4,"Jan29"
-"402","Shandong","Mainland China",145,NA,1,"Jan29"
-"403","Sichuan","Mainland China",142,1,1,"Jan29"
-"404","Jiangsu","Mainland China",129,NA,1,"Jan29"
-"405","Beijing","Mainland China",111,1,4,"Jan29"
-"406","Shanghai","Mainland China",101,1,5,"Jan29"
-"407","Fujian","Mainland China",101,NA,NA,"Jan29"
-"408","Guangxi","Mainland China",78,NA,2,"Jan29"
-"409","Hebei","Mainland China",65,1,NA,"Jan29"
-"410","Shaanxi","Mainland China",56,NA,NA,"Jan29"
-"411","Yunnan","Mainland China",55,NA,NA,"Jan29"
-"412","Hainan","Mainland China",43,1,NA,"Jan29"
-"413","Heilongjiang","Mainland China",43,1,NA,"Jan29"
-"414","Liaoning","Mainland China",39,NA,1,"Jan29"
-"415","Shanxi","Mainland China",35,NA,1,"Jan29"
-"416","Tianjin","Mainland China",27,NA,NA,"Jan29"
-"417","Gansu","Mainland China",26,NA,NA,"Jan29"
-"418","Inner Mongolia","Mainland China",16,NA,NA,"Jan29"
-"419","Jilin","Mainland China",14,NA,1,"Jan29"
-"420","Xinjiang","Mainland China",14,NA,NA,"Jan29"
-"421","Guizhou","Mainland China",12,NA,1,"Jan29"
-"422","Ningxia","Mainland China",12,NA,NA,"Jan29"
-"423","Hong Kong","Hong Kong",10,NA,NA,"Jan29"
-"424","Taiwan","Taiwan",8,NA,NA,"Jan29"
-"425","Macau","Macau",7,NA,NA,"Jan29"
-"426","Qinghai","Mainland China",6,NA,NA,"Jan29"
-"427","Tibet","Mainland China",1,NA,NA,"Jan29"
-"428","Washington","US",1,NA,NA,"Jan29"
-"429","Illinois","US",1,NA,NA,"Jan29"
-"430","California","US",2,NA,NA,"Jan29"
-"431","Arizona","US",1,NA,NA,"Jan29"
-"432","","Japan",11,NA,1,"Jan29"
-"433","","Thailand",14,NA,5,"Jan29"
-"434","","South Korea",4,NA,NA,"Jan29"
-"435","","Singapore",10,NA,NA,"Jan29"
-"436","","Vietnam",2,NA,NA,"Jan29"
-"437","","France",5,NA,NA,"Jan29"
-"438","","Nepal",1,NA,NA,"Jan29"
-"439","","Malaysia",7,NA,NA,"Jan29"
-"440","Ontario","Canada",2,NA,NA,"Jan29"
-"441","British Columbia","Canada",1,NA,NA,"Jan29"
-"442","","Cambodia",1,NA,NA,"Jan29"
-"443","","Sri Lanka",1,NA,NA,"Jan29"
-"444","New South Wales","Australia",4,NA,NA,"Jan29"
-"445","Victoria","Australia",2,NA,NA,"Jan29"
-"446","Queensland","Australia",1,NA,NA,"Jan29"
-"447","Bavaria","Germany",4,NA,NA,"Jan29"
-"448","","Finland",1,NA,NA,"Jan29"
-"449","","United Arab Emirates",4,NA,NA,"Jan29"
-"450","Hubei","Mainland China",5806,204,116,"Jan30"
-"451","Zhejiang","Mainland China",537,NA,9,"Jan30"
-"452","Guangdong","Mainland China",393,NA,11,"Jan30"
-"453","Henan","Mainland China",352,2,3,"Jan30"
-"454","Hunan","Mainland China",332,NA,2,"Jan30"
-"455","Jiangxi","Mainland China",240,NA,7,"Jan30"
-"456","Anhui","Mainland China",237,NA,3,"Jan30"
-"457","Chongqing","Mainland China",206,NA,1,"Jan30"
-"458","Shandong","Mainland China",178,NA,2,"Jan30"
-"459","Sichuan","Mainland China",177,1,1,"Jan30"
-"460","Jiangsu","Mainland China",168,NA,2,"Jan30"
-"461","Shanghai","Mainland China",128,1,9,"Jan30"
-"462","Beijing","Mainland China",121,1,5,"Jan30"
-"463","Fujian","Mainland China",101,NA,NA,"Jan30"
-"464","Guangxi","Mainland China",87,NA,2,"Jan30"
-"465","Hebei","Mainland China",82,1,NA,"Jan30"
-"466","Yunnan","Mainland China",76,NA,NA,"Jan30"
-"467","Shaanxi","Mainland China",87,NA,NA,"Jan30"
-"468","Heilongjiang","Mainland China",59,2,NA,"Jan30"
-"469","Hainan","Mainland China",50,1,1,"Jan30"
-"470","Liaoning","Mainland China",45,NA,1,"Jan30"
-"471","Shanxi","Mainland China",39,NA,1,"Jan30"
-"472","Tianjin","Mainland China",32,NA,NA,"Jan30"
-"473","Gansu","Mainland China",29,NA,NA,"Jan30"
-"474","Ningxia","Mainland China",21,NA,1,"Jan30"
-"475","Inner Mongolia","Mainland China",20,NA,NA,"Jan30"
-"476","Xinjiang","Mainland China",17,NA,NA,"Jan30"
-"477","Guizhou","Mainland China",15,NA,1,"Jan30"
-"478","Jilin","Mainland China",14,NA,1,"Jan30"
-"479","Hong Kong","Hong Kong",12,NA,NA,"Jan30"
-"480","Taiwan","Taiwan",9,NA,NA,"Jan30"
-"481","Qinghai","Mainland China",8,NA,NA,"Jan30"
-"482","Macau","Macau",7,NA,NA,"Jan30"
-"483","Tibet","Mainland China",1,NA,NA,"Jan30"
-"484","Washington","US",1,NA,NA,"Jan30"
-"485","Illinois","US",2,NA,NA,"Jan30"
-"486","California","US",2,NA,NA,"Jan30"
-"487","Arizona","US",1,NA,NA,"Jan30"
-"488","","Japan",11,NA,1,"Jan30"
-"489","","Thailand",14,NA,5,"Jan30"
-"490","","South Korea",6,NA,NA,"Jan30"
-"491","","Singapore",10,NA,NA,"Jan30"
-"492","","Vietnam",2,NA,NA,"Jan30"
-"493","","France",5,NA,NA,"Jan30"
-"494","","Nepal",1,NA,NA,"Jan30"
-"495","","Malaysia",8,NA,NA,"Jan30"
-"496","Ontario","Canada",2,NA,NA,"Jan30"
-"497","British Columbia","Canada",1,NA,NA,"Jan30"
-"498","","Cambodia",1,NA,NA,"Jan30"
-"499","","Sri Lanka",1,NA,NA,"Jan30"
-"500","New South Wales","Australia",4,NA,2,"Jan30"
-"501","Victoria","Australia",2,NA,NA,"Jan30"
-"502","Queensland","Australia",3,NA,NA,"Jan30"
-"503","Bavaria","Germany",4,NA,NA,"Jan30"
-"504","","Finland",1,NA,NA,"Jan30"
-"505","","United Arab Emirates",4,NA,NA,"Jan30"
-"506","","Philippines",1,NA,NA,"Jan30"
-"507","","India",1,NA,NA,"Jan30"
-"508","","Italy",2,NA,NA,"Jan30"
-"509","Hubei","Mainland China",5806,204,141,"Jan31"
-"510","Zhejiang","Mainland China",538,NA,14,"Jan31"
-"511","Guangdong","Mainland China",436,NA,11,"Jan31"
-"512","Henan","Mainland China",352,2,3,"Jan31"
-"513","Hunan","Mainland China",332,NA,2,"Jan31"
-"514","Jiangxi","Mainland China",240,NA,7,"Jan31"
-"515","Anhui","Mainland China",237,NA,3,"Jan31"
-"516","Chongqing","Mainland China",211,NA,1,"Jan31"
-"517","Shandong","Mainland China",184,NA,2,"Jan31"
-"518","Sichuan","Mainland China",177,1,1,"Jan31"
-"519","Jiangsu","Mainland China",168,NA,5,"Jan31"
-"520","Beijing","Mainland China",139,1,5,"Jan31"
-"521","Shanghai","Mainland China",135,1,9,"Jan31"
-"522","Fujian","Mainland China",120,NA,NA,"Jan31"
-"523","Guangxi","Mainland China",87,NA,2,"Jan31"
-"524","Shaanxi","Mainland China",87,NA,NA,"Jan31"
-"525","Yunnan","Mainland China",83,NA,1,"Jan31"
-"526","Hebei","Mainland China",82,1,NA,"Jan31"
-"527","Heilongjiang","Mainland China",59,2,NA,"Jan31"
-"528","Hainan","Mainland China",52,1,1,"Jan31"
-"529","Liaoning","Mainland China",48,NA,1,"Jan31"
-"530","Shanxi","Mainland China",39,NA,1,"Jan31"
-"531","Tianjin","Mainland China",32,NA,NA,"Jan31"
-"532","Guizhou","Mainland China",29,NA,2,"Jan31"
-"533","Gansu","Mainland China",29,NA,NA,"Jan31"
-"534","Ningxia","Mainland China",21,NA,NA,"Jan31"
-"535","Inner Mongolia","Mainland China",20,NA,1,"Jan31"
-"536","Xinjiang","Mainland China",17,NA,NA,"Jan31"
-"537","Jilin","Mainland China",14,NA,1,"Jan31"
-"538","Hong Kong","Hong Kong",12,NA,NA,"Jan31"
-"539","Taiwan","Taiwan",10,NA,NA,"Jan31"
-"540","Qinghai","Mainland China",8,NA,NA,"Jan31"
-"541","Macau","Macau",7,NA,NA,"Jan31"
-"542","Tibet","Mainland China",1,NA,NA,"Jan31"
-"543","","Thailand",19,NA,5,"Jan31"
-"544","","Japan",15,NA,1,"Jan31"
-"545","","Singapore",13,NA,NA,"Jan31"
-"546","","South Korea",11,NA,NA,"Jan31"
-"547","","Malaysia",8,NA,NA,"Jan31"
-"548","","France",5,NA,NA,"Jan31"
-"549","Bavaria","Germany",5,NA,NA,"Jan31"
-"550","New South Wales","Australia",4,NA,2,"Jan31"
-"551","","United Arab Emirates",4,NA,NA,"Jan31"
-"552","Victoria","Australia",3,NA,NA,"Jan31"
-"553","Illinois","US",2,NA,NA,"Jan31"
-"554","California","US",2,NA,NA,"Jan31"
-"555","","Vietnam",2,NA,NA,"Jan31"
-"556","Ontario","Canada",2,NA,NA,"Jan31"
-"557","Queensland","Australia",2,NA,NA,"Jan31"
-"558","","Italy",2,NA,NA,"Jan31"
-"559","","UK",2,NA,NA,"Jan31"
-"560","","Russia",2,NA,NA,"Jan31"
-"561","Washington","US",1,NA,NA,"Jan31"
-"562","Arizona","US",1,NA,NA,"Jan31"
-"563","","Nepal",1,NA,NA,"Jan31"
-"564","British Columbia","Canada",1,NA,NA,"Jan31"
-"565","","Cambodia",1,NA,NA,"Jan31"
-"566","","Sri Lanka",1,NA,NA,"Jan31"
-"567","","Finland",1,NA,NA,"Jan31"
-"568","","Philippines",1,NA,NA,"Jan31"
-"569","","India",1,NA,NA,"Jan31"
-"570","","Sweden",1,NA,NA,"Jan31"
-"571","Hubei","Mainland China",9074,294,215,"feb1"
-"572","Zhejiang","Mainland China",661,0,23,"feb1"
-"573","Guangdong","Mainland China",604,0,14,"feb1"
-"574","Henan","Mainland China",493,2,4,"feb1"
-"575","Hunan","Mainland China",463,0,8,"feb1"
-"576","Anhui","Mainland China",340,0,5,"feb1"
-"577","Jiangxi","Mainland China",333,0,10,"feb1"
-"578","Chongqing","Mainland China",262,1,3,"feb1"
-"579","Jiangsu","Mainland China",236,0,6,"feb1"
-"580","Sichuan","Mainland China",231,1,3,"feb1"
-"581","Shandong","Mainland China",225,0,5,"feb1"
-"582","Beijing","Mainland China",183,1,9,"feb1"
-"583","Shanghai","Mainland China",177,1,10,"feb1"
-"584","Fujian","Mainland China",159,0,0,"feb1"
-"585","Shaanxi","Mainland China",116,0,0,"feb1"
-"586","Guangxi","Mainland China",111,0,2,"feb1"
-"587","Hebei","Mainland China",104,1,3,"feb1"
-"588","Heilongjiang","Mainland China",95,2,2,"feb1"
-"589","Yunnan","Mainland China",93,0,2,"feb1"
-"590","Liaoning","Mainland China",64,0,1,"feb1"
-"591","Hainan","Mainland China",63,1,1,"feb1"
-"592","Shanxi","Mainland China",56,0,1,"feb1"
-"593","Tianjin","Mainland China",45,0,0,"feb1"
-"594","Gansu","Mainland China",40,0,0,"feb1"
-"595","Guizhou","Mainland China",38,0,2,"feb1"
-"596","Ningxia","Mainland China",28,0,0,"feb1"
-"597","Inner Mongolia","Mainland China",27,0,1,"feb1"
-"598","Jilin","Mainland China",23,0,1,"feb1"
-"599","Xinjiang","Mainland China",21,0,0,"feb1"
-"600","","Japan",20,0,1,"feb1"
-"601","","Thailand",19,0,5,"feb1"
-"602","","Singapore",18,0,0,"feb1"
-"603","","South Korea",15,0,0,"feb1"
-"604","Hong Kong","Hong Kong",14,0,0,"feb1"
-"605","Taiwan","Taiwan",10,0,0,"feb1"
-"606","Qinghai","Mainland China",9,0,0,"feb1"
-"607","","Germany",8,0,0,"feb1"
-"608","","Malaysia",8,0,0,"feb1"
-"609","Macau","Macau",7,0,0,"feb1"
-"610","","France",6,0,0,"feb1"
-"611","","Vietnam",6,0,1,"feb1"
-"612","New South Wales","Australia",4,0,2,"feb1"
-"613","Victoria","Australia",4,0,0,"feb1"
-"614","","United Arab Emirates",4,0,0,"feb1"
-"615","Queensland","Australia",2,0,0,"feb1"
-"616","Ontario","Canada",3,0,0,"feb1"
-"617","","Italy",2,0,0,"feb1"
-"618","","Philippines",2,1,0,"feb1"
-"619","","Russia",2,0,0,"feb1"
-"620","","UK",2,0,0,"feb1"
-"621","Chicago, IL","US",2,0,0,"feb1"
-"622","South Australia","Australia",2,0,0,"feb1"
-"623","","Cambodia",1,0,0,"feb1"
-"624","British Columbia","Canada",1,0,0,"feb1"
-"625","","Finland",1,0,0,"feb1"
-"626","","India",1,0,0,"feb1"
-"627","Tibet","Mainland China",1,0,0,"feb1"
-"628","","Nepal",1,0,0,"feb1"
-"629","","Spain",1,0,0,"feb1"
-"630","","Sri Lanka",1,0,0,"feb1"
-"631","","Sweden",1,0,0,"feb1"
-"632","Boston, MA","US",1,0,0,"feb1"
-"633","Los Angeles, CA","US",1,0,0,"feb1"
-"634","Orange, CA","US",1,0,0,"feb1"
-"635","Santa Clara, CA","US",1,0,0,"feb1"
-"636","Seattle, WA","US",1,0,0,"feb1"
-"637","Tempe, AZ","US",1,0,0,"feb1"
-"638","Hubei","Mainland China",11177,350,295,"feb2"
-"639","Zhejiang","Mainland China",724,0,36,"feb2"
-"640","Guangdong","Mainland China",683,0,15,"feb2"
-"641","Henan","Mainland China",566,2,14,"feb2"
-"642","Hunan","Mainland China",521,0,16,"feb2"
-"643","Anhui","Mainland China",408,0,7,"feb2"
-"644","Jiangxi","Mainland China",391,0,18,"feb2"
-"645","Chongqing","Mainland China",300,2,7,"feb2"
-"646","Jiangsu","Mainland China",271,0,7,"feb2"
-"647","Sichuan","Mainland China",254,1,12,"feb2"
-"648","Shandong","Mainland China",246,0,6,"feb2"
-"649","Shanghai","Mainland China",193,1,10,"feb2"
-"650","Beijing","Mainland China",191,1,9,"feb2"
-"651","Fujian","Mainland China",159,0,0,"feb2"
-"652","Guangxi","Mainland China",127,0,2,"feb2"
-"653","Shaanxi","Mainland China",116,0,0,"feb2"
-"654","Hebei","Mainland China",113,1,3,"feb2"
-"655","Yunnan","Mainland China",105,0,3,"feb2"
-"656","Heilongjiang","Mainland China",95,2,2,"feb2"
-"657","Hainan","Mainland China",71,1,4,"feb2"
-"658","Liaoning","Mainland China",70,0,1,"feb2"
-"659","Shanxi","Mainland China",66,0,3,"feb2"
-"660","Gansu","Mainland China",51,0,3,"feb2"
-"661","Tianjin","Mainland China",48,0,1,"feb2"
-"662","Guizhou","Mainland China",46,0,2,"feb2"
-"663","Jilin","Mainland China",31,0,1,"feb2"
-"664","Ningxia","Mainland China",28,0,0,"feb2"
-"665","Inner Mongolia","Mainland China",27,0,1,"feb2"
-"666","Xinjiang","Mainland China",24,0,0,"feb2"
-"667","","Japan",20,0,1,"feb2"
-"668","","Thailand",19,0,5,"feb2"
-"669","","Singapore",18,0,0,"feb2"
-"670","Hong Kong","Hong Kong",15,0,0,"feb2"
-"671","","South Korea",15,0,0,"feb2"
-"672","Qinghai","Mainland China",11,0,0,"feb2"
-"673","","Germany",10,0,0,"feb2"
-"674","Taiwan","Taiwan",10,0,0,"feb2"
-"675","Macau","Macau",8,0,0,"feb2"
-"676","","Malaysia",8,0,0,"feb2"
-"677","","France",6,0,0,"feb2"
-"678","","Vietnam",6,0,1,"feb2"
-"679","","United Arab Emirates",5,0,0,"feb2"
-"680","New South Wales","Australia",4,0,2,"feb2"
-"681","Victoria","Australia",4,0,0,"feb2"
-"682","Ontario","Canada",3,0,0,"feb2"
-"683","Queensland","Australia",2,0,0,"feb2"
-"684","South Australia","Australia",2,0,0,"feb2"
-"685","","India",2,0,0,"feb2"
-"686","","Italy",2,0,0,"feb2"
-"687","","Philippines",2,1,0,"feb2"
-"688","","Russia",2,0,0,"feb2"
-"689","","UK",2,0,0,"feb2"
-"690","Chicago, IL","US",2,0,0,"feb2"
-"691","Santa Clara, CA","US",2,0,0,"feb2"
-"692","","Cambodia",1,0,0,"feb2"
-"693","British Columbia","Canada",1,0,0,"feb2"
-"694","","Finland",1,0,0,"feb2"
-"695","Tibet","Mainland China",1,0,0,"feb2"
-"696","","Nepal",1,0,0,"feb2"
-"697","","Spain",1,0,0,"feb2"
-"698","","Sri Lanka",1,0,0,"feb2"
-"699","","Sweden",1,0,0,"feb2"
-"700","Boston, MA","US",1,0,0,"feb2"
-"701","Los Angeles, CA","US",1,0,0,"feb2"
-"702","Orange, CA","US",1,0,0,"feb2"
-"703","Seattle, WA","US",1,0,0,"feb2"
-"704","Tempe, AZ","US",1,0,0,"feb2"
-"705","Hubei","Mainland China",13522,414,396,"feb3"
-"706","Zhejiang","Mainland China",829,0,48,"feb3"
-"707","Guangdong","Mainland China",797,0,21,"feb3"
-"708","Henan","Mainland China",675,2,20,"feb3"
-"709","Hunan","Mainland China",593,0,22,"feb3"
-"710","Anhui","Mainland China",480,0,14,"feb3"
-"711","Jiangxi","Mainland China",476,0,19,"feb3"
-"712","Chongqing","Mainland China",337,2,9,"feb3"
-"713","Jiangsu","Mainland China",308,0,8,"feb3"
-"714","Sichuan","Mainland China",282,1,14,"feb3"
-"715","Shandong","Mainland China",270,0,7,"feb3"
-"716","Beijing","Mainland China",212,1,12,"feb3"
-"717","Shanghai","Mainland China",208,1,10,"feb3"
-"718","Fujian","Mainland China",179,0,1,"feb3"
-"719","Heilongjiang","Mainland China",155,2,2,"feb3"
-"720","Shaanxi","Mainland China",142,0,1,"feb3"
-"721","Guangxi","Mainland China",139,0,7,"feb3"
-"722","Hebei","Mainland China",126,1,3,"feb3"
-"723","Yunnan","Mainland China",117,0,5,"feb3"
-"724","Hainan","Mainland China",79,1,4,"feb3"
-"725","Liaoning","Mainland China",74,0,1,"feb3"
-"726","Shanxi","Mainland China",74,0,2,"feb3"
-"727","Tianjin","Mainland China",60,0,1,"feb3"
-"728","Guizhou","Mainland China",56,0,2,"feb3"
-"729","Gansu","Mainland China",55,0,3,"feb3"
-"730","Jilin","Mainland China",42,0,1,"feb3"
-"731","Inner Mongolia","Mainland China",34,0,1,"feb3"
-"732","Ningxia","Mainland China",34,0,1,"feb3"
-"733","Xinjiang","Mainland China",29,0,0,"feb3"
-"734","","Japan",20,0,1,"feb3"
-"735","","Thailand",19,0,5,"feb3"
-"736","","Singapore",18,0,0,"feb3"
-"737","Hong Kong","Hong Kong",15,0,0,"feb3"
-"738","Qinghai","Mainland China",15,0,0,"feb3"
-"739","","South Korea",15,0,0,"feb3"
-"740","","Germany",12,0,0,"feb3"
-"741","Taiwan","Taiwan",10,0,0,"feb3"
-"742","Macau","Macau",8,0,0,"feb3"
-"743","","Malaysia",8,0,0,"feb3"
-"744","","Vietnam",8,0,1,"feb3"
-"745","","France",6,0,0,"feb3"
-"746","","United Arab Emirates",5,0,0,"feb3"
-"747","New South Wales","Australia",4,0,2,"feb3"
-"748","Victoria","Australia",4,0,0,"feb3"
-"749","","India",3,0,0,"feb3"
-"750","Queensland","Australia",2,0,0,"feb3"
-"751","South Australia","Australia",2,0,0,"feb3"
-"752","Toronto, ON","Canada",2,0,0,"feb3"
-"753","","Italy",2,0,0,"feb3"
-"754","","Philippines",2,1,0,"feb3"
-"755","","Russia",2,0,0,"feb3"
-"756","","UK",2,0,0,"feb3"
-"757","Chicago, IL","US",2,0,0,"feb3"
-"758","San Benito, CA","US",2,0,0,"feb3"
-"759","Santa Clara, CA","US",2,0,0,"feb3"
-"760","","Cambodia",1,0,0,"feb3"
-"761","British Columbia","Canada",1,0,0,"feb3"
-"762","London, ON","Canada",1,0,0,"feb3"
-"763","","Finland",1,0,0,"feb3"
-"764","Tibet","Mainland China",1,0,0,"feb3"
-"765","","Nepal",1,0,0,"feb3"
-"766","","Spain",1,0,0,"feb3"
-"767","","Sri Lanka",1,0,0,"feb3"
-"768","","Sweden",1,0,0,"feb3"
-"769","Boston, MA","US",1,0,0,"feb3"
-"770","Los Angeles, CA","US",1,0,0,"feb3"
-"771","Orange, CA","US",1,0,0,"feb3"
-"772","Seattle, WA","US",1,0,0,"feb3"
-"773","Tempe, AZ","US",1,0,0,"feb3"
-"774","Hubei","Mainland China",16678,479,522,"feb4"
-"775","Zhejiang","Mainland China",895,0,63,"feb4"
-"776","Guangdong","Mainland China",870,0,32,"feb4"
-"777","Henan","Mainland China",764,2,41,"feb4"
-"778","Hunan","Mainland China",661,0,35,"feb4"
-"779","Jiangxi","Mainland China",548,0,27,"feb4"
-"780","Anhui","Mainland China",530,0,20,"feb4"
-"781","Chongqing","Mainland China",366,2,14,"feb4"
-"782","Jiangsu","Mainland China",341,0,13,"feb4"
-"783","Sichuan","Mainland China",301,1,23,"feb4"
-"784","Shandong","Mainland China",298,0,13,"feb4"
-"785","Shanghai","Mainland China",233,1,12,"feb4"
-"786","Beijing","Mainland China",228,1,23,"feb4"
-"787","Fujian","Mainland China",194,0,3,"feb4"
-"788","Heilongjiang","Mainland China",190,2,4,"feb4"
-"789","Shaanxi","Mainland China",165,0,2,"feb4"
-"790","Guangxi","Mainland China",150,0,10,"feb4"
-"791","Hebei","Mainland China",135,1,4,"feb4"
-"792","Yunnan","Mainland China",122,0,5,"feb4"
-"793","Hainan","Mainland China",91,1,4,"feb4"
-"794","Liaoning","Mainland China",81,0,2,"feb4"
-"795","Shanxi","Mainland China",81,0,4,"feb4"
-"796","Tianjin","Mainland China",67,0,2,"feb4"
-"797","Guizhou","Mainland China",64,0,5,"feb4"
-"798","Gansu","Mainland China",57,0,4,"feb4"
-"799","Jilin","Mainland China",54,0,1,"feb4"
-"800","Inner Mongolia","Mainland China",42,0,1,"feb4"
-"801","Ningxia","Mainland China",34,0,1,"feb4"
-"802","Xinjiang","Mainland China",32,0,0,"feb4"
-"803","","Thailand",25,0,5,"feb4"
-"804","","Singapore",24,0,0,"feb4"
-"805","","Japan",22,0,1,"feb4"
-"806","Hong Kong","Hong Kong",18,1,0,"feb4"
-"807","Qinghai","Mainland China",17,0,0,"feb4"
-"808","","South Korea",16,0,0,"feb4"
-"809","","Germany",12,0,0,"feb4"
-"810","Taiwan","Taiwan",11,0,0,"feb4"
-"811","Macau","Macau",10,0,0,"feb4"
-"812","","Malaysia",10,0,0,"feb4"
-"813","","Vietnam",8,0,1,"feb4"
-"814","","France",6,0,0,"feb4"
-"815","","United Arab Emirates",5,0,0,"feb4"
-"816","New South Wales","Australia",4,0,2,"feb4"
-"817","Victoria","Australia",4,0,0,"feb4"
-"818","Queensland","Australia",3,0,0,"feb4"
-"819","","India",3,0,0,"feb4"
-"820","South Australia","Australia",2,0,0,"feb4"
-"821","Toronto, ON","Canada",2,0,0,"feb4"
-"822","","Italy",2,0,0,"feb4"
-"823","","Philippines",2,1,0,"feb4"
-"824","","Russia",2,0,0,"feb4"
-"825","","UK",2,0,0,"feb4"
-"826","Chicago, IL","US",2,0,0,"feb4"
-"827","San Benito, CA","US",2,0,0,"feb4"
-"828","Santa Clara, CA","US",2,0,0,"feb4"
-"829","","Belgium",1,0,0,"feb4"
-"830","","Cambodia",1,0,0,"feb4"
-"831","British Columbia","Canada",1,0,0,"feb4"
-"832","London, ON","Canada",1,0,0,"feb4"
-"833","","Finland",1,0,0,"feb4"
-"834","Tibet","Mainland China",1,0,0,"feb4"
-"835","","Nepal",1,0,0,"feb4"
-"836","","Spain",1,0,0,"feb4"
-"837","","Sri Lanka",1,0,0,"feb4"
-"838","","Sweden",1,0,0,"feb4"
-"839","Boston, MA","US",1,0,0,"feb4"
-"840","Los Angeles, CA","US",1,0,0,"feb4"
-"841","Orange, CA","US",1,0,0,"feb4"
-"842","Seattle, WA","US",1,0,0,"feb4"
-"843","Tempe, AZ","US",1,0,0,"feb4"
-"844","Hubei","Mainland China",16678,479,538,"feb5"
-"845","Guangdong","Mainland China",895,0,49,"feb5"
-"846","Zhejiang","Mainland China",895,0,78,"feb5"
-"847","Henan","Mainland China",764,2,47,"feb5"
-"848","Hunan","Mainland China",661,0,54,"feb5"
-"849","Jiangxi","Mainland China",548,0,27,"feb5"
-"850","Anhui","Mainland China",530,0,23,"feb5"
-"851","Chongqing","Mainland China",376,2,15,"feb5"
-"852","Jiangsu","Mainland China",341,0,23,"feb5"
-"853","Shandong","Mainland China",307,0,15,"feb5"
-"854","Sichuan","Mainland China",301,1,24,"feb5"
-"855","Beijing","Mainland China",253,1,24,"feb5"
-"856","Shanghai","Mainland China",243,1,15,"feb5"
-"857","Fujian","Mainland China",205,0,11,"feb5"
-"858","Heilongjiang","Mainland China",190,2,7,"feb5"
-"859","Shaanxi","Mainland China",165,0,6,"feb5"
-"860","Guangxi","Mainland China",150,0,13,"feb5"
-"861","Hebei","Mainland China",135,1,6,"feb5"
-"862","Yunnan","Mainland China",124,0,5,"feb5"
-"863","Hainan","Mainland China",99,1,5,"feb5"
-"864","Liaoning","Mainland China",89,0,4,"feb5"
-"865","Shanxi","Mainland China",81,0,5,"feb5"
-"866","Tianjin","Mainland China",69,1,2,"feb5"
-"867","Guizhou","Mainland China",64,1,9,"feb5"
-"868","Gansu","Mainland China",62,0,6,"feb5"
-"869","Jilin","Mainland China",54,0,2,"feb5"
-"870","Inner Mongolia","Mainland China",42,0,3,"feb5"
-"871","Ningxia","Mainland China",34,0,1,"feb5"
-"872","Xinjiang","Mainland China",32,0,0,"feb5"
-"873","","Singapore",28,0,0,"feb5"
-"874","","Thailand",25,0,5,"feb5"
-"875","","Japan",22,0,1,"feb5"
-"876","Hong Kong","Hong Kong",21,1,0,"feb5"
-"877","","South Korea",19,0,0,"feb5"
-"878","Qinghai","Mainland China",17,0,3,"feb5"
-"879","","Germany",12,0,0,"feb5"
-"880","","Malaysia",12,0,0,"feb5"
-"881","Taiwan","Taiwan",11,0,0,"feb5"
-"882","Macau","Macau",10,0,0,"feb5"
-"883","","Vietnam",8,0,1,"feb5"
-"884","","France",6,0,0,"feb5"
-"885","","United Arab Emirates",5,0,0,"feb5"
-"886","New South Wales","Australia",4,0,2,"feb5"
-"887","Victoria","Australia",4,0,0,"feb5"
-"888","Queensland","Australia",3,0,0,"feb5"
-"889","","India",3,0,0,"feb5"
-"890","South Australia","Australia",2,0,0,"feb5"
-"891","Toronto, ON","Canada",2,0,0,"feb5"
-"892","","Italy",2,0,0,"feb5"
-"893","","Philippines",2,1,0,"feb5"
-"894","","Russia",2,0,0,"feb5"
-"895","","UK",2,0,0,"feb5"
-"896","Chicago, IL","US",2,0,0,"feb5"
-"897","San Benito, CA","US",2,0,0,"feb5"
-"898","Santa Clara, CA","US",2,0,0,"feb5"
-"899","","Belgium",1,0,0,"feb5"
-"900","","Cambodia",1,0,0,"feb5"
-"901","British Columbia","Canada",1,0,0,"feb5"
-"902","London, ON","Canada",1,0,0,"feb5"
-"903","","Finland",1,0,0,"feb5"
-"904","Tibet","Mainland China",1,0,0,"feb5"
-"905","","Nepal",1,0,0,"feb5"
-"906","","Spain",1,0,0,"feb5"
-"907","","Sri Lanka",1,0,0,"feb5"
-"908","","Sweden",1,0,0,"feb5"
-"909","Boston, MA","US",1,0,0,"feb5"
-"910","Los Angeles, CA","US",1,0,0,"feb5"
-"911","Orange, CA","US",1,0,0,"feb5"
-"912","Seattle, WA","US",1,0,0,"feb5"
-"913","Tempe, AZ","US",1,0,0,"feb5"
-"914","Hubei","Mainland China",22112,618,817,"feb6"
-"915","Guangdong","Mainland China",970,0,69,"feb6"
-"916","Zhejiang","Mainland China",954,0,94,"feb6"
-"917","Henan","Mainland China",851,2,56,"feb6"
-"918","Hunan","Mainland China",711,0,81,"feb6"
-"919","Jiangxi","Mainland China",600,0,37,"feb6"
-"920","Anhui","Mainland China",591,0,34,"feb6"
-"921","Chongqing","Mainland China",400,2,24,"feb6"
-"922","Jiangsu","Mainland China",373,0,34,"feb6"
-"923","Shandong","Mainland China",347,0,27,"feb6"
-"924","Sichuan","Mainland China",321,1,31,"feb6"
-"925","Beijing","Mainland China",274,1,31,"feb6"
-"926","Shanghai","Mainland China",257,1,25,"feb6"
-"927","Heilongjiang","Mainland China",227,3,8,"feb6"
-"928","Fujian","Mainland China",215,0,14,"feb6"
-"929","Shaanxi","Mainland China",173,0,9,"feb6"
-"930","Guangxi","Mainland China",168,0,14,"feb6"
-"931","Hebei","Mainland China",157,1,13,"feb6"
-"932","Yunnan","Mainland China",133,0,7,"feb6"
-"933","Hainan","Mainland China",106,1,8,"feb6"
-"934","Shanxi","Mainland China",96,0,12,"feb6"
-"935","Liaoning","Mainland China",94,0,5,"feb6"
-"936","Tianjin","Mainland China",78,1,2,"feb6"
-"937","Guizhou","Mainland China",71,1,6,"feb6"
-"938","Gansu","Mainland China",62,0,6,"feb6"
-"939","Jilin","Mainland China",59,0,4,"feb6"
-"940","Inner Mongolia","Mainland China",46,0,4,"feb6"
-"941","","Japan",45,0,1,"feb6"
-"942","Ningxia","Mainland China",40,0,1,"feb6"
-"943","Xinjiang","Mainland China",36,0,0,"feb6"
-"944","","Singapore",28,0,0,"feb6"
-"945","","Thailand",25,0,5,"feb6"
-"946","Hong Kong","Hong Kong",24,1,0,"feb6"
-"947","","South Korea",23,0,0,"feb6"
-"948","Qinghai","Mainland China",18,0,3,"feb6"
-"949","Taiwan","Taiwan",16,0,1,"feb6"
-"950","","Germany",12,0,0,"feb6"
-"951","","Malaysia",12,0,0,"feb6"
-"952","Macau","Macau",10,0,1,"feb6"
-"953","","Vietnam",10,0,1,"feb6"
-"954","","France",6,0,0,"feb6"
-"955","","United Arab Emirates",5,0,0,"feb6"
-"956","New South Wales","Australia",4,0,2,"feb6"
-"957","Queensland","Australia",4,0,0,"feb6"
-"958","Victoria","Australia",4,0,0,"feb6"
-"959","","India",3,0,0,"feb6"
-"960","South Australia","Australia",2,0,0,"feb6"
-"961","British Columbia","Canada",2,0,0,"feb6"
-"962","Toronto, ON","Canada",2,0,0,"feb6"
-"963","","Italy",2,0,0,"feb6"
-"964","","Philippines",2,1,0,"feb6"
-"965","","Russia",2,0,0,"feb6"
-"966","","UK",2,0,0,"feb6"
-"967","Chicago, IL","US",2,0,0,"feb6"
-"968","San Benito, CA","US",2,0,0,"feb6"
-"969","Santa Clara, CA","US",2,0,0,"feb6"
-"970","","Belgium",1,0,0,"feb6"
-"971","","Cambodia",1,0,0,"feb6"
-"972","London, ON","Canada",1,0,0,"feb6"
-"973","","Finland",1,0,0,"feb6"
-"974","Tibet","Mainland China",1,0,0,"feb6"
-"975","","Nepal",1,0,0,"feb6"
-"976","","Spain",1,0,0,"feb6"
-"977","","Sri Lanka",1,0,0,"feb6"
-"978","","Sweden",1,0,0,"feb6"
-"979","Boston, MA","US",1,0,0,"feb6"
-"980","Los Angeles, CA","US",1,0,0,"feb6"
-"981","Madison, WI","US",1,0,0,"feb6"
-"982","Orange, CA","US",1,0,0,"feb6"
-"983","Seattle, WA","US",1,0,0,"feb6"
-"984","Tempe, AZ","US",1,0,0,"feb6"
-"985","Hubei","Mainland China",22112,618,867,"feb7"
-"986","Guangdong","Mainland China",1034,1,88,"feb7"
-"987","Zhejiang","Mainland China",1006,0,123,"feb7"
-"988","Henan","Mainland China",914,3,86,"feb7"
-"989","Hunan","Mainland China",772,0,112,"feb7"
-"990","Anhui","Mainland China",665,0,47,"feb7"
-"991","Jiangxi","Mainland China",661,0,45,"feb7"
-"992","Chongqing","Mainland China",415,2,31,"feb7"
-"993","Jiangsu","Mainland China",408,0,43,"feb7"
-"994","Shandong","Mainland China",386,0,37,"feb7"
-"995","Sichuan","Mainland China",344,1,42,"feb7"
-"996","Beijing","Mainland China",297,1,33,"feb7"
-"997","Heilongjiang","Mainland China",277,3,12,"feb7"
-"998","Shanghai","Mainland China",277,1,30,"feb7"
-"999","Fujian","Mainland China",224,0,20,"feb7"
-"1000","Shaanxi","Mainland China",184,0,17,"feb7"
-"1001","Guangxi","Mainland China",172,0,17,"feb7"
-"1002","Hebei","Mainland China",172,1,22,"feb7"
-"1003","Yunnan","Mainland China",138,0,12,"feb7"
-"1004","Hainan","Mainland China",117,2,10,"feb7"
-"1005","Liaoning","Mainland China",99,0,7,"feb7"
-"1006","Shanxi","Mainland China",96,0,15,"feb7"
-"1007","Guizhou","Mainland China",81,1,6,"feb7"
-"1008","Tianjin","Mainland China",81,1,2,"feb7"
-"1009","Gansu","Mainland China",67,0,9,"feb7"
-"1010","Jilin","Mainland China",65,1,4,"feb7"
-"1011","Cruise Ship","Others",61,0,0,"feb7"
-"1012","Inner Mongolia","Mainland China",50,0,5,"feb7"
-"1013","Ningxia","Mainland China",43,0,5,"feb7"
-"1014","Xinjiang","Mainland China",39,0,0,"feb7"
-"1015","","Singapore",30,0,0,"feb7"
-"1016","Hong Kong","Hong Kong",25,1,0,"feb7"
-"1017","","Japan",25,0,1,"feb7"
-"1018","","Thailand",25,0,5,"feb7"
-"1019","","South Korea",24,0,1,"feb7"
-"1020","Qinghai","Mainland China",18,0,3,"feb7"
-"1021","Taiwan","Taiwan",16,0,1,"feb7"
-"1022","","Germany",13,0,0,"feb7"
-"1023","","Malaysia",12,0,1,"feb7"
-"1024","Macau","Macau",10,0,1,"feb7"
-"1025","","Vietnam",10,0,1,"feb7"
-"1026","","France",6,0,0,"feb7"
-"1027","Queensland","Australia",5,0,0,"feb7"
-"1028","","United Arab Emirates",5,0,0,"feb7"
-"1029","New South Wales","Australia",4,0,2,"feb7"
-"1030","Victoria","Australia",4,0,0,"feb7"
-"1031","British Columbia","Canada",4,0,0,"feb7"
-"1032","","India",3,0,0,"feb7"
-"1033","","Italy",3,0,0,"feb7"
-"1034","","Philippines",3,1,0,"feb7"
-"1035","","UK",3,0,0,"feb7"
-"1036","South Australia","Australia",2,0,0,"feb7"
-"1037","Toronto, ON","Canada",2,0,0,"feb7"
-"1038","","Russia",2,0,0,"feb7"
-"1039","Chicago, IL","US",2,0,0,"feb7"
-"1040","San Benito, CA","US",2,0,0,"feb7"
-"1041","Santa Clara, CA","US",2,0,0,"feb7"
-"1042","","Belgium",1,0,0,"feb7"
-"1043","","Cambodia",1,0,0,"feb7"
-"1044","London, ON","Canada",1,0,0,"feb7"
-"1045","","Finland",1,0,0,"feb7"
-"1046","Tibet","Mainland China",1,0,0,"feb7"
-"1047","","Nepal",1,0,0,"feb7"
-"1048","","Spain",1,0,0,"feb7"
-"1049","","Sri Lanka",1,0,0,"feb7"
-"1050","","Sweden",1,0,0,"feb7"
-"1051","Boston, MA","US",1,0,0,"feb7"
-"1052","Los Angeles, CA","US",1,0,0,"feb7"
-"1053","Madison, WI","US",1,0,0,"feb7"
-"1054","Orange, CA","US",1,0,0,"feb7"
-"1055","Seattle, WA","US",1,0,0,"feb7"
-"1056","Tempe, AZ","US",1,0,0,"feb7"
-"1057","Hubei","Mainland China",27100,780,1440,"feb8"
-"1058","Guangdong","Mainland China",1120,1,125,"feb8"
-"1059","Zhejiang","Mainland China",1075,0,185,"feb8"
-"1060","Henan","Mainland China",1033,6,131,"feb8"
-"1061","Hunan","Mainland China",838,1,159,"feb8"
-"1062","Anhui","Mainland China",779,1,59,"feb8"
-"1063","Jiangxi","Mainland China",740,0,72,"feb8"
-"1064","Jiangsu","Mainland China",468,0,58,"feb8"
-"1065","Chongqing","Mainland China",446,2,39,"feb8"
-"1066","Shandong","Mainland China",435,1,50,"feb8"
-"1067","Sichuan","Mainland China",386,1,60,"feb8"
-"1068","Beijing","Mainland China",326,2,37,"feb8"
-"1069","Heilongjiang","Mainland China",307,6,13,"feb8"
-"1070","Shanghai","Mainland China",292,1,41,"feb8"
-"1071","Fujian","Mainland China",250,0,26,"feb8"
-"1072","Shaanxi","Mainland China",208,0,25,"feb8"
-"1073","Hebei","Mainland China",206,2,30,"feb8"
-"1074","Guangxi","Mainland China",195,1,18,"feb8"
-"1075","Yunnan","Mainland China",140,0,17,"feb8"
-"1076","Hainan","Mainland China",128,2,15,"feb8"
-"1077","Shanxi","Mainland China",115,0,21,"feb8"
-"1078","Liaoning","Mainland China",105,0,8,"feb8"
-"1079","Guizhou","Mainland China",96,1,7,"feb8"
-"1080","Tianjin","Mainland China",90,1,4,"feb8"
-"1081","Gansu","Mainland China",79,1,12,"feb8"
-"1082","Jilin","Mainland China",78,1,5,"feb8"
-"1083","Cruise Ship","Others",61,0,0,"feb8"
-"1084","Inner Mongolia","Mainland China",54,0,5,"feb8"
-"1085","Ningxia","Mainland China",45,0,13,"feb8"
-"1086","Xinjiang","Mainland China",45,0,0,"feb8"
-"1087","","Singapore",40,0,2,"feb8"
-"1088","","Thailand",32,0,10,"feb8"
-"1089","Hong Kong","Hong Kong",26,1,0,"feb8"
-"1090","","Japan",25,0,1,"feb8"
-"1091","","South Korea",25,0,3,"feb8"
-"1092","Qinghai","Mainland China",18,0,3,"feb8"
-"1093","Taiwan","Taiwan",17,0,1,"feb8"
-"1094","","Malaysia",16,0,1,"feb8"
-"1095","","Germany",13,0,0,"feb8"
-"1096","","Vietnam",13,0,1,"feb8"
-"1097","","France",11,0,0,"feb8"
-"1098","Macau","Macau",10,0,1,"feb8"
-"1099","","United Arab Emirates",7,0,0,"feb8"
-"1100","Queensland","Australia",5,0,0,"feb8"
-"1101","New South Wales","Australia",4,0,2,"feb8"
-"1102","Victoria","Australia",4,0,0,"feb8"
-"1103","British Columbia","Canada",4,0,0,"feb8"
-"1104","","India",3,0,0,"feb8"
-"1105","","Italy",3,0,0,"feb8"
-"1106","","Philippines",3,1,0,"feb8"
-"1107","","UK",3,0,0,"feb8"
-"1108","South Australia","Australia",2,0,0,"feb8"
-"1109","Toronto, ON","Canada",2,0,0,"feb8"
-"1110","","Russia",2,0,0,"feb8"
-"1111","Chicago, IL","US",2,0,0,"feb8"
-"1112","San Benito, CA","US",2,0,0,"feb8"
-"1113","Santa Clara, CA","US",2,0,0,"feb8"
-"1114","","Belgium",1,0,0,"feb8"
-"1115","","Cambodia",1,0,0,"feb8"
-"1116","London, ON","Canada",1,0,0,"feb8"
-"1117","","Finland",1,0,0,"feb8"
-"1118","Tibet","Mainland China",1,0,0,"feb8"
-"1119","","Nepal",1,0,0,"feb8"
-"1120","","Spain",1,0,0,"feb8"
-"1121","","Sri Lanka",1,0,1,"feb8"
-"1122","","Sweden",1,0,0,"feb8"
-"1123","Boston, MA","US",1,0,0,"feb8"
-"1124","Los Angeles, CA","US",1,0,0,"feb8"
-"1125","Madison, WI","US",1,0,0,"feb8"
-"1126","Orange, CA","US",1,0,0,"feb8"
-"1127","Seattle, WA","US",1,0,0,"feb8"
-"1128","Tempe, AZ","US",1,0,0,"feb8"
-"1129","Hubei","Mainland China",29631,871,1795,"feb9"
-"1130","Guangdong","Mainland China",1151,1,147,"feb9"
-"1131","Zhejiang","Mainland China",1092,0,201,"feb9"
-"1132","Henan","Mainland China",1073,6,169,"feb9"
-"1133","Hunan","Mainland China",879,1,186,"feb9"
-"1134","Anhui","Mainland China",830,3,73,"feb9"
-"1135","Jiangxi","Mainland China",771,1,102,"feb9"
-"1136","Jiangsu","Mainland China",492,0,72,"feb9"
-"1137","Chongqing","Mainland China",468,2,51,"feb9"
-"1138","Shandong","Mainland China",459,1,63,"feb9"
-"1139","Sichuan","Mainland China",405,1,76,"feb9"
-"1140","Beijing","Mainland China",337,2,44,"feb9"
-"1141","Heilongjiang","Mainland China",331,7,15,"feb9"
-"1142","Shanghai","Mainland China",295,1,44,"feb9"
-"1143","Fujian","Mainland China",261,0,35,"feb9"
-"1144","Hebei","Mainland China",218,2,35,"feb9"
-"1145","Shaanxi","Mainland China",213,0,26,"feb9"
-"1146","Guangxi","Mainland China",210,1,18,"feb9"
-"1147","Yunnan","Mainland China",141,0,18,"feb9"
-"1148","Hainan","Mainland China",136,3,19,"feb9"
-"1149","Shanxi","Mainland China",119,0,25,"feb9"
-"1150","Guizhou","Mainland China",109,1,7,"feb9"
-"1151","Liaoning","Mainland China",107,0,12,"feb9"
-"1152","Tianjin","Mainland China",94,1,4,"feb9"
-"1153","Gansu","Mainland China",83,2,16,"feb9"
-"1154","Jilin","Mainland China",80,1,12,"feb9"
-"1155","Diamond Princess cruise ship","Others",64,0,0,"feb9"
-"1156","Inner Mongolia","Mainland China",58,0,5,"feb9"
-"1157","Ningxia","Mainland China",49,0,13,"feb9"
-"1158","Xinjiang","Mainland China",49,0,0,"feb9"
-"1159","","Singapore",43,0,2,"feb9"
-"1160","Hong Kong","Hong Kong",36,1,0,"feb9"
-"1161","","Thailand",32,0,10,"feb9"
-"1162","","South Korea",27,0,3,"feb9"
-"1163","","Japan",26,0,1,"feb9"
-"1164","Qinghai","Mainland China",18,0,3,"feb9"
-"1165","","Malaysia",18,0,1,"feb9"
-"1166","Taiwan","Taiwan",18,0,1,"feb9"
-"1167","","Germany",14,0,0,"feb9"
-"1168","","Vietnam",14,0,1,"feb9"
-"1169","","France",11,0,0,"feb9"
-"1170","Macau","Macau",10,0,1,"feb9"
-"1171","","United Arab Emirates",7,0,0,"feb9"
-"1172","Queensland","Australia",5,0,0,"feb9"
-"1173","New South Wales","Australia",4,0,2,"feb9"
-"1174","Victoria","Australia",4,0,0,"feb9"
-"1175","British Columbia","Canada",4,0,0,"feb9"
-"1176","","India",3,0,0,"feb9"
-"1177","","Italy",3,0,0,"feb9"
-"1178","","Philippines",3,1,0,"feb9"
-"1179","","UK",3,0,0,"feb9"
-"1180","South Australia","Australia",2,0,0,"feb9"
-"1181","Toronto, ON","Canada",2,0,0,"feb9"
-"1182","","Russia",2,0,0,"feb9"
-"1183","","Spain",2,0,0,"feb9"
-"1184","Chicago, IL","US",2,0,2,"feb9"
-"1185","San Benito, CA","US",2,0,0,"feb9"
-"1186","Santa Clara, CA","US",2,0,0,"feb9"
-"1187","","Belgium",1,0,0,"feb9"
-"1188","","Cambodia",1,0,0,"feb9"
-"1189","London, ON","Canada",1,0,0,"feb9"
-"1190","","Finland",1,0,0,"feb9"
-"1191","Tibet","Mainland China",1,0,0,"feb9"
-"1192","","Nepal",1,0,0,"feb9"
-"1193","","Sri Lanka",1,0,1,"feb9"
-"1194","","Sweden",1,0,0,"feb9"
-"1195","Boston, MA","US",1,0,0,"feb9"
-"1196","Los Angeles, CA","US",1,0,0,"feb9"
-"1197","Madison, WI","US",1,0,0,"feb9"
-"1198","Orange, CA","US",1,0,0,"feb9"
-"1199","Seattle, WA","US",1,0,1,"feb9"
-"1200","Tempe, AZ","US",1,0,0,"feb9"
-"1201","Hubei","Mainland China",31728,974,2222,"feb10"
-"1202","Guangdong","Mainland China",1159,1,167,"feb10"
-"1203","Zhejiang","Mainland China",1092,0,242,"feb10"
-"1204","Henan","Mainland China",1073,6,191,"feb10"
-"1205","Hunan","Mainland China",879,1,208,"feb10"
-"1206","Anhui","Mainland China",830,3,88,"feb10"
-"1207","Jiangxi","Mainland China",771,1,105,"feb10"
-"1208","Jiangsu","Mainland China",492,0,81,"feb10"
-"1209","Chongqing","Mainland China",486,2,66,"feb10"
-"1210","Shandong","Mainland China",466,1,66,"feb10"
-"1211","Sichuan","Mainland China",405,1,80,"feb10"
-"1212","Beijing","Mainland China",337,2,44,"feb10"
-"1213","Heilongjiang","Mainland China",331,7,30,"feb10"
-"1214","Shanghai","Mainland China",299,1,48,"feb10"
-"1215","Fujian","Mainland China",261,0,39,"feb10"
-"1216","Hebei","Mainland China",218,2,41,"feb10"
-"1217","Shaanxi","Mainland China",213,0,30,"feb10"
-"1218","Guangxi","Mainland China",210,1,24,"feb10"
-"1219","Yunnan","Mainland China",149,0,19,"feb10"
-"1220","Hainan","Mainland China",138,3,19,"feb10"
-"1221","Diamond Princess cruise ship","Others",135,0,0,"feb10"
-"1222","Shanxi","Mainland China",119,0,25,"feb10"
-"1223","Guizhou","Mainland China",109,1,10,"feb10"
-"1224","Liaoning","Mainland China",108,0,13,"feb10"
-"1225","Tianjin","Mainland China",95,1,8,"feb10"
-"1226","Gansu","Mainland China",86,2,21,"feb10"
-"1227","Jilin","Mainland China",81,1,13,"feb10"
-"1228","Inner Mongolia","Mainland China",58,0,5,"feb10"
-"1229","Ningxia","Mainland China",49,0,13,"feb10"
-"1230","Xinjiang","Mainland China",49,0,0,"feb10"
-"1231","","Singapore",45,0,2,"feb10"
-"1232","Hong Kong","Hong Kong",38,1,0,"feb10"
-"1233","","Thailand",32,0,10,"feb10"
-"1234","","South Korea",27,0,3,"feb10"
-"1235","","Japan",26,0,4,"feb10"
-"1236","Qinghai","Mainland China",18,0,3,"feb10"
-"1237","","Malaysia",18,0,1,"feb10"
-"1238","Taiwan","Taiwan",18,0,1,"feb10"
-"1239","","Germany",14,0,0,"feb10"
-"1240","","Vietnam",14,0,1,"feb10"
-"1241","","France",11,0,0,"feb10"
-"1242","Macau","Macau",10,0,1,"feb10"
-"1243","","UK",8,0,0,"feb10"
-"1244","","United Arab Emirates",8,0,0,"feb10"
-"1245","Queensland","Australia",5,0,0,"feb10"
-"1246","New South Wales","Australia",4,0,2,"feb10"
-"1247","Victoria","Australia",4,0,0,"feb10"
-"1248","British Columbia","Canada",4,0,0,"feb10"
-"1249","","India",3,0,0,"feb10"
-"1250","","Italy",3,0,0,"feb10"
-"1251","","Philippines",3,1,0,"feb10"
-"1252","South Australia","Australia",2,0,0,"feb10"
-"1253","Toronto, ON","Canada",2,0,0,"feb10"
-"1254","","Russia",2,0,0,"feb10"
-"1255","","Spain",2,0,0,"feb10"
-"1256","Chicago, IL","US",2,0,2,"feb10"
-"1257","San Benito, CA","US",2,0,0,"feb10"
-"1258","Santa Clara, CA","US",2,0,0,"feb10"
-"1259","","Belgium",1,0,0,"feb10"
-"1260","","Cambodia",1,0,0,"feb10"
-"1261","London, ON","Canada",1,0,0,"feb10"
-"1262","","Finland",1,0,0,"feb10"
-"1263","Tibet","Mainland China",1,0,0,"feb10"
-"1264","","Nepal",1,0,0,"feb10"
-"1265","","Sri Lanka",1,0,1,"feb10"
-"1266","","Sweden",1,0,0,"feb10"
-"1267","Boston, MA","US",1,0,0,"feb10"
-"1268","Los Angeles, CA","US",1,0,0,"feb10"
-"1269","Madison, WI","US",1,0,0,"feb10"
-"1270","Orange, CA","US",1,0,0,"feb10"
-"1271","Seattle, WA","US",1,0,1,"feb10"
-"1272","Tempe, AZ","US",1,0,0,"feb10"
-"1273","Hubei","Mainland China",33366,1068,2639,"feb11"
-"1274","Guangdong","Mainland China",1219,1,241,"feb11"
-"1275","Henan","Mainland China",1135,8,231,"feb11"
-"1276","Zhejiang","Mainland China",1131,0,279,"feb11"
-"1277","Hunan","Mainland China",946,2,263,"feb11"
-"1278","Anhui","Mainland China",889,4,108,"feb11"
-"1279","Jiangxi","Mainland China",844,1,152,"feb11"
-"1280","Jiangsu","Mainland China",543,0,94,"feb11"
-"1281","Chongqing","Mainland China",505,3,79,"feb11"
-"1282","Shandong","Mainland China",497,1,80,"feb11"
-"1283","Sichuan","Mainland China",436,1,85,"feb11"
-"1284","Heilongjiang","Mainland China",378,8,28,"feb11"
-"1285","Beijing","Mainland China",342,3,48,"feb11"
-"1286","Shanghai","Mainland China",306,1,53,"feb11"
-"1287","Fujian","Mainland China",272,0,46,"feb11"
-"1288","Hebei","Mainland China",251,2,48,"feb11"
-"1289","Guangxi","Mainland China",222,1,31,"feb11"
-"1290","Shaanxi","Mainland China",219,0,32,"feb11"
-"1291","Yunnan","Mainland China",154,0,20,"feb11"
-"1292","Hainan","Mainland China",151,3,20,"feb11"
-"1293","Diamond Princess cruise ship","Others",135,0,0,"feb11"
-"1294","Guizhou","Mainland China",131,1,17,"feb11"
-"1295","Shanxi","Mainland China",124,0,30,"feb11"
-"1296","Liaoning","Mainland China",116,0,19,"feb11"
-"1297","Tianjin","Mainland China",106,2,10,"feb11"
-"1298","Gansu","Mainland China",86,2,24,"feb11"
-"1299","Jilin","Mainland China",83,1,18,"feb11"
-"1300","Xinjiang","Mainland China",59,0,3,"feb11"
-"1301","Inner Mongolia","Mainland China",58,0,5,"feb11"
-"1302","Ningxia","Mainland China",53,0,22,"feb11"
-"1303","Hong Kong","Hong Kong",49,1,0,"feb11"
-"1304","","Singapore",47,0,9,"feb11"
-"1305","","Thailand",33,0,10,"feb11"
-"1306","","South Korea",28,0,4,"feb11"
-"1307","","Japan",26,0,9,"feb11"
-"1308","Qinghai","Mainland China",18,0,5,"feb11"
-"1309","","Malaysia",18,0,3,"feb11"
-"1310","Taiwan","Taiwan",18,0,1,"feb11"
-"1311","","Germany",16,0,0,"feb11"
-"1312","","Vietnam",15,0,6,"feb11"
-"1313","","France",11,0,0,"feb11"
-"1314","Macau","Macau",10,0,1,"feb11"
-"1315","","UK",8,0,0,"feb11"
-"1316","","United Arab Emirates",8,0,1,"feb11"
-"1317","Queensland","Australia",5,0,0,"feb11"
-"1318","New South Wales","Australia",4,0,2,"feb11"
-"1319","Victoria","Australia",4,0,0,"feb11"
-"1320","British Columbia","Canada",4,0,0,"feb11"
-"1321","","India",3,0,0,"feb11"
-"1322","","Italy",3,0,0,"feb11"
-"1323","","Philippines",3,1,0,"feb11"
-"1324","South Australia","Australia",2,0,0,"feb11"
-"1325","Toronto, ON","Canada",2,0,0,"feb11"
-"1326","","Russia",2,0,0,"feb11"
-"1327","","Spain",2,0,0,"feb11"
-"1328","Chicago, IL","US",2,0,2,"feb11"
-"1329","San Benito, CA","US",2,0,0,"feb11"
-"1330","Santa Clara, CA","US",2,0,0,"feb11"
-"1331","","Belgium",1,0,0,"feb11"
-"1332","","Cambodia",1,0,0,"feb11"
-"1333","London, ON","Canada",1,0,0,"feb11"
-"1334","","Finland",1,0,1,"feb11"
-"1335","Tibet","Mainland China",1,0,0,"feb11"
-"1336","","Nepal",1,0,0,"feb11"
-"1337","","Sri Lanka",1,0,1,"feb11"
-"1338","","Sweden",1,0,0,"feb11"
-"1339","Boston, MA","US",1,0,0,"feb11"
-"1340","Los Angeles, CA","US",1,0,0,"feb11"
-"1341","Madison, WI","US",1,0,0,"feb11"
-"1342","Orange, CA","US",1,0,0,"feb11"
-"1343","San Diego County, CA","US",1,0,0,"feb11"
-"1344","Seattle, WA","US",1,0,1,"feb11"
-"1345","Tempe, AZ","US",1,0,0,"feb11"
-"1346","Hubei","Mainland China",48206,1310,3441,"feb12"
-"1347","Guangdong","Mainland China",1241,2,284,"feb12"
-"1348","Henan","Mainland China",1169,10,258,"feb12"
-"1349","Zhejiang","Mainland China",1145,0,327,"feb12"
-"1350","Hunan","Mainland China",968,2,312,"feb12"
-"1351","Anhui","Mainland China",910,5,128,"feb12"
-"1352","Jiangxi","Mainland China",872,1,170,"feb12"
-"1353","Jiangsu","Mainland China",570,0,131,"feb12"
-"1354","Chongqing","Mainland China",518,3,102,"feb12"
-"1355","Shandong","Mainland China",506,2,98,"feb12"
-"1356","Sichuan","Mainland China",451,1,93,"feb12"
-"1357","Heilongjiang","Mainland China",395,9,31,"feb12"
-"1358","Beijing","Mainland China",366,3,68,"feb12"
-"1359","Shanghai","Mainland China",313,1,57,"feb12"
-"1360","Fujian","Mainland China",279,0,54,"feb12"
-"1361","Hebei","Mainland China",265,3,55,"feb12"
-"1362","Shaanxi","Mainland China",229,0,42,"feb12"
-"1363","Guangxi","Mainland China",222,2,33,"feb12"
-"1364","Diamond Princess cruise ship","Others",175,0,0,"feb12"
-"1365","Hainan","Mainland China",157,4,27,"feb12"
-"1366","Yunnan","Mainland China",155,0,23,"feb12"
-"1367","Guizhou","Mainland China",135,1,20,"feb12"
-"1368","Shanxi","Mainland China",126,0,33,"feb12"
-"1369","Liaoning","Mainland China",116,1,21,"feb12"
-"1370","Tianjin","Mainland China",113,2,11,"feb12"
-"1371","Gansu","Mainland China",87,2,31,"feb12"
-"1372","Jilin","Mainland China",84,1,22,"feb12"
-"1373","Ningxia","Mainland China",64,0,24,"feb12"
-"1374","Xinjiang","Mainland China",63,1,3,"feb12"
-"1375","Inner Mongolia","Mainland China",61,0,6,"feb12"
-"1376","Hong Kong","Hong Kong",50,1,1,"feb12"
-"1377","","Singapore",50,0,15,"feb12"
-"1378","","Thailand",33,0,10,"feb12"
-"1379","","Japan",28,0,9,"feb12"
-"1380","","South Korea",28,0,7,"feb12"
-"1381","Qinghai","Mainland China",18,0,9,"feb12"
-"1382","","Malaysia",18,0,3,"feb12"
-"1383","Taiwan","Taiwan",18,0,1,"feb12"
-"1384","","Germany",16,0,0,"feb12"
-"1385","","Vietnam",15,0,6,"feb12"
-"1386","","France",11,0,2,"feb12"
-"1387","Macau","Macau",10,0,2,"feb12"
-"1388","","UK",9,0,1,"feb12"
-"1389","","United Arab Emirates",8,0,1,"feb12"
-"1390","Queensland","Australia",5,0,0,"feb12"
-"1391","New South Wales","Australia",4,0,2,"feb12"
-"1392","Victoria","Australia",4,0,0,"feb12"
-"1393","British Columbia","Canada",4,0,0,"feb12"
-"1394","","India",3,0,0,"feb12"
-"1395","","Italy",3,0,0,"feb12"
-"1396","","Philippines",3,1,1,"feb12"
-"1397","South Australia","Australia",2,0,0,"feb12"
-"1398","Toronto, ON","Canada",2,0,0,"feb12"
-"1399","","Russia",2,0,2,"feb12"
-"1400","","Spain",2,0,0,"feb12"
-"1401","Chicago, IL","US",2,0,2,"feb12"
-"1402","San Benito, CA","US",2,0,0,"feb12"
-"1403","Santa Clara, CA","US",2,0,0,"feb12"
-"1404","","Belgium",1,0,0,"feb12"
-"1405","","Cambodia",1,0,1,"feb12"
-"1406","London, ON","Canada",1,0,1,"feb12"
-"1407","","Finland",1,0,1,"feb12"
-"1408","Tibet","Mainland China",1,0,1,"feb12"
-"1409","","Nepal",1,0,1,"feb12"
-"1410","","Sri Lanka",1,0,1,"feb12"
-"1411","","Sweden",1,0,0,"feb12"
-"1412","Boston, MA","US",1,0,0,"feb12"
-"1413","Los Angeles, CA","US",1,0,0,"feb12"
-"1414","Madison, WI","US",1,0,0,"feb12"
-"1415","Orange, CA","US",1,0,0,"feb12"
-"1416","San Diego County, CA","US",1,0,0,"feb12"
-"1417","Seattle, WA","US",1,0,1,"feb12"
-"1418","Tempe, AZ","US",1,0,0,"feb12"
+	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
+1	Anhui	Mainland China	NA	NA	NA	Jan-21
+2	Beijing	Mainland China	10	NA	NA	Jan-21
+3	Chongqing	Mainland China	5	NA	NA	Jan-21
+4	Guangdong	Mainland China	17	NA	NA	Jan-21
+5	Guangxi	Mainland China	NA	NA	NA	Jan-21
+6	Guizhou	Mainland China	NA	NA	NA	Jan-21
+7	Hainan	Mainland China	NA	NA	NA	Jan-21
+8	Heilongjiang	Mainland China	NA	NA	NA	Jan-21
+9	Henan	Mainland China	1	NA	NA	Jan-21
+10	Hong Kong	Hong Kong	NA	NA	NA	Jan-21
+11	Hubei	Mainland China	270	6	25	Jan-21
+12	Hunan	Mainland China	1	NA	NA	Jan-21
+13	Jiangxi	Mainland China	2	NA	NA	Jan-21
+14	Jilin	Mainland China	NA	NA	NA	Jan-21
+15	Liaoning	Mainland China	NA	NA	NA	Jan-21
+16	Ningxia	Mainland China	NA	NA	NA	Jan-21
+17	Shandong	Mainland China	1	NA	NA	Jan-21
+18	Shanghai	Mainland China	9	NA	NA	Jan-21
+19	Sichuan	Mainland China	2	NA	NA	Jan-21
+20	Taiwan	Taiwan	1	NA	NA	Jan-21
+21	Tianjin	Mainland China	2	NA	NA	Jan-21
+22	Yunnan	Mainland China	1	NA	NA	Jan-21
+23	Zhejiang	Mainland China	5	NA	NA	Jan-21
+24		Japan	1	NA	NA	Jan-21
+25	Washington	US	1	NA	NA	Jan-21
+26		South Korea	1	NA	NA	Jan-21
+27		Thailand	2	NA	NA	Jan-21
+28	Anhui	Mainland China	1	NA	NA	Jan-22
+29	Beijing	Mainland China	14	NA	NA	Jan-22
+30	Chongqing	Mainland China	6	NA	NA	Jan-22
+31	Fujian	Mainland China	1	NA	NA	Jan-22
+32	Gansu	Mainland China	NA	NA	NA	Jan-22
+33	Guangdong	Mainland China	26	NA	NA	Jan-22
+34	Guangxi	Mainland China	2	NA	NA	Jan-22
+35	Guizhou	Mainland China	1	NA	NA	Jan-22
+36	Hainan	Mainland China	4	NA	NA	Jan-22
+37	Hebei	Mainland China	1	NA	NA	Jan-22
+38	Heilongjiang	Mainland China	NA	NA	NA	Jan-22
+39	Henan	Mainland China	5	NA	NA	Jan-22
+40	Hong Kong	Hong Kong	NA	NA	NA	Jan-22
+41	Hubei	Mainland China	444	17	28	Jan-22
+42	Hunan	Mainland China	4	NA	NA	Jan-22
+43	Inner Mongolia	Mainland China	NA	NA	NA	Jan-22
+44	Jiangsu	Mainland China	1	NA	NA	Jan-22
+45	Jiangxi	Mainland China	2	NA	NA	Jan-22
+46	Jilin	Mainland China	NA	NA	NA	Jan-22
+47	Liaoning	Mainland China	2	NA	NA	Jan-22
+48	Macau	Macau	1	NA	NA	Jan-22
+49	Ningxia	Mainland China	1	NA	NA	Jan-22
+50	Qinghai	Mainland China	NA	NA	NA	Jan-22
+51	Shaanxi	Mainland China	NA	NA	NA	Jan-22
+52	Shandong	Mainland China	2	NA	NA	Jan-22
+53	Shanghai	Mainland China	9	NA	NA	Jan-22
+54	Shanxi	Mainland China	1	NA	NA	Jan-22
+55	Sichuan	Mainland China	5	NA	NA	Jan-22
+56	Taiwan	Taiwan	1	NA	NA	Jan-22
+57	Tianjin	Mainland China	4	NA	NA	Jan-22
+58	Tibet	Mainland China	NA	NA	NA	Jan-22
+59	Washington	US	1	NA	NA	Jan-22
+60	Xinjiang	Mainland China	NA	NA	NA	Jan-22
+61	Yunnan	Mainland China	1	NA	NA	Jan-22
+62	Zhejiang	Mainland China	10	NA	NA	Jan-22
+63		Japan	2	NA	NA	Jan-22
+64		Thailand	2	NA	NA	Jan-22
+65		South Korea	1	NA	NA	Jan-22
+66	Anhui	Mainland China	9	NA	NA	Jan-23
+67	Beijing	Mainland China	22	NA	NA	Jan-23
+68	Chongqing	Mainland China	9	NA	NA	Jan-23
+69	Fujian	Mainland China	5	NA	NA	Jan-23
+70	Gansu	Mainland China	2	NA	NA	Jan-23
+71	Guangdong	Mainland China	32	NA	2	Jan-23
+72	Guangxi	Mainland China	5	NA	NA	Jan-23
+73	Guizhou	Mainland China	3	NA	NA	Jan-23
+74	Hainan	Mainland China	5	NA	NA	Jan-23
+75	Hebei	Mainland China	1	1	NA	Jan-23
+76	Heilongjiang	Mainland China	2	NA	NA	Jan-23
+77	Henan	Mainland China	5	NA	NA	Jan-23
+78	Hong Kong	Hong Kong	2	NA	NA	Jan-23
+79	Hubei	Mainland China	444	17	28	Jan-23
+80	Hunan	Mainland China	9	NA	NA	Jan-23
+81	Inner Mongolia	Mainland China	NA	NA	NA	Jan-23
+82	Jiangsu	Mainland China	5	NA	NA	Jan-23
+83	Jiangxi	Mainland China	7	NA	NA	Jan-23
+84	Jilin	Mainland China	1	NA	NA	Jan-23
+85	Liaoning	Mainland China	3	NA	NA	Jan-23
+86	Macau	Macau	2	NA	NA	Jan-23
+87	Ningxia	Mainland China	1	NA	NA	Jan-23
+88	Qinghai	Mainland China	NA	NA	NA	Jan-23
+89	Shaanxi	Mainland China	3	NA	NA	Jan-23
+90	Shandong	Mainland China	6	NA	NA	Jan-23
+91	Shanghai	Mainland China	16	NA	NA	Jan-23
+92	Shanxi	Mainland China	1	NA	NA	Jan-23
+93	Sichuan	Mainland China	8	NA	NA	Jan-23
+94	Taiwan	Taiwan	1	NA	NA	Jan-23
+95	Tianjin	Mainland China	4	NA	NA	Jan-23
+96	Tibet	Mainland China	NA	NA	NA	Jan-23
+97	Washington	US	1	NA	NA	Jan-23
+98	Xinjiang	Mainland China	2	NA	NA	Jan-23
+99	Yunnan	Mainland China	2	NA	NA	Jan-23
+100	Zhejiang	Mainland China	27	NA	NA	Jan-23
+101		Japan	1	NA	NA	Jan-23
+102		Thailand	3	NA	NA	Jan-23
+103		South Korea	1	NA	NA	Jan-23
+104		Singapore	1	NA	NA	Jan-23
+105		Philippines	NA	NA	NA	Jan-23
+106		Malaysia	NA	NA	NA	Jan-23
+107		Vietnam	2	NA	NA	Jan-23
+108		Australia	NA	NA	NA	Jan-23
+109		Mexico	NA	NA	NA	Jan-23
+110		Brazil	NA	NA	NA	Jan-23
+111		Colombia	NA	NA	NA	Jan-23
+112	Hubei	Mainland China	549	24	31	Jan-24
+113	Guangdong	Mainland China	53	NA	2	Jan-24
+114	Zhejiang	Mainland China	43	NA	1	Jan-24
+115	Beijing	Mainland China	36	NA	1	Jan-24
+116	Chongqing	Mainland China	27	NA	NA	Jan-24
+117	Hunan	Mainland China	24	NA	NA	Jan-24
+118	Guangxi	Mainland China	23	NA	NA	Jan-24
+119	Shanghai	Mainland China	20	NA	1	Jan-24
+120	Jiangxi	Mainland China	18	NA	NA	Jan-24
+121	Sichuan	Mainland China	15	NA	NA	Jan-24
+122	Shandong	Mainland China	15	NA	NA	Jan-24
+123	Anhui	Mainland China	15	NA	NA	Jan-24
+124	Fujian	Mainland China	10	NA	NA	Jan-24
+125	Henan	Mainland China	9	NA	NA	Jan-24
+126	Jiangsu	Mainland China	9	NA	NA	Jan-24
+127	Hainan	Mainland China	8	NA	NA	Jan-24
+128	Tianjin	Mainland China	8	NA	NA	Jan-24
+129	Yunnan	Mainland China	5	NA	NA	Jan-24
+130	Shaanxi	Mainland China	5	NA	NA	Jan-24
+131	Heilongjiang	Mainland China	4	1	NA	Jan-24
+132	Liaoning	Mainland China	4	NA	NA	Jan-24
+133	Guizhou	Mainland China	3	NA	NA	Jan-24
+134	Jilin	Mainland China	3	NA	NA	Jan-24
+135	Taiwan	Taiwan	3	NA	NA	Jan-24
+136	Ningxia	Mainland China	2	NA	NA	Jan-24
+137	Hong Kong	Hong Kong	2	NA	NA	Jan-24
+138	Macau	Macau	2	NA	NA	Jan-24
+139	Hebei	Mainland China	2	1	NA	Jan-24
+140	Gansu	Mainland China	2	NA	NA	Jan-24
+141	Xinjiang	Mainland China	2	NA	NA	Jan-24
+142	Shanxi	Mainland China	1	NA	NA	Jan-24
+143	Inner Mongolia	Mainland China	1	NA	NA	Jan-24
+144	Qinghai	Mainland China	NA	NA	NA	Jan-24
+145	Washington	US	1	NA	NA	Jan-24
+146	Chicago	US	1	NA	NA	Jan-24
+147		Japan	2	NA	NA	Jan-24
+148		Thailand	5	NA	NA	Jan-24
+149		South Korea	2	NA	NA	Jan-24
+150		Singapore	3	NA	NA	Jan-24
+151		Vietnam	2	NA	NA	Jan-24
+152		France	2	NA	NA	Jan-24
+153	Hubei	Mainland China	1052	52	42	Jan-25
+154	Zhejiang	Mainland China	104	NA	1	Jan-25
+155	Guangdong	Mainland China	98	NA	2	Jan-25
+156	Henan	Mainland China	83	1	NA	Jan-25
+157	Chongqing	Mainland China	75	NA	NA	Jan-25
+158	Hunan	Mainland China	69	NA	NA	Jan-25
+159	Anhui	Mainland China	60	NA	NA	Jan-25
+160	Beijing	Mainland China	51	NA	2	Jan-25
+161	Sichuan	Mainland China	44	NA	NA	Jan-25
+162	Shanghai	Mainland China	40	1	1	Jan-25
+163	Shandong	Mainland China	39	NA	NA	Jan-25
+164	Jiangxi	Mainland China	36	NA	NA	Jan-25
+165	Guangxi	Mainland China	33	NA	NA	Jan-25
+166	Jiangsu	Mainland China	31	NA	1	Jan-25
+167	Hainan	Mainland China	19	NA	NA	Jan-25
+168	Liaoning	Mainland China	19	NA	NA	Jan-25
+169	Fujian	Mainland China	18	1	NA	Jan-25
+170	Heilongjiang	Mainland China	15	NA	NA	Jan-25
+171	Shaanxi	Mainland China	15	NA	NA	Jan-25
+172	Tianjin	Mainland China	13	NA	NA	Jan-25
+173	Hebei	Mainland China	13	1	NA	Jan-25
+174	Yunnan	Mainland China	11	NA	NA	Jan-25
+175	Shanxi	Mainland China	9	NA	NA	Jan-25
+176	Inner Mongolia	Mainland China	7	NA	NA	Jan-25
+177	Gansu	Mainland China	7	NA	NA	Jan-25
+178	Guizhou	Mainland China	5	NA	NA	Jan-25
+179	Hong Kong	Hong Kong	5	NA	NA	Jan-25
+180	Ningxia	Mainland China	4	NA	NA	Jan-25
+181	Jilin	Mainland China	4	NA	NA	Jan-25
+182	Xinjiang	Mainland China	4	NA	NA	Jan-25
+183	Taiwan	Taiwan	3	NA	NA	Jan-25
+184	Macau	Macau	2	NA	NA	Jan-25
+185	Qinghai	Mainland China	1	NA	NA	Jan-25
+186	Washington	US	1	NA	NA	Jan-25
+187	Illinois	US	1	NA	NA	Jan-25
+188		Japan	2	NA	NA	Jan-25
+189		Thailand	7	NA	NA	Jan-25
+190		South Korea	3	NA	NA	Jan-25
+191		Singapore	3	NA	NA	Jan-25
+192		Vietnam	2	NA	NA	Jan-25
+193		France	3	NA	NA	Jan-25
+194		Australia	4	NA	NA	Jan-25
+195		Nepal	1	NA	NA	Jan-25
+196		Malaysia	3	NA	NA	Jan-25
+197	Hubei	Mainland China	1423	76	44	Jan-26
+198	Guangdong	Mainland China	146	NA	2	Jan-26
+199	Zhejiang	Mainland China	128	NA	1	Jan-26
+200	Henan	Mainland China	128	1	NA	Jan-26
+201	Chongqing	Mainland China	110	NA	NA	Jan-26
+202	Hunan	Mainland China	100	NA	NA	Jan-26
+203	Anhui	Mainland China	70	NA	NA	Jan-26
+204	Sichuan	Mainland China	69	NA	NA	Jan-26
+205	Beijing	Mainland China	68	NA	2	Jan-26
+206	Shandong	Mainland China	63	NA	NA	Jan-26
+207	Shanghai	Mainland China	53	1	1	Jan-26
+208	Jiangxi	Mainland China	48	NA	NA	Jan-26
+209	Jiangsu	Mainland China	47	NA	1	Jan-26
+210	Guangxi	Mainland China	46	NA	NA	Jan-26
+211	Fujian	Mainland China	35	NA	NA	Jan-26
+212	Liaoning	Mainland China	23	NA	NA	Jan-26
+213	Hainan	Mainland China	22	NA	NA	Jan-26
+214	Shaanxi	Mainland China	22	NA	NA	Jan-26
+215	Heilongjiang	Mainland China	21	1	NA	Jan-26
+216	Yunnan	Mainland China	19	NA	NA	Jan-26
+217	Hebei	Mainland China	18	1	NA	Jan-26
+218	Tianjin	Mainland China	14	NA	NA	Jan-26
+219	Gansu	Mainland China	14	NA	NA	Jan-26
+220	Shanxi	Mainland China	13	NA	NA	Jan-26
+221	Inner Mongolia	Mainland China	11	NA	NA	Jan-26
+222	Hong Kong	Hong Kong	8	NA	NA	Jan-26
+223	Guizhou	Mainland China	7	NA	NA	Jan-26
+224	Jilin	Mainland China	6	NA	NA	Jan-26
+225	Macau	Macau	6	NA	NA	Jan-26
+226	Xinjiang	Mainland China	5	NA	NA	Jan-26
+227	Ningxia	Mainland China	4	NA	NA	Jan-26
+228	Taiwan	Taiwan	4	NA	NA	Jan-26
+229	Qinghai	Mainland China	4	NA	NA	Jan-26
+230	Washington	US	1	NA	NA	Jan-26
+231	Illinois	US	1	NA	NA	Jan-26
+232	California	US	2	NA	NA	Jan-26
+233	Arizona	US	1	NA	NA	Jan-26
+234		Japan	4	NA	1	Jan-26
+235		Thailand	8	NA	2	Jan-26
+236		South Korea	3	NA	NA	Jan-26
+237		Singapore	4	NA	NA	Jan-26
+238		Vietnam	2	NA	NA	Jan-26
+239		France	3	NA	NA	Jan-26
+240		Australia	4	NA	NA	Jan-26
+241		Nepal	1	NA	NA	Jan-26
+242		Malaysia	4	NA	NA	Jan-26
+243	Ontario	Canada	1	NA	NA	Jan-26
+244	Hubei	Mainland China	1423	76	44	Jan-26
+245	Guangdong	Mainland China	146	NA	2	Jan-26
+246	Zhejiang	Mainland China	128	NA	1	Jan-26
+247	Henan	Mainland China	128	1	NA	Jan-26
+248	Chongqing	Mainland China	110	NA	NA	Jan-26
+249	Hunan	Mainland China	100	NA	NA	Jan-26
+250	Anhui	Mainland China	70	NA	NA	Jan-26
+251	Sichuan	Mainland China	69	NA	NA	Jan-26
+252	Beijing	Mainland China	68	NA	2	Jan-26
+253	Shandong	Mainland China	63	NA	NA	Jan-26
+254	Shanghai	Mainland China	53	1	1	Jan-26
+255	Jiangxi	Mainland China	48	NA	NA	Jan-26
+256	Jiangsu	Mainland China	47	NA	1	Jan-26
+257	Guangxi	Mainland China	46	NA	NA	Jan-26
+258	Fujian	Mainland China	35	NA	NA	Jan-26
+259	Liaoning	Mainland China	23	NA	NA	Jan-26
+260	Hainan	Mainland China	22	NA	NA	Jan-26
+261	Shaanxi	Mainland China	22	NA	NA	Jan-26
+262	Heilongjiang	Mainland China	21	1	NA	Jan-26
+263	Yunnan	Mainland China	19	NA	NA	Jan-26
+264	Hebei	Mainland China	18	1	NA	Jan-26
+265	Tianjin	Mainland China	14	NA	NA	Jan-26
+266	Gansu	Mainland China	14	NA	NA	Jan-26
+267	Shanxi	Mainland China	13	NA	NA	Jan-26
+268	Inner Mongolia	Mainland China	11	NA	NA	Jan-26
+269	Hong Kong	Hong Kong	8	NA	NA	Jan-26
+270	Guizhou	Mainland China	7	NA	NA	Jan-26
+271	Jilin	Mainland China	6	NA	NA	Jan-26
+272	Macau	Macau	6	NA	NA	Jan-26
+273	Xinjiang	Mainland China	5	NA	NA	Jan-26
+274	Ningxia	Mainland China	4	NA	NA	Jan-26
+275	Taiwan	Taiwan	4	NA	NA	Jan-26
+276	Qinghai	Mainland China	4	NA	NA	Jan-26
+277	Washington	US	1	NA	NA	Jan-26
+278	Illinois	US	1	NA	NA	Jan-26
+279	California	US	2	NA	NA	Jan-26
+280	Arizona	US	1	NA	NA	Jan-26
+281		Japan	4	NA	1	Jan-26
+282		Thailand	8	NA	2	Jan-26
+283		South Korea	3	NA	NA	Jan-26
+284		Singapore	4	NA	NA	Jan-26
+285		Vietnam	2	NA	NA	Jan-26
+286		France	3	NA	NA	Jan-26
+287		Australia	4	NA	NA	Jan-26
+288		Nepal	1	NA	NA	Jan-26
+289		Malaysia	4	NA	NA	Jan-26
+290	Ontario	Canada	1	NA	NA	Jan-26
+291	Hubei	Mainland China	1423	76	45	Jan-27
+292	Guangdong	Mainland China	151	NA	4	Jan-27
+293	Zhejiang	Mainland China	128	NA	1	Jan-27
+294	Henan	Mainland China	128	1	NA	Jan-27
+295	Chongqing	Mainland China	110	NA	NA	Jan-27
+296	Hunan	Mainland China	100	NA	NA	Jan-27
+297	Beijing	Mainland China	80	1	2	Jan-27
+298	Shandong	Mainland China	75	NA	NA	Jan-27
+299	Jiangxi	Mainland China	72	NA	2	Jan-27
+300	Anhui	Mainland China	70	NA	NA	Jan-27
+301	Sichuan	Mainland China	69	NA	NA	Jan-27
+302	Fujian	Mainland China	59	NA	NA	Jan-27
+303	Shanghai	Mainland China	53	1	3	Jan-27
+304	Jiangsu	Mainland China	47	NA	1	Jan-27
+305	Guangxi	Mainland China	46	NA	NA	Jan-27
+306	Shaanxi	Mainland China	35	NA	NA	Jan-27
+307	Hainan	Mainland China	33	1	NA	Jan-27
+308	Liaoning	Mainland China	27	NA	NA	Jan-27
+309	Yunnan	Mainland China	26	NA	NA	Jan-27
+310	Tianjin	Mainland China	23	NA	NA	Jan-27
+311	Heilongjiang	Mainland China	21	1	NA	Jan-27
+312	Hebei	Mainland China	18	1	NA	Jan-27
+313	Gansu	Mainland China	14	NA	NA	Jan-27
+314	Shanxi	Mainland China	13	NA	NA	Jan-27
+315	Inner Mongolia	Mainland China	11	NA	NA	Jan-27
+316	Hong Kong	Hong Kong	8	NA	NA	Jan-27
+317	Guizhou	Mainland China	7	NA	NA	Jan-27
+318	Ningxia	Mainland China	7	NA	NA	Jan-27
+319	Jilin	Mainland China	6	NA	NA	Jan-27
+320	Macau	Macau	6	NA	NA	Jan-27
+321	Qinghai	Mainland China	6	NA	NA	Jan-27
+322	Taiwan	Taiwan	5	NA	NA	Jan-27
+323	Xinjiang	Mainland China	5	NA	NA	Jan-27
+324	Washington	US	1	NA	NA	Jan-27
+325	Illinois	US	1	NA	NA	Jan-27
+326	California	US	2	NA	NA	Jan-27
+327	Arizona	US	1	NA	NA	Jan-27
+328		Japan	4	NA	1	Jan-27
+329		Thailand	8	NA	2	Jan-27
+330		South Korea	4	NA	NA	Jan-27
+331		Singapore	5	NA	NA	Jan-27
+332		Vietnam	2	NA	NA	Jan-27
+333		France	3	NA	NA	Jan-27
+334		Nepal	1	NA	NA	Jan-27
+335		Malaysia	4	NA	NA	Jan-27
+336	Ontario	Canada	1	NA	NA	Jan-27
+337		Cambodia	1	NA	NA	Jan-27
+338		Sri Lanka	1	NA	NA	Jan-27
+339		Ivory Coast	1	NA	NA	Jan-27
+340	New South Wales	Australia	4	NA	NA	Jan-27
+341	Victoria	Australia	1	NA	NA	Jan-27
+342	Hubei	Mainland China	3554	125	80	Jan-28
+343	Zhejiang	Mainland China	296	NA	3	Jan-28
+344	Guangdong	Mainland China	241	NA	5	Jan-28
+345	Hunan	Mainland China	221	NA	NA	Jan-28
+346	Henan	Mainland China	206	2	1	Jan-28
+347	Anhui	Mainland China	152	NA	NA	Jan-28
+348	Chongqing	Mainland China	147	NA	1	Jan-28
+349	Shandong	Mainland China	121	NA	NA	Jan-28
+350	Jiangxi	Mainland China	109	NA	3	Jan-28
+351	Sichuan	Mainland China	108	NA	NA	Jan-28
+352	Jiangsu	Mainland China	99	NA	1	Jan-28
+353	Beijing	Mainland China	91	1	4	Jan-28
+354	Fujian	Mainland China	82	NA	NA	Jan-28
+355	Shanghai	Mainland China	80	1	4	Jan-28
+356	Guangxi	Mainland China	58	NA	2	Jan-28
+357	Shaanxi	Mainland China	56	NA	NA	Jan-28
+358	Hebei	Mainland China	48	1	NA	Jan-28
+359	Yunnan	Mainland China	44	NA	NA	Jan-28
+360	Hainan	Mainland China	43	1	NA	Jan-28
+361	Heilongjiang	Mainland China	37	1	NA	Jan-28
+362	Liaoning	Mainland China	36	NA	NA	Jan-28
+363	Shanxi	Mainland China	27	NA	NA	Jan-28
+364	Tianjin	Mainland China	25	NA	NA	Jan-28
+365	Gansu	Mainland China	24	NA	NA	Jan-28
+366	Inner Mongolia	Mainland China	16	NA	NA	Jan-28
+367	Xinjiang	Mainland China	13	NA	NA	Jan-28
+368	Ningxia	Mainland China	12	NA	NA	Jan-28
+369	Guizhou	Mainland China	9	NA	NA	Jan-28
+370	Jilin	Mainland China	9	NA	NA	Jan-28
+371	Hong Kong	Hong Kong	8	NA	NA	Jan-28
+372	Taiwan	Taiwan	8	NA	NA	Jan-28
+373	Macau	Macau	7	NA	NA	Jan-28
+374	Qinghai	Mainland China	6	NA	NA	Jan-28
+375	Washington	US	1	NA	NA	Jan-28
+376	Illinois	US	1	NA	NA	Jan-28
+377	California	US	2	NA	NA	Jan-28
+378	Arizona	US	1	NA	NA	Jan-28
+379		Japan	7	NA	1	Jan-28
+380		Thailand	14	NA	5	Jan-28
+381		South Korea	4	NA	NA	Jan-28
+382		Singapore	7	NA	NA	Jan-28
+383		Vietnam	2	NA	NA	Jan-28
+384		France	4	NA	NA	Jan-28
+385		Nepal	1	NA	NA	Jan-28
+386		Malaysia	7	NA	NA	Jan-28
+387	Ontario	Canada	1	NA	NA	Jan-28
+388	British Columbia	Canada	1	NA	NA	Jan-28
+389		Cambodia	1	NA	NA	Jan-28
+390		Sri Lanka	1	NA	NA	Jan-28
+391	New South Wales	Australia	4	NA	NA	Jan-28
+392	Victoria	Australia	1	NA	NA	Jan-28
+393	Bavaria	Germany	4	NA	NA	Jan-28
+394	Hubei	Mainland China	4586	162	90	Jan-29
+395	Zhejiang	Mainland China	428	NA	4	Jan-29
+396	Guangdong	Mainland China	311	NA	6	Jan-29
+397	Henan	Mainland China	278	2	2	Jan-29
+398	Hunan	Mainland China	277	NA	NA	Jan-29
+399	Anhui	Mainland China	200	NA	2	Jan-29
+400	Chongqing	Mainland China	165	NA	1	Jan-29
+401	Jiangxi	Mainland China	162	NA	4	Jan-29
+402	Shandong	Mainland China	145	NA	1	Jan-29
+403	Sichuan	Mainland China	142	1	1	Jan-29
+404	Jiangsu	Mainland China	129	NA	1	Jan-29
+405	Beijing	Mainland China	111	1	4	Jan-29
+406	Shanghai	Mainland China	101	1	5	Jan-29
+407	Fujian	Mainland China	101	NA	NA	Jan-29
+408	Guangxi	Mainland China	78	NA	2	Jan-29
+409	Hebei	Mainland China	65	1	NA	Jan-29
+410	Shaanxi	Mainland China	56	NA	NA	Jan-29
+411	Yunnan	Mainland China	55	NA	NA	Jan-29
+412	Hainan	Mainland China	43	1	NA	Jan-29
+413	Heilongjiang	Mainland China	43	1	NA	Jan-29
+414	Liaoning	Mainland China	39	NA	1	Jan-29
+415	Shanxi	Mainland China	35	NA	1	Jan-29
+416	Tianjin	Mainland China	27	NA	NA	Jan-29
+417	Gansu	Mainland China	26	NA	NA	Jan-29
+418	Inner Mongolia	Mainland China	16	NA	NA	Jan-29
+419	Jilin	Mainland China	14	NA	1	Jan-29
+420	Xinjiang	Mainland China	14	NA	NA	Jan-29
+421	Guizhou	Mainland China	12	NA	1	Jan-29
+422	Ningxia	Mainland China	12	NA	NA	Jan-29
+423	Hong Kong	Hong Kong	10	NA	NA	Jan-29
+424	Taiwan	Taiwan	8	NA	NA	Jan-29
+425	Macau	Macau	7	NA	NA	Jan-29
+426	Qinghai	Mainland China	6	NA	NA	Jan-29
+427	Tibet	Mainland China	1	NA	NA	Jan-29
+428	Washington	US	1	NA	NA	Jan-29
+429	Illinois	US	1	NA	NA	Jan-29
+430	California	US	2	NA	NA	Jan-29
+431	Arizona	US	1	NA	NA	Jan-29
+432		Japan	11	NA	1	Jan-29
+433		Thailand	14	NA	5	Jan-29
+434		South Korea	4	NA	NA	Jan-29
+435		Singapore	10	NA	NA	Jan-29
+436		Vietnam	2	NA	NA	Jan-29
+437		France	5	NA	NA	Jan-29
+438		Nepal	1	NA	NA	Jan-29
+439		Malaysia	7	NA	NA	Jan-29
+440	Ontario	Canada	2	NA	NA	Jan-29
+441	British Columbia	Canada	1	NA	NA	Jan-29
+442		Cambodia	1	NA	NA	Jan-29
+443		Sri Lanka	1	NA	NA	Jan-29
+444	New South Wales	Australia	4	NA	NA	Jan-29
+445	Victoria	Australia	2	NA	NA	Jan-29
+446	Queensland	Australia	1	NA	NA	Jan-29
+447	Bavaria	Germany	4	NA	NA	Jan-29
+448		Finland	1	NA	NA	Jan-29
+449		United Arab Emirates	4	NA	NA	Jan-29
+450	Hubei	Mainland China	5806	204	116	Jan-30
+451	Zhejiang	Mainland China	537	NA	9	Jan-30
+452	Guangdong	Mainland China	393	NA	11	Jan-30
+453	Henan	Mainland China	352	2	3	Jan-30
+454	Hunan	Mainland China	332	NA	2	Jan-30
+455	Jiangxi	Mainland China	240	NA	7	Jan-30
+456	Anhui	Mainland China	237	NA	3	Jan-30
+457	Chongqing	Mainland China	206	NA	1	Jan-30
+458	Shandong	Mainland China	178	NA	2	Jan-30
+459	Sichuan	Mainland China	177	1	1	Jan-30
+460	Jiangsu	Mainland China	168	NA	2	Jan-30
+461	Shanghai	Mainland China	128	1	9	Jan-30
+462	Beijing	Mainland China	121	1	5	Jan-30
+463	Fujian	Mainland China	101	NA	NA	Jan-30
+464	Guangxi	Mainland China	87	NA	2	Jan-30
+465	Hebei	Mainland China	82	1	NA	Jan-30
+466	Yunnan	Mainland China	76	NA	NA	Jan-30
+467	Shaanxi	Mainland China	87	NA	NA	Jan-30
+468	Heilongjiang	Mainland China	59	2	NA	Jan-30
+469	Hainan	Mainland China	50	1	1	Jan-30
+470	Liaoning	Mainland China	45	NA	1	Jan-30
+471	Shanxi	Mainland China	39	NA	1	Jan-30
+472	Tianjin	Mainland China	32	NA	NA	Jan-30
+473	Gansu	Mainland China	29	NA	NA	Jan-30
+474	Ningxia	Mainland China	21	NA	1	Jan-30
+475	Inner Mongolia	Mainland China	20	NA	NA	Jan-30
+476	Xinjiang	Mainland China	17	NA	NA	Jan-30
+477	Guizhou	Mainland China	15	NA	1	Jan-30
+478	Jilin	Mainland China	14	NA	1	Jan-30
+479	Hong Kong	Hong Kong	12	NA	NA	Jan-30
+480	Taiwan	Taiwan	9	NA	NA	Jan-30
+481	Qinghai	Mainland China	8	NA	NA	Jan-30
+482	Macau	Macau	7	NA	NA	Jan-30
+483	Tibet	Mainland China	1	NA	NA	Jan-30
+484	Washington	US	1	NA	NA	Jan-30
+485	Illinois	US	2	NA	NA	Jan-30
+486	California	US	2	NA	NA	Jan-30
+487	Arizona	US	1	NA	NA	Jan-30
+488		Japan	11	NA	1	Jan-30
+489		Thailand	14	NA	5	Jan-30
+490		South Korea	6	NA	NA	Jan-30
+491		Singapore	10	NA	NA	Jan-30
+492		Vietnam	2	NA	NA	Jan-30
+493		France	5	NA	NA	Jan-30
+494		Nepal	1	NA	NA	Jan-30
+495		Malaysia	8	NA	NA	Jan-30
+496	Ontario	Canada	2	NA	NA	Jan-30
+497	British Columbia	Canada	1	NA	NA	Jan-30
+498		Cambodia	1	NA	NA	Jan-30
+499		Sri Lanka	1	NA	NA	Jan-30
+500	New South Wales	Australia	4	NA	2	Jan-30
+501	Victoria	Australia	2	NA	NA	Jan-30
+502	Queensland	Australia	3	NA	NA	Jan-30
+503	Bavaria	Germany	4	NA	NA	Jan-30
+504		Finland	1	NA	NA	Jan-30
+505		United Arab Emirates	4	NA	NA	Jan-30
+506		Philippines	1	NA	NA	Jan-30
+507		India	1	NA	NA	Jan-30
+508		Italy	2	NA	NA	Jan-30
+509	Hubei	Mainland China	5806	204	141	Jan-31
+510	Zhejiang	Mainland China	538	NA	14	Jan-31
+511	Guangdong	Mainland China	436	NA	11	Jan-31
+512	Henan	Mainland China	352	2	3	Jan-31
+513	Hunan	Mainland China	332	NA	2	Jan-31
+514	Jiangxi	Mainland China	240	NA	7	Jan-31
+515	Anhui	Mainland China	237	NA	3	Jan-31
+516	Chongqing	Mainland China	211	NA	1	Jan-31
+517	Shandong	Mainland China	184	NA	2	Jan-31
+518	Sichuan	Mainland China	177	1	1	Jan-31
+519	Jiangsu	Mainland China	168	NA	5	Jan-31
+520	Beijing	Mainland China	139	1	5	Jan-31
+521	Shanghai	Mainland China	135	1	9	Jan-31
+522	Fujian	Mainland China	120	NA	NA	Jan-31
+523	Guangxi	Mainland China	87	NA	2	Jan-31
+524	Shaanxi	Mainland China	87	NA	NA	Jan-31
+525	Yunnan	Mainland China	83	NA	1	Jan-31
+526	Hebei	Mainland China	82	1	NA	Jan-31
+527	Heilongjiang	Mainland China	59	2	NA	Jan-31
+528	Hainan	Mainland China	52	1	1	Jan-31
+529	Liaoning	Mainland China	48	NA	1	Jan-31
+530	Shanxi	Mainland China	39	NA	1	Jan-31
+531	Tianjin	Mainland China	32	NA	NA	Jan-31
+532	Guizhou	Mainland China	29	NA	2	Jan-31
+533	Gansu	Mainland China	29	NA	NA	Jan-31
+534	Ningxia	Mainland China	21	NA	NA	Jan-31
+535	Inner Mongolia	Mainland China	20	NA	1	Jan-31
+536	Xinjiang	Mainland China	17	NA	NA	Jan-31
+537	Jilin	Mainland China	14	NA	1	Jan-31
+538	Hong Kong	Hong Kong	12	NA	NA	Jan-31
+539	Taiwan	Taiwan	10	NA	NA	Jan-31
+540	Qinghai	Mainland China	8	NA	NA	Jan-31
+541	Macau	Macau	7	NA	NA	Jan-31
+542	Tibet	Mainland China	1	NA	NA	Jan-31
+543		Thailand	19	NA	5	Jan-31
+544		Japan	15	NA	1	Jan-31
+545		Singapore	13	NA	NA	Jan-31
+546		South Korea	11	NA	NA	Jan-31
+547		Malaysia	8	NA	NA	Jan-31
+548		France	5	NA	NA	Jan-31
+549	Bavaria	Germany	5	NA	NA	Jan-31
+550	New South Wales	Australia	4	NA	2	Jan-31
+551		United Arab Emirates	4	NA	NA	Jan-31
+552	Victoria	Australia	3	NA	NA	Jan-31
+553	Illinois	US	2	NA	NA	Jan-31
+554	California	US	2	NA	NA	Jan-31
+555		Vietnam	2	NA	NA	Jan-31
+556	Ontario	Canada	2	NA	NA	Jan-31
+557	Queensland	Australia	2	NA	NA	Jan-31
+558		Italy	2	NA	NA	Jan-31
+559		UK	2	NA	NA	Jan-31
+560		Russia	2	NA	NA	Jan-31
+561	Washington	US	1	NA	NA	Jan-31
+562	Arizona	US	1	NA	NA	Jan-31
+563		Nepal	1	NA	NA	Jan-31
+564	British Columbia	Canada	1	NA	NA	Jan-31
+565		Cambodia	1	NA	NA	Jan-31
+566		Sri Lanka	1	NA	NA	Jan-31
+567		Finland	1	NA	NA	Jan-31
+568		Philippines	1	NA	NA	Jan-31
+569		India	1	NA	NA	Jan-31
+570		Sweden	1	NA	NA	Jan-31
+571	Hubei	Mainland China	9074	294	215	Feb-01
+572	Zhejiang	Mainland China	661	0	23	Feb-01
+573	Guangdong	Mainland China	604	0	14	Feb-01
+574	Henan	Mainland China	493	2	4	Feb-01
+575	Hunan	Mainland China	463	0	8	Feb-01
+576	Anhui	Mainland China	340	0	5	Feb-01
+577	Jiangxi	Mainland China	333	0	10	Feb-01
+578	Chongqing	Mainland China	262	1	3	Feb-01
+579	Jiangsu	Mainland China	236	0	6	Feb-01
+580	Sichuan	Mainland China	231	1	3	Feb-01
+581	Shandong	Mainland China	225	0	5	Feb-01
+582	Beijing	Mainland China	183	1	9	Feb-01
+583	Shanghai	Mainland China	177	1	10	Feb-01
+584	Fujian	Mainland China	159	0	0	Feb-01
+585	Shaanxi	Mainland China	116	0	0	Feb-01
+586	Guangxi	Mainland China	111	0	2	Feb-01
+587	Hebei	Mainland China	104	1	3	Feb-01
+588	Heilongjiang	Mainland China	95	2	2	Feb-01
+589	Yunnan	Mainland China	93	0	2	Feb-01
+590	Liaoning	Mainland China	64	0	1	Feb-01
+591	Hainan	Mainland China	63	1	1	Feb-01
+592	Shanxi	Mainland China	56	0	1	Feb-01
+593	Tianjin	Mainland China	45	0	0	Feb-01
+594	Gansu	Mainland China	40	0	0	Feb-01
+595	Guizhou	Mainland China	38	0	2	Feb-01
+596	Ningxia	Mainland China	28	0	0	Feb-01
+597	Inner Mongolia	Mainland China	27	0	1	Feb-01
+598	Jilin	Mainland China	23	0	1	Feb-01
+599	Xinjiang	Mainland China	21	0	0	Feb-01
+600		Japan	20	0	1	Feb-01
+601		Thailand	19	0	5	Feb-01
+602		Singapore	18	0	0	Feb-01
+603		South Korea	15	0	0	Feb-01
+604	Hong Kong	Hong Kong	14	0	0	Feb-01
+605	Taiwan	Taiwan	10	0	0	Feb-01
+606	Qinghai	Mainland China	9	0	0	Feb-01
+607		Germany	8	0	0	Feb-01
+608		Malaysia	8	0	0	Feb-01
+609	Macau	Macau	7	0	0	Feb-01
+610		France	6	0	0	Feb-01
+611		Vietnam	6	0	1	Feb-01
+612	New South Wales	Australia	4	0	2	Feb-01
+613	Victoria	Australia	4	0	0	Feb-01
+614		United Arab Emirates	4	0	0	Feb-01
+615	Queensland	Australia	2	0	0	Feb-01
+616	Ontario	Canada	3	0	0	Feb-01
+617		Italy	2	0	0	Feb-01
+618		Philippines	2	1	0	Feb-01
+619		Russia	2	0	0	Feb-01
+620		UK	2	0	0	Feb-01
+621	Chicago, IL	US	2	0	0	Feb-01
+622	South Australia	Australia	2	0	0	Feb-01
+623		Cambodia	1	0	0	Feb-01
+624	British Columbia	Canada	1	0	0	Feb-01
+625		Finland	1	0	0	Feb-01
+626		India	1	0	0	Feb-01
+627	Tibet	Mainland China	1	0	0	Feb-01
+628		Nepal	1	0	0	Feb-01
+629		Spain	1	0	0	Feb-01
+630		Sri Lanka	1	0	0	Feb-01
+631		Sweden	1	0	0	Feb-01
+632	Boston, MA	US	1	0	0	Feb-01
+633	Los Angeles, CA	US	1	0	0	Feb-01
+634	Orange, CA	US	1	0	0	Feb-01
+635	Santa Clara, CA	US	1	0	0	Feb-01
+636	Seattle, WA	US	1	0	0	Feb-01
+637	Tempe, AZ	US	1	0	0	Feb-01
+638	Hubei	Mainland China	11177	350	295	Feb-02
+639	Zhejiang	Mainland China	724	0	36	Feb-02
+640	Guangdong	Mainland China	683	0	15	Feb-02
+641	Henan	Mainland China	566	2	14	Feb-02
+642	Hunan	Mainland China	521	0	16	Feb-02
+643	Anhui	Mainland China	408	0	7	Feb-02
+644	Jiangxi	Mainland China	391	0	18	Feb-02
+645	Chongqing	Mainland China	300	2	7	Feb-02
+646	Jiangsu	Mainland China	271	0	7	Feb-02
+647	Sichuan	Mainland China	254	1	12	Feb-02
+648	Shandong	Mainland China	246	0	6	Feb-02
+649	Shanghai	Mainland China	193	1	10	Feb-02
+650	Beijing	Mainland China	191	1	9	Feb-02
+651	Fujian	Mainland China	159	0	0	Feb-02
+652	Guangxi	Mainland China	127	0	2	Feb-02
+653	Shaanxi	Mainland China	116	0	0	Feb-02
+654	Hebei	Mainland China	113	1	3	Feb-02
+655	Yunnan	Mainland China	105	0	3	Feb-02
+656	Heilongjiang	Mainland China	95	2	2	Feb-02
+657	Hainan	Mainland China	71	1	4	Feb-02
+658	Liaoning	Mainland China	70	0	1	Feb-02
+659	Shanxi	Mainland China	66	0	3	Feb-02
+660	Gansu	Mainland China	51	0	3	Feb-02
+661	Tianjin	Mainland China	48	0	1	Feb-02
+662	Guizhou	Mainland China	46	0	2	Feb-02
+663	Jilin	Mainland China	31	0	1	Feb-02
+664	Ningxia	Mainland China	28	0	0	Feb-02
+665	Inner Mongolia	Mainland China	27	0	1	Feb-02
+666	Xinjiang	Mainland China	24	0	0	Feb-02
+667		Japan	20	0	1	Feb-02
+668		Thailand	19	0	5	Feb-02
+669		Singapore	18	0	0	Feb-02
+670	Hong Kong	Hong Kong	15	0	0	Feb-02
+671		South Korea	15	0	0	Feb-02
+672	Qinghai	Mainland China	11	0	0	Feb-02
+673		Germany	10	0	0	Feb-02
+674	Taiwan	Taiwan	10	0	0	Feb-02
+675	Macau	Macau	8	0	0	Feb-02
+676		Malaysia	8	0	0	Feb-02
+677		France	6	0	0	Feb-02
+678		Vietnam	6	0	1	Feb-02
+679		United Arab Emirates	5	0	0	Feb-02
+680	New South Wales	Australia	4	0	2	Feb-02
+681	Victoria	Australia	4	0	0	Feb-02
+682	Ontario	Canada	3	0	0	Feb-02
+683	Queensland	Australia	2	0	0	Feb-02
+684	South Australia	Australia	2	0	0	Feb-02
+685		India	2	0	0	Feb-02
+686		Italy	2	0	0	Feb-02
+687		Philippines	2	1	0	Feb-02
+688		Russia	2	0	0	Feb-02
+689		UK	2	0	0	Feb-02
+690	Chicago, IL	US	2	0	0	Feb-02
+691	Santa Clara, CA	US	2	0	0	Feb-02
+692		Cambodia	1	0	0	Feb-02
+693	British Columbia	Canada	1	0	0	Feb-02
+694		Finland	1	0	0	Feb-02
+695	Tibet	Mainland China	1	0	0	Feb-02
+696		Nepal	1	0	0	Feb-02
+697		Spain	1	0	0	Feb-02
+698		Sri Lanka	1	0	0	Feb-02
+699		Sweden	1	0	0	Feb-02
+700	Boston, MA	US	1	0	0	Feb-02
+701	Los Angeles, CA	US	1	0	0	Feb-02
+702	Orange, CA	US	1	0	0	Feb-02
+703	Seattle, WA	US	1	0	0	Feb-02
+704	Tempe, AZ	US	1	0	0	Feb-02
+705	Hubei	Mainland China	13522	414	396	Feb-03
+706	Zhejiang	Mainland China	829	0	48	Feb-03
+707	Guangdong	Mainland China	797	0	21	Feb-03
+708	Henan	Mainland China	675	2	20	Feb-03
+709	Hunan	Mainland China	593	0	22	Feb-03
+710	Anhui	Mainland China	480	0	14	Feb-03
+711	Jiangxi	Mainland China	476	0	19	Feb-03
+712	Chongqing	Mainland China	337	2	9	Feb-03
+713	Jiangsu	Mainland China	308	0	8	Feb-03
+714	Sichuan	Mainland China	282	1	14	Feb-03
+715	Shandong	Mainland China	270	0	7	Feb-03
+716	Beijing	Mainland China	212	1	12	Feb-03
+717	Shanghai	Mainland China	208	1	10	Feb-03
+718	Fujian	Mainland China	179	0	1	Feb-03
+719	Heilongjiang	Mainland China	155	2	2	Feb-03
+720	Shaanxi	Mainland China	142	0	1	Feb-03
+721	Guangxi	Mainland China	139	0	7	Feb-03
+722	Hebei	Mainland China	126	1	3	Feb-03
+723	Yunnan	Mainland China	117	0	5	Feb-03
+724	Hainan	Mainland China	79	1	4	Feb-03
+725	Liaoning	Mainland China	74	0	1	Feb-03
+726	Shanxi	Mainland China	74	0	2	Feb-03
+727	Tianjin	Mainland China	60	0	1	Feb-03
+728	Guizhou	Mainland China	56	0	2	Feb-03
+729	Gansu	Mainland China	55	0	3	Feb-03
+730	Jilin	Mainland China	42	0	1	Feb-03
+731	Inner Mongolia	Mainland China	34	0	1	Feb-03
+732	Ningxia	Mainland China	34	0	1	Feb-03
+733	Xinjiang	Mainland China	29	0	0	Feb-03
+734		Japan	20	0	1	Feb-03
+735		Thailand	19	0	5	Feb-03
+736		Singapore	18	0	0	Feb-03
+737	Hong Kong	Hong Kong	15	0	0	Feb-03
+738	Qinghai	Mainland China	15	0	0	Feb-03
+739		South Korea	15	0	0	Feb-03
+740		Germany	12	0	0	Feb-03
+741	Taiwan	Taiwan	10	0	0	Feb-03
+742	Macau	Macau	8	0	0	Feb-03
+743		Malaysia	8	0	0	Feb-03
+744		Vietnam	8	0	1	Feb-03
+745		France	6	0	0	Feb-03
+746		United Arab Emirates	5	0	0	Feb-03
+747	New South Wales	Australia	4	0	2	Feb-03
+748	Victoria	Australia	4	0	0	Feb-03
+749		India	3	0	0	Feb-03
+750	Queensland	Australia	2	0	0	Feb-03
+751	South Australia	Australia	2	0	0	Feb-03
+752	Toronto, ON	Canada	2	0	0	Feb-03
+753		Italy	2	0	0	Feb-03
+754		Philippines	2	1	0	Feb-03
+755		Russia	2	0	0	Feb-03
+756		UK	2	0	0	Feb-03
+757	Chicago, IL	US	2	0	0	Feb-03
+758	San Benito, CA	US	2	0	0	Feb-03
+759	Santa Clara, CA	US	2	0	0	Feb-03
+760		Cambodia	1	0	0	Feb-03
+761	British Columbia	Canada	1	0	0	Feb-03
+762	London, ON	Canada	1	0	0	Feb-03
+763		Finland	1	0	0	Feb-03
+764	Tibet	Mainland China	1	0	0	Feb-03
+765		Nepal	1	0	0	Feb-03
+766		Spain	1	0	0	Feb-03
+767		Sri Lanka	1	0	0	Feb-03
+768		Sweden	1	0	0	Feb-03
+769	Boston, MA	US	1	0	0	Feb-03
+770	Los Angeles, CA	US	1	0	0	Feb-03
+771	Orange, CA	US	1	0	0	Feb-03
+772	Seattle, WA	US	1	0	0	Feb-03
+773	Tempe, AZ	US	1	0	0	Feb-03
+774	Hubei	Mainland China	16678	479	522	Feb-04
+775	Zhejiang	Mainland China	895	0	63	Feb-04
+776	Guangdong	Mainland China	870	0	32	Feb-04
+777	Henan	Mainland China	764	2	41	Feb-04
+778	Hunan	Mainland China	661	0	35	Feb-04
+779	Jiangxi	Mainland China	548	0	27	Feb-04
+780	Anhui	Mainland China	530	0	20	Feb-04
+781	Chongqing	Mainland China	366	2	14	Feb-04
+782	Jiangsu	Mainland China	341	0	13	Feb-04
+783	Sichuan	Mainland China	301	1	23	Feb-04
+784	Shandong	Mainland China	298	0	13	Feb-04
+785	Shanghai	Mainland China	233	1	12	Feb-04
+786	Beijing	Mainland China	228	1	23	Feb-04
+787	Fujian	Mainland China	194	0	3	Feb-04
+788	Heilongjiang	Mainland China	190	2	4	Feb-04
+789	Shaanxi	Mainland China	165	0	2	Feb-04
+790	Guangxi	Mainland China	150	0	10	Feb-04
+791	Hebei	Mainland China	135	1	4	Feb-04
+792	Yunnan	Mainland China	122	0	5	Feb-04
+793	Hainan	Mainland China	91	1	4	Feb-04
+794	Liaoning	Mainland China	81	0	2	Feb-04
+795	Shanxi	Mainland China	81	0	4	Feb-04
+796	Tianjin	Mainland China	67	0	2	Feb-04
+797	Guizhou	Mainland China	64	0	5	Feb-04
+798	Gansu	Mainland China	57	0	4	Feb-04
+799	Jilin	Mainland China	54	0	1	Feb-04
+800	Inner Mongolia	Mainland China	42	0	1	Feb-04
+801	Ningxia	Mainland China	34	0	1	Feb-04
+802	Xinjiang	Mainland China	32	0	0	Feb-04
+803		Thailand	25	0	5	Feb-04
+804		Singapore	24	0	0	Feb-04
+805		Japan	22	0	1	Feb-04
+806	Hong Kong	Hong Kong	18	1	0	Feb-04
+807	Qinghai	Mainland China	17	0	0	Feb-04
+808		South Korea	16	0	0	Feb-04
+809		Germany	12	0	0	Feb-04
+810	Taiwan	Taiwan	11	0	0	Feb-04
+811	Macau	Macau	10	0	0	Feb-04
+812		Malaysia	10	0	0	Feb-04
+813		Vietnam	8	0	1	Feb-04
+814		France	6	0	0	Feb-04
+815		United Arab Emirates	5	0	0	Feb-04
+816	New South Wales	Australia	4	0	2	Feb-04
+817	Victoria	Australia	4	0	0	Feb-04
+818	Queensland	Australia	3	0	0	Feb-04
+819		India	3	0	0	Feb-04
+820	South Australia	Australia	2	0	0	Feb-04
+821	Toronto, ON	Canada	2	0	0	Feb-04
+822		Italy	2	0	0	Feb-04
+823		Philippines	2	1	0	Feb-04
+824		Russia	2	0	0	Feb-04
+825		UK	2	0	0	Feb-04
+826	Chicago, IL	US	2	0	0	Feb-04
+827	San Benito, CA	US	2	0	0	Feb-04
+828	Santa Clara, CA	US	2	0	0	Feb-04
+829		Belgium	1	0	0	Feb-04
+830		Cambodia	1	0	0	Feb-04
+831	British Columbia	Canada	1	0	0	Feb-04
+832	London, ON	Canada	1	0	0	Feb-04
+833		Finland	1	0	0	Feb-04
+834	Tibet	Mainland China	1	0	0	Feb-04
+835		Nepal	1	0	0	Feb-04
+836		Spain	1	0	0	Feb-04
+837		Sri Lanka	1	0	0	Feb-04
+838		Sweden	1	0	0	Feb-04
+839	Boston, MA	US	1	0	0	Feb-04
+840	Los Angeles, CA	US	1	0	0	Feb-04
+841	Orange, CA	US	1	0	0	Feb-04
+842	Seattle, WA	US	1	0	0	Feb-04
+843	Tempe, AZ	US	1	0	0	Feb-04
+844	Hubei	Mainland China	16678	479	538	Feb-05
+845	Guangdong	Mainland China	895	0	49	Feb-05
+846	Zhejiang	Mainland China	895	0	78	Feb-05
+847	Henan	Mainland China	764	2	47	Feb-05
+848	Hunan	Mainland China	661	0	54	Feb-05
+849	Jiangxi	Mainland China	548	0	27	Feb-05
+850	Anhui	Mainland China	530	0	23	Feb-05
+851	Chongqing	Mainland China	376	2	15	Feb-05
+852	Jiangsu	Mainland China	341	0	23	Feb-05
+853	Shandong	Mainland China	307	0	15	Feb-05
+854	Sichuan	Mainland China	301	1	24	Feb-05
+855	Beijing	Mainland China	253	1	24	Feb-05
+856	Shanghai	Mainland China	243	1	15	Feb-05
+857	Fujian	Mainland China	205	0	11	Feb-05
+858	Heilongjiang	Mainland China	190	2	7	Feb-05
+859	Shaanxi	Mainland China	165	0	6	Feb-05
+860	Guangxi	Mainland China	150	0	13	Feb-05
+861	Hebei	Mainland China	135	1	6	Feb-05
+862	Yunnan	Mainland China	124	0	5	Feb-05
+863	Hainan	Mainland China	99	1	5	Feb-05
+864	Liaoning	Mainland China	89	0	4	Feb-05
+865	Shanxi	Mainland China	81	0	5	Feb-05
+866	Tianjin	Mainland China	69	1	2	Feb-05
+867	Guizhou	Mainland China	64	1	9	Feb-05
+868	Gansu	Mainland China	62	0	6	Feb-05
+869	Jilin	Mainland China	54	0	2	Feb-05
+870	Inner Mongolia	Mainland China	42	0	3	Feb-05
+871	Ningxia	Mainland China	34	0	1	Feb-05
+872	Xinjiang	Mainland China	32	0	0	Feb-05
+873		Singapore	28	0	0	Feb-05
+874		Thailand	25	0	5	Feb-05
+875		Japan	22	0	1	Feb-05
+876	Hong Kong	Hong Kong	21	1	0	Feb-05
+877		South Korea	19	0	0	Feb-05
+878	Qinghai	Mainland China	17	0	3	Feb-05
+879		Germany	12	0	0	Feb-05
+880		Malaysia	12	0	0	Feb-05
+881	Taiwan	Taiwan	11	0	0	Feb-05
+882	Macau	Macau	10	0	0	Feb-05
+883		Vietnam	8	0	1	Feb-05
+884		France	6	0	0	Feb-05
+885		United Arab Emirates	5	0	0	Feb-05
+886	New South Wales	Australia	4	0	2	Feb-05
+887	Victoria	Australia	4	0	0	Feb-05
+888	Queensland	Australia	3	0	0	Feb-05
+889		India	3	0	0	Feb-05
+890	South Australia	Australia	2	0	0	Feb-05
+891	Toronto, ON	Canada	2	0	0	Feb-05
+892		Italy	2	0	0	Feb-05
+893		Philippines	2	1	0	Feb-05
+894		Russia	2	0	0	Feb-05
+895		UK	2	0	0	Feb-05
+896	Chicago, IL	US	2	0	0	Feb-05
+897	San Benito, CA	US	2	0	0	Feb-05
+898	Santa Clara, CA	US	2	0	0	Feb-05
+899		Belgium	1	0	0	Feb-05
+900		Cambodia	1	0	0	Feb-05
+901	British Columbia	Canada	1	0	0	Feb-05
+902	London, ON	Canada	1	0	0	Feb-05
+903		Finland	1	0	0	Feb-05
+904	Tibet	Mainland China	1	0	0	Feb-05
+905		Nepal	1	0	0	Feb-05
+906		Spain	1	0	0	Feb-05
+907		Sri Lanka	1	0	0	Feb-05
+908		Sweden	1	0	0	Feb-05
+909	Boston, MA	US	1	0	0	Feb-05
+910	Los Angeles, CA	US	1	0	0	Feb-05
+911	Orange, CA	US	1	0	0	Feb-05
+912	Seattle, WA	US	1	0	0	Feb-05
+913	Tempe, AZ	US	1	0	0	Feb-05
+914	Hubei	Mainland China	22112	618	817	Feb-06
+915	Guangdong	Mainland China	970	0	69	Feb-06
+916	Zhejiang	Mainland China	954	0	94	Feb-06
+917	Henan	Mainland China	851	2	56	Feb-06
+918	Hunan	Mainland China	711	0	81	Feb-06
+919	Jiangxi	Mainland China	600	0	37	Feb-06
+920	Anhui	Mainland China	591	0	34	Feb-06
+921	Chongqing	Mainland China	400	2	24	Feb-06
+922	Jiangsu	Mainland China	373	0	34	Feb-06
+923	Shandong	Mainland China	347	0	27	Feb-06
+924	Sichuan	Mainland China	321	1	31	Feb-06
+925	Beijing	Mainland China	274	1	31	Feb-06
+926	Shanghai	Mainland China	257	1	25	Feb-06
+927	Heilongjiang	Mainland China	227	3	8	Feb-06
+928	Fujian	Mainland China	215	0	14	Feb-06
+929	Shaanxi	Mainland China	173	0	9	Feb-06
+930	Guangxi	Mainland China	168	0	14	Feb-06
+931	Hebei	Mainland China	157	1	13	Feb-06
+932	Yunnan	Mainland China	133	0	7	Feb-06
+933	Hainan	Mainland China	106	1	8	Feb-06
+934	Shanxi	Mainland China	96	0	12	Feb-06
+935	Liaoning	Mainland China	94	0	5	Feb-06
+936	Tianjin	Mainland China	78	1	2	Feb-06
+937	Guizhou	Mainland China	71	1	6	Feb-06
+938	Gansu	Mainland China	62	0	6	Feb-06
+939	Jilin	Mainland China	59	0	4	Feb-06
+940	Inner Mongolia	Mainland China	46	0	4	Feb-06
+941		Japan	45	0	1	Feb-06
+942	Ningxia	Mainland China	40	0	1	Feb-06
+943	Xinjiang	Mainland China	36	0	0	Feb-06
+944		Singapore	28	0	0	Feb-06
+945		Thailand	25	0	5	Feb-06
+946	Hong Kong	Hong Kong	24	1	0	Feb-06
+947		South Korea	23	0	0	Feb-06
+948	Qinghai	Mainland China	18	0	3	Feb-06
+949	Taiwan	Taiwan	16	0	1	Feb-06
+950		Germany	12	0	0	Feb-06
+951		Malaysia	12	0	0	Feb-06
+952	Macau	Macau	10	0	1	Feb-06
+953		Vietnam	10	0	1	Feb-06
+954		France	6	0	0	Feb-06
+955		United Arab Emirates	5	0	0	Feb-06
+956	New South Wales	Australia	4	0	2	Feb-06
+957	Queensland	Australia	4	0	0	Feb-06
+958	Victoria	Australia	4	0	0	Feb-06
+959		India	3	0	0	Feb-06
+960	South Australia	Australia	2	0	0	Feb-06
+961	British Columbia	Canada	2	0	0	Feb-06
+962	Toronto, ON	Canada	2	0	0	Feb-06
+963		Italy	2	0	0	Feb-06
+964		Philippines	2	1	0	Feb-06
+965		Russia	2	0	0	Feb-06
+966		UK	2	0	0	Feb-06
+967	Chicago, IL	US	2	0	0	Feb-06
+968	San Benito, CA	US	2	0	0	Feb-06
+969	Santa Clara, CA	US	2	0	0	Feb-06
+970		Belgium	1	0	0	Feb-06
+971		Cambodia	1	0	0	Feb-06
+972	London, ON	Canada	1	0	0	Feb-06
+973		Finland	1	0	0	Feb-06
+974	Tibet	Mainland China	1	0	0	Feb-06
+975		Nepal	1	0	0	Feb-06
+976		Spain	1	0	0	Feb-06
+977		Sri Lanka	1	0	0	Feb-06
+978		Sweden	1	0	0	Feb-06
+979	Boston, MA	US	1	0	0	Feb-06
+980	Los Angeles, CA	US	1	0	0	Feb-06
+981	Madison, WI	US	1	0	0	Feb-06
+982	Orange, CA	US	1	0	0	Feb-06
+983	Seattle, WA	US	1	0	0	Feb-06
+984	Tempe, AZ	US	1	0	0	Feb-06
+985	Hubei	Mainland China	22112	618	867	Feb-07
+986	Guangdong	Mainland China	1034	1	88	Feb-07
+987	Zhejiang	Mainland China	1006	0	123	Feb-07
+988	Henan	Mainland China	914	3	86	Feb-07
+989	Hunan	Mainland China	772	0	112	Feb-07
+990	Anhui	Mainland China	665	0	47	Feb-07
+991	Jiangxi	Mainland China	661	0	45	Feb-07
+992	Chongqing	Mainland China	415	2	31	Feb-07
+993	Jiangsu	Mainland China	408	0	43	Feb-07
+994	Shandong	Mainland China	386	0	37	Feb-07
+995	Sichuan	Mainland China	344	1	42	Feb-07
+996	Beijing	Mainland China	297	1	33	Feb-07
+997	Heilongjiang	Mainland China	277	3	12	Feb-07
+998	Shanghai	Mainland China	277	1	30	Feb-07
+999	Fujian	Mainland China	224	0	20	Feb-07
+1000	Shaanxi	Mainland China	184	0	17	Feb-07
+1001	Guangxi	Mainland China	172	0	17	Feb-07
+1002	Hebei	Mainland China	172	1	22	Feb-07
+1003	Yunnan	Mainland China	138	0	12	Feb-07
+1004	Hainan	Mainland China	117	2	10	Feb-07
+1005	Liaoning	Mainland China	99	0	7	Feb-07
+1006	Shanxi	Mainland China	96	0	15	Feb-07
+1007	Guizhou	Mainland China	81	1	6	Feb-07
+1008	Tianjin	Mainland China	81	1	2	Feb-07
+1009	Gansu	Mainland China	67	0	9	Feb-07
+1010	Jilin	Mainland China	65	1	4	Feb-07
+1011	Cruise Ship	Others	61	0	0	Feb-07
+1012	Inner Mongolia	Mainland China	50	0	5	Feb-07
+1013	Ningxia	Mainland China	43	0	5	Feb-07
+1014	Xinjiang	Mainland China	39	0	0	Feb-07
+1015		Singapore	30	0	0	Feb-07
+1016	Hong Kong	Hong Kong	25	1	0	Feb-07
+1017		Japan	25	0	1	Feb-07
+1018		Thailand	25	0	5	Feb-07
+1019		South Korea	24	0	1	Feb-07
+1020	Qinghai	Mainland China	18	0	3	Feb-07
+1021	Taiwan	Taiwan	16	0	1	Feb-07
+1022		Germany	13	0	0	Feb-07
+1023		Malaysia	12	0	1	Feb-07
+1024	Macau	Macau	10	0	1	Feb-07
+1025		Vietnam	10	0	1	Feb-07
+1026		France	6	0	0	Feb-07
+1027	Queensland	Australia	5	0	0	Feb-07
+1028		United Arab Emirates	5	0	0	Feb-07
+1029	New South Wales	Australia	4	0	2	Feb-07
+1030	Victoria	Australia	4	0	0	Feb-07
+1031	British Columbia	Canada	4	0	0	Feb-07
+1032		India	3	0	0	Feb-07
+1033		Italy	3	0	0	Feb-07
+1034		Philippines	3	1	0	Feb-07
+1035		UK	3	0	0	Feb-07
+1036	South Australia	Australia	2	0	0	Feb-07
+1037	Toronto, ON	Canada	2	0	0	Feb-07
+1038		Russia	2	0	0	Feb-07
+1039	Chicago, IL	US	2	0	0	Feb-07
+1040	San Benito, CA	US	2	0	0	Feb-07
+1041	Santa Clara, CA	US	2	0	0	Feb-07
+1042		Belgium	1	0	0	Feb-07
+1043		Cambodia	1	0	0	Feb-07
+1044	London, ON	Canada	1	0	0	Feb-07
+1045		Finland	1	0	0	Feb-07
+1046	Tibet	Mainland China	1	0	0	Feb-07
+1047		Nepal	1	0	0	Feb-07
+1048		Spain	1	0	0	Feb-07
+1049		Sri Lanka	1	0	0	Feb-07
+1050		Sweden	1	0	0	Feb-07
+1051	Boston, MA	US	1	0	0	Feb-07
+1052	Los Angeles, CA	US	1	0	0	Feb-07
+1053	Madison, WI	US	1	0	0	Feb-07
+1054	Orange, CA	US	1	0	0	Feb-07
+1055	Seattle, WA	US	1	0	0	Feb-07
+1056	Tempe, AZ	US	1	0	0	Feb-07
+1057	Hubei	Mainland China	27100	780	1440	Feb-08
+1058	Guangdong	Mainland China	1120	1	125	Feb-08
+1059	Zhejiang	Mainland China	1075	0	185	Feb-08
+1060	Henan	Mainland China	1033	6	131	Feb-08
+1061	Hunan	Mainland China	838	1	159	Feb-08
+1062	Anhui	Mainland China	779	1	59	Feb-08
+1063	Jiangxi	Mainland China	740	0	72	Feb-08
+1064	Jiangsu	Mainland China	468	0	58	Feb-08
+1065	Chongqing	Mainland China	446	2	39	Feb-08
+1066	Shandong	Mainland China	435	1	50	Feb-08
+1067	Sichuan	Mainland China	386	1	60	Feb-08
+1068	Beijing	Mainland China	326	2	37	Feb-08
+1069	Heilongjiang	Mainland China	307	6	13	Feb-08
+1070	Shanghai	Mainland China	292	1	41	Feb-08
+1071	Fujian	Mainland China	250	0	26	Feb-08
+1072	Shaanxi	Mainland China	208	0	25	Feb-08
+1073	Hebei	Mainland China	206	2	30	Feb-08
+1074	Guangxi	Mainland China	195	1	18	Feb-08
+1075	Yunnan	Mainland China	140	0	17	Feb-08
+1076	Hainan	Mainland China	128	2	15	Feb-08
+1077	Shanxi	Mainland China	115	0	21	Feb-08
+1078	Liaoning	Mainland China	105	0	8	Feb-08
+1079	Guizhou	Mainland China	96	1	7	Feb-08
+1080	Tianjin	Mainland China	90	1	4	Feb-08
+1081	Gansu	Mainland China	79	1	12	Feb-08
+1082	Jilin	Mainland China	78	1	5	Feb-08
+1083	Cruise Ship	Others	61	0	0	Feb-08
+1084	Inner Mongolia	Mainland China	54	0	5	Feb-08
+1085	Ningxia	Mainland China	45	0	13	Feb-08
+1086	Xinjiang	Mainland China	45	0	0	Feb-08
+1087		Singapore	40	0	2	Feb-08
+1088		Thailand	32	0	10	Feb-08
+1089	Hong Kong	Hong Kong	26	1	0	Feb-08
+1090		Japan	25	0	1	Feb-08
+1091		South Korea	25	0	3	Feb-08
+1092	Qinghai	Mainland China	18	0	3	Feb-08
+1093	Taiwan	Taiwan	17	0	1	Feb-08
+1094		Malaysia	16	0	1	Feb-08
+1095		Germany	13	0	0	Feb-08
+1096		Vietnam	13	0	1	Feb-08
+1097		France	11	0	0	Feb-08
+1098	Macau	Macau	10	0	1	Feb-08
+1099		United Arab Emirates	7	0	0	Feb-08
+1100	Queensland	Australia	5	0	0	Feb-08
+1101	New South Wales	Australia	4	0	2	Feb-08
+1102	Victoria	Australia	4	0	0	Feb-08
+1103	British Columbia	Canada	4	0	0	Feb-08
+1104		India	3	0	0	Feb-08
+1105		Italy	3	0	0	Feb-08
+1106		Philippines	3	1	0	Feb-08
+1107		UK	3	0	0	Feb-08
+1108	South Australia	Australia	2	0	0	Feb-08
+1109	Toronto, ON	Canada	2	0	0	Feb-08
+1110		Russia	2	0	0	Feb-08
+1111	Chicago, IL	US	2	0	0	Feb-08
+1112	San Benito, CA	US	2	0	0	Feb-08
+1113	Santa Clara, CA	US	2	0	0	Feb-08
+1114		Belgium	1	0	0	Feb-08
+1115		Cambodia	1	0	0	Feb-08
+1116	London, ON	Canada	1	0	0	Feb-08
+1117		Finland	1	0	0	Feb-08
+1118	Tibet	Mainland China	1	0	0	Feb-08
+1119		Nepal	1	0	0	Feb-08
+1120		Spain	1	0	0	Feb-08
+1121		Sri Lanka	1	0	1	Feb-08
+1122		Sweden	1	0	0	Feb-08
+1123	Boston, MA	US	1	0	0	Feb-08
+1124	Los Angeles, CA	US	1	0	0	Feb-08
+1125	Madison, WI	US	1	0	0	Feb-08
+1126	Orange, CA	US	1	0	0	Feb-08
+1127	Seattle, WA	US	1	0	0	Feb-08
+1128	Tempe, AZ	US	1	0	0	Feb-08
+1129	Hubei	Mainland China	29631	871	1795	Feb-09
+1130	Guangdong	Mainland China	1151	1	147	Feb-09
+1131	Zhejiang	Mainland China	1092	0	201	Feb-09
+1132	Henan	Mainland China	1073	6	169	Feb-09
+1133	Hunan	Mainland China	879	1	186	Feb-09
+1134	Anhui	Mainland China	830	3	73	Feb-09
+1135	Jiangxi	Mainland China	771	1	102	Feb-09
+1136	Jiangsu	Mainland China	492	0	72	Feb-09
+1137	Chongqing	Mainland China	468	2	51	Feb-09
+1138	Shandong	Mainland China	459	1	63	Feb-09
+1139	Sichuan	Mainland China	405	1	76	Feb-09
+1140	Beijing	Mainland China	337	2	44	Feb-09
+1141	Heilongjiang	Mainland China	331	7	15	Feb-09
+1142	Shanghai	Mainland China	295	1	44	Feb-09
+1143	Fujian	Mainland China	261	0	35	Feb-09
+1144	Hebei	Mainland China	218	2	35	Feb-09
+1145	Shaanxi	Mainland China	213	0	26	Feb-09
+1146	Guangxi	Mainland China	210	1	18	Feb-09
+1147	Yunnan	Mainland China	141	0	18	Feb-09
+1148	Hainan	Mainland China	136	3	19	Feb-09
+1149	Shanxi	Mainland China	119	0	25	Feb-09
+1150	Guizhou	Mainland China	109	1	7	Feb-09
+1151	Liaoning	Mainland China	107	0	12	Feb-09
+1152	Tianjin	Mainland China	94	1	4	Feb-09
+1153	Gansu	Mainland China	83	2	16	Feb-09
+1154	Jilin	Mainland China	80	1	12	Feb-09
+1155	Diamond Princess cruise ship	Others	64	0	0	Feb-09
+1156	Inner Mongolia	Mainland China	58	0	5	Feb-09
+1157	Ningxia	Mainland China	49	0	13	Feb-09
+1158	Xinjiang	Mainland China	49	0	0	Feb-09
+1159		Singapore	43	0	2	Feb-09
+1160	Hong Kong	Hong Kong	36	1	0	Feb-09
+1161		Thailand	32	0	10	Feb-09
+1162		South Korea	27	0	3	Feb-09
+1163		Japan	26	0	1	Feb-09
+1164	Qinghai	Mainland China	18	0	3	Feb-09
+1165		Malaysia	18	0	1	Feb-09
+1166	Taiwan	Taiwan	18	0	1	Feb-09
+1167		Germany	14	0	0	Feb-09
+1168		Vietnam	14	0	1	Feb-09
+1169		France	11	0	0	Feb-09
+1170	Macau	Macau	10	0	1	Feb-09
+1171		United Arab Emirates	7	0	0	Feb-09
+1172	Queensland	Australia	5	0	0	Feb-09
+1173	New South Wales	Australia	4	0	2	Feb-09
+1174	Victoria	Australia	4	0	0	Feb-09
+1175	British Columbia	Canada	4	0	0	Feb-09
+1176		India	3	0	0	Feb-09
+1177		Italy	3	0	0	Feb-09
+1178		Philippines	3	1	0	Feb-09
+1179		UK	3	0	0	Feb-09
+1180	South Australia	Australia	2	0	0	Feb-09
+1181	Toronto, ON	Canada	2	0	0	Feb-09
+1182		Russia	2	0	0	Feb-09
+1183		Spain	2	0	0	Feb-09
+1184	Chicago, IL	US	2	0	2	Feb-09
+1185	San Benito, CA	US	2	0	0	Feb-09
+1186	Santa Clara, CA	US	2	0	0	Feb-09
+1187		Belgium	1	0	0	Feb-09
+1188		Cambodia	1	0	0	Feb-09
+1189	London, ON	Canada	1	0	0	Feb-09
+1190		Finland	1	0	0	Feb-09
+1191	Tibet	Mainland China	1	0	0	Feb-09
+1192		Nepal	1	0	0	Feb-09
+1193		Sri Lanka	1	0	1	Feb-09
+1194		Sweden	1	0	0	Feb-09
+1195	Boston, MA	US	1	0	0	Feb-09
+1196	Los Angeles, CA	US	1	0	0	Feb-09
+1197	Madison, WI	US	1	0	0	Feb-09
+1198	Orange, CA	US	1	0	0	Feb-09
+1199	Seattle, WA	US	1	0	1	Feb-09
+1200	Tempe, AZ	US	1	0	0	Feb-09
+1201	Hubei	Mainland China	31728	974	2222	Feb-10
+1202	Guangdong	Mainland China	1159	1	167	Feb-10
+1203	Zhejiang	Mainland China	1092	0	242	Feb-10
+1204	Henan	Mainland China	1073	6	191	Feb-10
+1205	Hunan	Mainland China	879	1	208	Feb-10
+1206	Anhui	Mainland China	830	3	88	Feb-10
+1207	Jiangxi	Mainland China	771	1	105	Feb-10
+1208	Jiangsu	Mainland China	492	0	81	Feb-10
+1209	Chongqing	Mainland China	486	2	66	Feb-10
+1210	Shandong	Mainland China	466	1	66	Feb-10
+1211	Sichuan	Mainland China	405	1	80	Feb-10
+1212	Beijing	Mainland China	337	2	44	Feb-10
+1213	Heilongjiang	Mainland China	331	7	30	Feb-10
+1214	Shanghai	Mainland China	299	1	48	Feb-10
+1215	Fujian	Mainland China	261	0	39	Feb-10
+1216	Hebei	Mainland China	218	2	41	Feb-10
+1217	Shaanxi	Mainland China	213	0	30	Feb-10
+1218	Guangxi	Mainland China	210	1	24	Feb-10
+1219	Yunnan	Mainland China	149	0	19	Feb-10
+1220	Hainan	Mainland China	138	3	19	Feb-10
+1221	Diamond Princess cruise ship	Others	135	0	0	Feb-10
+1222	Shanxi	Mainland China	119	0	25	Feb-10
+1223	Guizhou	Mainland China	109	1	10	Feb-10
+1224	Liaoning	Mainland China	108	0	13	Feb-10
+1225	Tianjin	Mainland China	95	1	8	Feb-10
+1226	Gansu	Mainland China	86	2	21	Feb-10
+1227	Jilin	Mainland China	81	1	13	Feb-10
+1228	Inner Mongolia	Mainland China	58	0	5	Feb-10
+1229	Ningxia	Mainland China	49	0	13	Feb-10
+1230	Xinjiang	Mainland China	49	0	0	Feb-10
+1231		Singapore	45	0	2	Feb-10
+1232	Hong Kong	Hong Kong	38	1	0	Feb-10
+1233		Thailand	32	0	10	Feb-10
+1234		South Korea	27	0	3	Feb-10
+1235		Japan	26	0	4	Feb-10
+1236	Qinghai	Mainland China	18	0	3	Feb-10
+1237		Malaysia	18	0	1	Feb-10
+1238	Taiwan	Taiwan	18	0	1	Feb-10
+1239		Germany	14	0	0	Feb-10
+1240		Vietnam	14	0	1	Feb-10
+1241		France	11	0	0	Feb-10
+1242	Macau	Macau	10	0	1	Feb-10
+1243		UK	8	0	0	Feb-10
+1244		United Arab Emirates	8	0	0	Feb-10
+1245	Queensland	Australia	5	0	0	Feb-10
+1246	New South Wales	Australia	4	0	2	Feb-10
+1247	Victoria	Australia	4	0	0	Feb-10
+1248	British Columbia	Canada	4	0	0	Feb-10
+1249		India	3	0	0	Feb-10
+1250		Italy	3	0	0	Feb-10
+1251		Philippines	3	1	0	Feb-10
+1252	South Australia	Australia	2	0	0	Feb-10
+1253	Toronto, ON	Canada	2	0	0	Feb-10
+1254		Russia	2	0	0	Feb-10
+1255		Spain	2	0	0	Feb-10
+1256	Chicago, IL	US	2	0	2	Feb-10
+1257	San Benito, CA	US	2	0	0	Feb-10
+1258	Santa Clara, CA	US	2	0	0	Feb-10
+1259		Belgium	1	0	0	Feb-10
+1260		Cambodia	1	0	0	Feb-10
+1261	London, ON	Canada	1	0	0	Feb-10
+1262		Finland	1	0	0	Feb-10
+1263	Tibet	Mainland China	1	0	0	Feb-10
+1264		Nepal	1	0	0	Feb-10
+1265		Sri Lanka	1	0	1	Feb-10
+1266		Sweden	1	0	0	Feb-10
+1267	Boston, MA	US	1	0	0	Feb-10
+1268	Los Angeles, CA	US	1	0	0	Feb-10
+1269	Madison, WI	US	1	0	0	Feb-10
+1270	Orange, CA	US	1	0	0	Feb-10
+1271	Seattle, WA	US	1	0	1	Feb-10
+1272	Tempe, AZ	US	1	0	0	Feb-10
+1273	Hubei	Mainland China	33366	1068	2639	Feb-11
+1274	Guangdong	Mainland China	1219	1	241	Feb-11
+1275	Henan	Mainland China	1135	8	231	Feb-11
+1276	Zhejiang	Mainland China	1131	0	279	Feb-11
+1277	Hunan	Mainland China	946	2	263	Feb-11
+1278	Anhui	Mainland China	889	4	108	Feb-11
+1279	Jiangxi	Mainland China	844	1	152	Feb-11
+1280	Jiangsu	Mainland China	543	0	94	Feb-11
+1281	Chongqing	Mainland China	505	3	79	Feb-11
+1282	Shandong	Mainland China	497	1	80	Feb-11
+1283	Sichuan	Mainland China	436	1	85	Feb-11
+1284	Heilongjiang	Mainland China	378	8	28	Feb-11
+1285	Beijing	Mainland China	342	3	48	Feb-11
+1286	Shanghai	Mainland China	306	1	53	Feb-11
+1287	Fujian	Mainland China	272	0	46	Feb-11
+1288	Hebei	Mainland China	251	2	48	Feb-11
+1289	Guangxi	Mainland China	222	1	31	Feb-11
+1290	Shaanxi	Mainland China	219	0	32	Feb-11
+1291	Yunnan	Mainland China	154	0	20	Feb-11
+1292	Hainan	Mainland China	151	3	20	Feb-11
+1293	Diamond Princess cruise ship	Others	135	0	0	Feb-11
+1294	Guizhou	Mainland China	131	1	17	Feb-11
+1295	Shanxi	Mainland China	124	0	30	Feb-11
+1296	Liaoning	Mainland China	116	0	19	Feb-11
+1297	Tianjin	Mainland China	106	2	10	Feb-11
+1298	Gansu	Mainland China	86	2	24	Feb-11
+1299	Jilin	Mainland China	83	1	18	Feb-11
+1300	Xinjiang	Mainland China	59	0	3	Feb-11
+1301	Inner Mongolia	Mainland China	58	0	5	Feb-11
+1302	Ningxia	Mainland China	53	0	22	Feb-11
+1303	Hong Kong	Hong Kong	49	1	0	Feb-11
+1304		Singapore	47	0	9	Feb-11
+1305		Thailand	33	0	10	Feb-11
+1306		South Korea	28	0	4	Feb-11
+1307		Japan	26	0	9	Feb-11
+1308	Qinghai	Mainland China	18	0	5	Feb-11
+1309		Malaysia	18	0	3	Feb-11
+1310	Taiwan	Taiwan	18	0	1	Feb-11
+1311		Germany	16	0	0	Feb-11
+1312		Vietnam	15	0	6	Feb-11
+1313		France	11	0	0	Feb-11
+1314	Macau	Macau	10	0	1	Feb-11
+1315		UK	8	0	0	Feb-11
+1316		United Arab Emirates	8	0	1	Feb-11
+1317	Queensland	Australia	5	0	0	Feb-11
+1318	New South Wales	Australia	4	0	2	Feb-11
+1319	Victoria	Australia	4	0	0	Feb-11
+1320	British Columbia	Canada	4	0	0	Feb-11
+1321		India	3	0	0	Feb-11
+1322		Italy	3	0	0	Feb-11
+1323		Philippines	3	1	0	Feb-11
+1324	South Australia	Australia	2	0	0	Feb-11
+1325	Toronto, ON	Canada	2	0	0	Feb-11
+1326		Russia	2	0	0	Feb-11
+1327		Spain	2	0	0	Feb-11
+1328	Chicago, IL	US	2	0	2	Feb-11
+1329	San Benito, CA	US	2	0	0	Feb-11
+1330	Santa Clara, CA	US	2	0	0	Feb-11
+1331		Belgium	1	0	0	Feb-11
+1332		Cambodia	1	0	0	Feb-11
+1333	London, ON	Canada	1	0	0	Feb-11
+1334		Finland	1	0	1	Feb-11
+1335	Tibet	Mainland China	1	0	0	Feb-11
+1336		Nepal	1	0	0	Feb-11
+1337		Sri Lanka	1	0	1	Feb-11
+1338		Sweden	1	0	0	Feb-11
+1339	Boston, MA	US	1	0	0	Feb-11
+1340	Los Angeles, CA	US	1	0	0	Feb-11
+1341	Madison, WI	US	1	0	0	Feb-11
+1342	Orange, CA	US	1	0	0	Feb-11
+1343	San Diego County, CA	US	1	0	0	Feb-11
+1344	Seattle, WA	US	1	0	1	Feb-11
+1345	Tempe, AZ	US	1	0	0	Feb-11
+1346	Hubei	Mainland China	48206	1310	3441	Feb-12
+1347	Guangdong	Mainland China	1241	2	284	Feb-12
+1348	Henan	Mainland China	1169	10	258	Feb-12
+1349	Zhejiang	Mainland China	1145	0	327	Feb-12
+1350	Hunan	Mainland China	968	2	312	Feb-12
+1351	Anhui	Mainland China	910	5	128	Feb-12
+1352	Jiangxi	Mainland China	872	1	170	Feb-12
+1353	Jiangsu	Mainland China	570	0	131	Feb-12
+1354	Chongqing	Mainland China	518	3	102	Feb-12
+1355	Shandong	Mainland China	506	2	98	Feb-12
+1356	Sichuan	Mainland China	451	1	93	Feb-12
+1357	Heilongjiang	Mainland China	395	9	31	Feb-12
+1358	Beijing	Mainland China	366	3	68	Feb-12
+1359	Shanghai	Mainland China	313	1	57	Feb-12
+1360	Fujian	Mainland China	279	0	54	Feb-12
+1361	Hebei	Mainland China	265	3	55	Feb-12
+1362	Shaanxi	Mainland China	229	0	42	Feb-12
+1363	Guangxi	Mainland China	222	2	33	Feb-12
+1364	Diamond Princess cruise ship	Others	175	0	0	Feb-12
+1365	Hainan	Mainland China	157	4	27	Feb-12
+1366	Yunnan	Mainland China	155	0	23	Feb-12
+1367	Guizhou	Mainland China	135	1	20	Feb-12
+1368	Shanxi	Mainland China	126	0	33	Feb-12
+1369	Liaoning	Mainland China	116	1	21	Feb-12
+1370	Tianjin	Mainland China	113	2	11	Feb-12
+1371	Gansu	Mainland China	87	2	31	Feb-12
+1372	Jilin	Mainland China	84	1	22	Feb-12
+1373	Ningxia	Mainland China	64	0	24	Feb-12
+1374	Xinjiang	Mainland China	63	1	3	Feb-12
+1375	Inner Mongolia	Mainland China	61	0	6	Feb-12
+1376	Hong Kong	Hong Kong	50	1	1	Feb-12
+1377		Singapore	50	0	15	Feb-12
+1378		Thailand	33	0	10	Feb-12
+1379		Japan	28	0	9	Feb-12
+1380		South Korea	28	0	7	Feb-12
+1381	Qinghai	Mainland China	18	0	9	Feb-12
+1382		Malaysia	18	0	3	Feb-12
+1383	Taiwan	Taiwan	18	0	1	Feb-12
+1384		Germany	16	0	0	Feb-12
+1385		Vietnam	15	0	6	Feb-12
+1386		France	11	0	2	Feb-12
+1387	Macau	Macau	10	0	2	Feb-12
+1388		UK	9	0	1	Feb-12
+1389		United Arab Emirates	8	0	1	Feb-12
+1390	Queensland	Australia	5	0	0	Feb-12
+1391	New South Wales	Australia	4	0	2	Feb-12
+1392	Victoria	Australia	4	0	0	Feb-12
+1393	British Columbia	Canada	4	0	0	Feb-12
+1394		India	3	0	0	Feb-12
+1395		Italy	3	0	0	Feb-12
+1396		Philippines	3	1	1	Feb-12
+1397	South Australia	Australia	2	0	0	Feb-12
+1398	Toronto, ON	Canada	2	0	0	Feb-12
+1399		Russia	2	0	2	Feb-12
+1400		Spain	2	0	0	Feb-12
+1401	Chicago, IL	US	2	0	2	Feb-12
+1402	San Benito, CA	US	2	0	0	Feb-12
+1403	Santa Clara, CA	US	2	0	0	Feb-12
+1404		Belgium	1	0	0	Feb-12
+1405		Cambodia	1	0	1	Feb-12
+1406	London, ON	Canada	1	0	1	Feb-12
+1407		Finland	1	0	1	Feb-12
+1408	Tibet	Mainland China	1	0	1	Feb-12
+1409		Nepal	1	0	1	Feb-12
+1410		Sri Lanka	1	0	1	Feb-12
+1411		Sweden	1	0	0	Feb-12
+1412	Boston, MA	US	1	0	0	Feb-12
+1413	Los Angeles, CA	US	1	0	0	Feb-12
+1414	Madison, WI	US	1	0	0	Feb-12
+1415	Orange, CA	US	1	0	0	Feb-12
+1416	San Diego County, CA	US	1	0	0	Feb-12
+1417	Seattle, WA	US	1	0	1	Feb-12
+1418	Tempe, AZ	US	1	0	0	Feb-12
