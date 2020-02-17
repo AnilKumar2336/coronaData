@@ -1565,3 +1565,79 @@
 1564	San Antonio, TX	US	1	0	0	Feb-14
 1565	Seattle, WA	US	1	0	1	Feb-14
 1566	Tempe, AZ	US	1	0	0	Feb-14
+Sno	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
+1567	Hubei	Mainland China	56249	1596	5623	Feb-15
+1568	Guangdong	Mainland China	1294	2	410	Feb-15
+1569	Henan	Mainland China	1212	13	391	Feb-15
+1570	Zhejiang	Mainland China	1162	0	428	Feb-15
+1571	Hunan	Mainland China	1001	2	425	Feb-15
+1572	Anhui	Mainland China	950	6	221	Feb-15
+1573	Jiangxi	Mainland China	913	1	210	Feb-15
+1574	Jiangsu	Mainland China	604	0	186	Feb-15
+1575	Chongqing	Mainland China	544	5	184	Feb-15
+1576	Shandong	Mainland China	532	2	156	Feb-15
+1577	Sichuan	Mainland China	470	1	119	Feb-15
+1578	Heilongjiang	Mainland China	425	11	68	Feb-15
+1579	Beijing	Mainland China	375	4	98	Feb-15
+1580	Shanghai	Mainland China	326	1	124	Feb-15
+1581	Hebei	Mainland China	291	3	101	Feb-15
+1582	Fujian	Mainland China	285	0	71	Feb-15
+1583	Diamond Princess cruise ship	Others	285	0	0	Feb-15
+1584	Guangxi	Mainland China	235	2	44	Feb-15
+1585	Shaanxi	Mainland China	232	0	60	Feb-15
+1586	Yunnan	Mainland China	168	0	42	Feb-15
+1587	Hainan	Mainland China	162	4	39	Feb-15
+1588	Guizhou	Mainland China	143	1	41	Feb-15
+1589	Shanxi	Mainland China	128	0	46	Feb-15
+1590	Tianjin	Mainland China	122	3	37	Feb-15
+1591	Liaoning	Mainland China	119	1	31	Feb-15
+1592	Gansu	Mainland China	90	2	49	Feb-15
+1593	Jilin	Mainland China	88	1	26	Feb-15
+1594		Singapore	72	0	18	Feb-15
+1595	Ningxia	Mainland China	70	0	33	Feb-15
+1596	Xinjiang	Mainland China	70	1	10	Feb-15
+1597	Inner Mongolia	Mainland China	68	0	7	Feb-15
+1598	Hong Kong	Hong Kong	56	1	1	Feb-15
+1599		Japan	43	1	12	Feb-15
+1600		Thailand	33	0	12	Feb-15
+1601		South Korea	28	0	9	Feb-15
+1602		Malaysia	22	0	7	Feb-15
+1603	Qinghai	Mainland China	18	0	13	Feb-15
+1604	Taiwan	Taiwan	18	0	2	Feb-15
+1605		Germany	16	0	1	Feb-15
+1606		Vietnam	16	0	7	Feb-15
+1607		France	12	1	4	Feb-15
+1608	Macau	Macau	10	0	3	Feb-15
+1609		UK	9	0	1	Feb-15
+1610		United Arab Emirates	8	0	3	Feb-15
+1611	Queensland	Australia	5	0	0	Feb-15
+1612	New South Wales	Australia	4	0	4	Feb-15
+1613	Victoria	Australia	4	0	4	Feb-15
+1614	British Columbia	Canada	4	0	0	Feb-15
+1615		India	3	0	0	Feb-15
+1616		Italy	3	0	0	Feb-15
+1617		Philippines	3	1	1	Feb-15
+1618	South Australia	Australia	2	0	0	Feb-15
+1619	Toronto, ON	Canada	2	0	0	Feb-15
+1620		Russia	2	0	2	Feb-15
+1621		Spain	2	0	2	Feb-15
+1622	Chicago, IL	US	2	0	2	Feb-15
+1623	San Benito, CA	US	2	0	0	Feb-15
+1624	San Diego County, CA	US	2	0	0	Feb-15
+1625	Santa Clara, CA	US	2	0	0	Feb-15
+1626		Belgium	1	0	0	Feb-15
+1627		Cambodia	1	0	1	Feb-15
+1628	London, ON	Canada	1	0	1	Feb-15
+1629		Egypt	1	0	0	Feb-15
+1630		Finland	1	0	1	Feb-15
+1631	Tibet	Mainland China	1	0	1	Feb-15
+1632		Nepal	1	0	1	Feb-15
+1633		Sri Lanka	1	0	1	Feb-15
+1634		Sweden	1	0	0	Feb-15
+1635	Boston, MA	US	1	0	0	Feb-15
+1636	Los Angeles, CA	US	1	0	0	Feb-15
+1637	Madison, WI	US	1	0	0	Feb-15
+1638	Orange, CA	US	1	0	0	Feb-15
+1639	San Antonio, TX	US	1	0	0	Feb-15
+1640	Seattle, WA	US	1	0	1	Feb-15
+1641	Tempe, AZ	US	1	0	0	Feb-15
