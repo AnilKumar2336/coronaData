@@ -5229,3 +5229,484 @@
 5228	Maine	US	0	0	0	Mar-12
 5229	West Virginia	US	0	0	0	Mar-12
 5230		occupied Palestinian territory	0	0	0	Mar-12
+Sno	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
+5231	Hubei	China	67786	3062	51553	Mar-13
+5232	Guangdong	China	1356	8	1296	Mar-13
+5233	Henan	China	1273	22	1249	Mar-13
+5234	Zhejiang	China	1215	1	1197	Mar-13
+5235	Hunan	China	1018	4	1005	Mar-13
+5236	Anhui	China	990	6	984	Mar-13
+5237	Jiangxi	China	935	1	934	Mar-13
+5238	Shandong	China	760	7	739	Mar-13
+5239	Jiangsu	China	631	0	630	Mar-13
+5240	Chongqing	China	576	6	566	Mar-13
+5241	Sichuan	China	539	3	503	Mar-13
+5242	Heilongjiang	China	482	13	446	Mar-13
+5243	Beijing	China	436	8	342	Mar-13
+5244	Shanghai	China	346	3	324	Mar-13
+5245	Hebei	China	318	6	310	Mar-13
+5246	Fujian	China	296	1	295	Mar-13
+5247	Guangxi	China	252	2	243	Mar-13
+5248	Shaanxi	China	245	2	232	Mar-13
+5249	Yunnan	China	174	2	170	Mar-13
+5250	Hainan	China	168	6	160	Mar-13
+5251	Guizhou	China	146	2	140	Mar-13
+5252	Tianjin	China	136	3	132	Mar-13
+5253	Hong Kong	China	134	4	77	Mar-13
+5254	Shanxi	China	133	0	133	Mar-13
+5255	Gansu	China	127	2	88	Mar-13
+5256	Liaoning	China	125	1	112	Mar-13
+5257	Xinjiang	China	76	3	73	Mar-13
+5258	Inner Mongolia	China	75	1	71	Mar-13
+5259	Ningxia	China	75	0	72	Mar-13
+5260	Jilin	China	93	1	91	Mar-13
+5261	Qinghai	China	18	0	18	Mar-13
+5262	Macau	China	10	0	10	Mar-13
+5263	Tibet	China	1	0	1	Mar-13
+5264		Panama	27	1	0	Mar-13
+5265	Tasmania	Australia	5	0	0	Mar-13
+5266		Croatia	32	0	1	Mar-13
+5267		Burkina Faso	2	0	0	Mar-13
+5268		Albania	33	1	0	Mar-13
+5269	British Columbia	Canada	64	1	4	Mar-13
+5270	New South Wales	Australia	92	2	4	Mar-13
+5271	Victoria	Australia	36	0	8	Mar-13
+5272	Queensland	Australia	35	0	8	Mar-13
+5273	South Australia	Australia	16	0	3	Mar-13
+5274	Channel Islands	United Kingdom	2	0	0	Mar-13
+5275		Philippines	64	5	2	Mar-13
+5276		Nepal	1	0	1	Mar-13
+5277		Sri Lanka	6	0	1	Mar-13
+5278		United Arab Emirates	85	0	17	Mar-13
+5279		Thailand	75	1	35	Mar-13
+5280		Cambodia	5	0	1	Mar-13
+5281		San Marino	80	5	0	Mar-13
+5282	Ontario	Canada	74	0	4	Mar-13
+5283	Australian Capital Territory	Australia	1	0	0	Mar-13
+5284		Germany	3675	7	46	Mar-13
+5285		Congo (Kinshasa)	2	0	0	Mar-13
+5286		Honduras	2	0	0	Mar-13
+5287	Diamond Princess	US	46	0	0	Mar-13
+5288		Algeria	26	2	8	Mar-13
+5289		Reunion	5	0	0	Mar-13
+5290		Oman	19	0	9	Mar-13
+5291	Diamond Princess	Cruise Ship	696	7	325	Mar-13
+5292	New Brunswick	Canada	1	0	0	Mar-13
+5293		Italy	17660	1266	1439	Mar-13
+5294		Iraq	101	9	24	Mar-13
+5295		Lebanon	77	3	1	Mar-13
+5296	From Diamond Princess	Australia	0	0	0	Mar-13
+5297		Ukraine	3	1	0	Mar-13
+5298		Austria	504	1	6	Mar-13
+5299		Switzerland	1139	11	4	Mar-13
+5300		Ireland	90	1	0	Mar-13
+5301		Georgia	25	0	0	Mar-13
+5302		Bangladesh	3	0	0	Mar-13
+5303		Kuwait	80	0	5	Mar-13
+5304		North Macedonia	14	0	1	Mar-13
+5305		Brazil	151	0	0	Mar-13
+5306		Greece	190	1	0	Mar-13
+5307		Sweden	814	1	1	Mar-13
+5308		Pakistan	28	0	2	Mar-13
+5309		Norway	996	0	1	Mar-13
+5310	France	France	3661	79	12	Mar-13
+5311		Turkey	5	0	0	Mar-13
+5312		Bahrain	189	0	44	Mar-13
+5313		Iceland	134	0	1	Mar-13
+5314		Ecuador	17	0	0	Mar-13
+5315		Estonia	79	0	0	Mar-13
+5316	Denmark	Denmark	801	0	1	Mar-13
+5317	United Kingdom	United Kingdom	798	8	18	Mar-13
+5318		Netherlands	804	10	0	Mar-13
+5319		Cuba	4	0	0	Mar-13
+5320	Quebec	Canada	17	0	0	Mar-13
+5321		Nigeria	2	0	0	Mar-13
+5322		Lithuania	6	0	0	Mar-13
+5323		New Zealand	5	0	0	Mar-13
+5324		Belarus	27	0	3	Mar-13
+5325		Azerbaijan	15	1	3	Mar-13
+5326		Armenia	8	0	0	Mar-13
+5327		Kazakhstan	4	0	0	Mar-13
+5328		Iran	11364	514	2959	Mar-13
+5329		Israel	161	0	4	Mar-13
+5330	French Polynesia	France	3	0	0	Mar-13
+5331	Western Australia	Australia	14	1	0	Mar-13
+5332		Cayman Islands	1	0	0	Mar-13
+5333		Japan	701	19	118	Mar-13
+5334		Czechia	141	0	0	Mar-13
+5335		Qatar	320	0	0	Mar-13
+5336		Singapore	200	0	97	Mar-13
+5337		Guadeloupe	1	0	0	Mar-13
+5338		Dominican Republic	5	0	0	Mar-13
+5339		Egypt	80	2	27	Mar-13
+5340		Bolivia	3	0	0	Mar-13
+5341	Manitoba	Canada	4	0	0	Mar-13
+5342	Saskatchewan	Canada	2	0	0	Mar-13
+5343		Indonesia	69	4	2	Mar-13
+5344		Korea, South	7979	66	510	Mar-13
+5345		Latvia	17	0	1	Mar-13
+5346		Senegal	10	0	1	Mar-13
+5347		Ethiopia	1	0	0	Mar-13
+5348		Sudan	1	1	0	Mar-13
+5349		Portugal	112	0	1	Mar-13
+5350		Andorra	1	0	0	Mar-13
+5351		Guinea	1	0	0	Mar-13
+5352		Antigua and Barbuda	1	0	0	Mar-13
+5353		Belgium	559	3	1	Mar-13
+5354		Russia	45	0	3	Mar-13
+5355		India	82	2	4	Mar-13
+5356		Morocco	7	1	1	Mar-13
+5357		Aruba	2	0	0	Mar-13
+5358	Grand Princess	Canada	2	0	0	Mar-13
+5359		Argentina	31	2	0	Mar-13
+5360		Chile	43	0	0	Mar-13
+5361		Jordan	1	0	1	Mar-13
+5362		Kenya	1	0	0	Mar-13
+5363	Saint Barthelemy	France	1	0	0	Mar-13
+5364	St Martin	France	2	0	0	Mar-13
+5365		Poland	68	2	0	Mar-13
+5366	Faroe Islands	Denmark	3	0	0	Mar-13
+5367	Gibraltar	United Kingdom	1	0	1	Mar-13
+5368		Hungary	19	0	0	Mar-13
+5369	Northern Territory	Australia	1	0	0	Mar-13
+5370	Alabama	US	5	0	0	Mar-13
+5371		Slovenia	141	0	0	Mar-13
+5372		Finland	155	0	1	Mar-13
+5373		South Africa	24	0	0	Mar-13
+5374		Bosnia and Herzegovina	13	0	0	Mar-13
+5375		Saudi Arabia	86	0	1	Mar-13
+5376		Cote d'Ivoire	1	0	0	Mar-13
+5377		Luxembourg	34	0	0	Mar-13
+5378		Costa Rica	23	0	0	Mar-13
+5379	Alberta	Canada	29	0	0	Mar-13
+5380		Bhutan	1	0	0	Mar-13
+5381		Spain	5232	133	193	Mar-13
+5382		Malaysia	197	0	26	Mar-13
+5383		Holy See	1	0	0	Mar-13
+5384		Serbia	35	0	0	Mar-13
+5385		Cameroon	2	0	0	Mar-13
+5386		Slovakia	32	0	0	Mar-13
+5387		Togo	1	0	0	Mar-13
+5388		Peru	28	0	0	Mar-13
+5389		Romania	89	0	7	Mar-13
+5390		Mexico	12	0	4	Mar-13
+5391		Colombia	13	0	0	Mar-13
+5392	Grand Princess	US	21	0	0	Mar-13
+5393		Brunei	37	0	0	Mar-13
+5394		Martinique	3	0	0	Mar-13
+5395		French Guiana	5	0	0	Mar-13
+5396		Malta	12	0	1	Mar-13
+5397		Paraguay	6	0	0	Mar-13
+5398		Moldova	6	0	0	Mar-13
+5399		Maldives	9	0	0	Mar-13
+5400		Bulgaria	23	1	0	Mar-13
+5401		Tunisia	16	0	0	Mar-13
+5402		Cyprus	14	0	0	Mar-13
+5403	Alaska	US	1	0	0	Mar-13
+5404	Arizona	US	9	0	1	Mar-13
+5405	Arkansas	US	6	0	0	Mar-13
+5406	California	US	282	4	6	Mar-13
+5407	Colorado	US	49	0	0	Mar-13
+5408	Connecticut	US	11	0	0	Mar-13
+5409	Delaware	US	4	0	0	Mar-13
+5410	District of Columbia	US	10	0	0	Mar-13
+5411	Florida	US	50	2	0	Mar-13
+5412	Georgia	US	42	1	0	Mar-13
+5413	Hawaii	US	2	0	0	Mar-13
+5414	Idaho	US	1	0	0	Mar-13
+5415	Illinois	US	46	0	2	Mar-13
+5416	Indiana	US	13	0	0	Mar-13
+5417	Iowa	US	17	0	0	Mar-13
+5418	Kansas	US	5	1	0	Mar-13
+5419	Kentucky	US	14	0	0	Mar-13
+5420	Louisiana	US	36	0	0	Mar-13
+5421	Maine	US	1	0	0	Mar-13
+5422	Maryland	US	18	0	0	Mar-13
+5423	Massachusetts	US	123	0	1	Mar-13
+5424	Michigan	US	16	0	0	Mar-13
+5425	Minnesota	US	14	0	0	Mar-13
+5426	Mississippi	US	1	0	0	Mar-13
+5427	Missouri	US	2	0	0	Mar-13
+5428	Montana	US	1	0	0	Mar-13
+5429	Nebraska	US	13	0	0	Mar-13
+5430	Nevada	US	17	0	0	Mar-13
+5431	New Hampshire	US	6	0	0	Mar-13
+5432	New Jersey	US	29	1	0	Mar-13
+5433	New Mexico	US	10	0	0	Mar-13
+5434	New York	US	421	0	0	Mar-13
+5435	North Carolina	US	17	0	0	Mar-13
+5436	North Dakota	US	1	0	0	Mar-13
+5437	Ohio	US	13	0	0	Mar-13
+5438	Oklahoma	US	2	0	0	Mar-13
+5439	Oregon	US	30	0	0	Mar-13
+5440	Pennsylvania	US	41	0	0	Mar-13
+5441	Rhode Island	US	14	0	0	Mar-13
+5442	South Carolina	US	13	0	0	Mar-13
+5443	South Dakota	US	8	1	0	Mar-13
+5444	Tennessee	US	26	0	0	Mar-13
+5445	Texas	US	43	0	0	Mar-13
+5446	Utah	US	9	0	0	Mar-13
+5447	Vermont	US	2	0	0	Mar-13
+5448	Virginia	US	30	0	0	Mar-13
+5449	Washington	US	568	37	1	Mar-13
+5450	West Virginia	US	0	0	0	Mar-13
+5451	Wisconsin	US	19	0	1	Mar-13
+5452	Wyoming	US	1	0	0	Mar-13
+5453		Vietnam	47	0	16	Mar-13
+5454		Mongolia	1	0	0	Mar-13
+5455		Jamaica	8	0	0	Mar-13
+5456		Afghanistan	7	0	0	Mar-13
+5457		Monaco	2	0	0	Mar-13
+5458		Liechtenstein	1	0	0	Mar-13
+5459		Guyana	1	1	0	Mar-13
+5460		Taiwan*	50	1	20	Mar-13
+Sno	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
+5461	Hubei	China	67790	3075	52960	Mar-14
+5462		Italy	21157	1441	1966	Mar-14
+5463		Iran	12729	611	2959	Mar-14
+5464		Korea, South	8086	72	510	Mar-14
+5465		Spain	6391	195	517	Mar-14
+5466		Germany	4585	9	46	Mar-14
+5467	France	France	4469	91	12	Mar-14
+5468		Switzerland	1359	13	4	Mar-14
+5469	Guangdong	China	1356	8	1299	Mar-14
+5470	Henan	China	1273	22	1250	Mar-14
+5471	Zhejiang	China	1227	1	1211	Mar-14
+5472	United Kingdom	United Kingdom	1140	21	18	Mar-14
+5473		Norway	1090	3	1	Mar-14
+5474	Hunan	China	1018	4	1014	Mar-14
+5475	Anhui	China	990	6	984	Mar-14
+5476		Sweden	961	2	1	Mar-14
+5477		Netherlands	959	12	2	Mar-14
+5478	Jiangxi	China	935	1	934	Mar-14
+5479	Denmark	Denmark	827	1	1	Mar-14
+5480		Japan	773	22	118	Mar-14
+5481	Shandong	China	760	7	741	Mar-14
+5482	Diamond Princess	Cruise Ship	696	7	325	Mar-14
+5483		Belgium	689	4	1	Mar-14
+5484		Austria	655	1	6	Mar-14
+5485	Jiangsu	China	631	0	630	Mar-14
+5486	Chongqing	China	576	6	569	Mar-14
+5487	Washington	US	572	37	1	Mar-14
+5488	Sichuan	China	539	3	511	Mar-14
+5489	New York	US	525	2	0	Mar-14
+5490	Heilongjiang	China	482	13	447	Mar-14
+5491	Beijing	China	437	8	349	Mar-14
+5492	Shanghai	China	353	3	324	Mar-14
+5493	California	US	340	5	6	Mar-14
+5494		Qatar	337	0	4	Mar-14
+5495	Hebei	China	318	6	310	Mar-14
+5496	Fujian	China	296	1	295	Mar-14
+5497	Guangxi	China	252	2	243	Mar-14
+5498	Shaanxi	China	245	2	232	Mar-14
+5499		Malaysia	238	0	35	Mar-14
+5500		Greece	228	3	8	Mar-14
+5501		Finland	225	0	1	Mar-14
+5502		Singapore	212	0	105	Mar-14
+5503		Bahrain	210	0	44	Mar-14
+5504		Israel	193	0	4	Mar-14
+5505		Czechia	189	0	0	Mar-14
+5506		Slovenia	181	1	0	Mar-14
+5507	Yunnan	China	174	2	172	Mar-14
+5508		Portugal	169	0	2	Mar-14
+5509	Hainan	China	168	6	160	Mar-14
+5510		Iceland	156	0	1	Mar-14
+5511		Brazil	151	0	0	Mar-14
+5512	Guizhou	China	146	2	143	Mar-14
+5513	Hong Kong	China	140	4	78	Mar-14
+5514	Massachusetts	US	138	0	1	Mar-14
+5515	Tianjin	China	136	3	132	Mar-14
+5516	Shanxi	China	133	0	133	Mar-14
+5517	Gansu	China	129	2	89	Mar-14
+5518		Ireland	129	2	0	Mar-14
+5519	Liaoning	China	125	1	113	Mar-14
+5520		Romania	123	0	9	Mar-14
+5521		Estonia	115	0	0	Mar-14
+5522	New South Wales	Australia	112	2	4	Mar-14
+5523		Philippines	111	8	2	Mar-14
+5524		Iraq	110	10	26	Mar-14
+5525		Egypt	109	2	27	Mar-14
+5526		Kuwait	104	0	5	Mar-14
+5527		Poland	103	3	0	Mar-14
+5528		Saudi Arabia	103	0	1	Mar-14
+5529		India	102	2	4	Mar-14
+5530	Colorado	US	101	1	0	Mar-14
+5531		Indonesia	96	5	8	Mar-14
+5532	Jilin	China	93	1	91	Mar-14
+5533		Lebanon	93	3	1	Mar-14
+5534		United Arab Emirates	85	0	17	Mar-14
+5535		Thailand	82	1	35	Mar-14
+5536		San Marino	80	5	4	Mar-14
+5537	Ontario	Canada	79	0	4	Mar-14
+5538	Louisiana	US	77	1	0	Mar-14
+5539	Xinjiang	China	76	3	73	Mar-14
+5540	Florida	US	76	3	0	Mar-14
+5541	Inner Mongolia	China	75	1	71	Mar-14
+5542	Ningxia	China	75	0	73	Mar-14
+5543	New Jersey	US	69	1	0	Mar-14
+5544	Georgia	US	66	1	0	Mar-14
+5545	British Columbia	Canada	64	1	4	Mar-14
+5546	Illinois	US	64	0	2	Mar-14
+5547		Chile	61	0	0	Mar-14
+5548		Russia	59	0	8	Mar-14
+5549	Texas	US	57	0	0	Mar-14
+5550		Taiwan*	53	1	20	Mar-14
+5551		Vietnam	53	0	16	Mar-14
+5552		Luxembourg	51	1	0	Mar-14
+5553	Victoria	Australia	49	0	8	Mar-14
+5554	Pennsylvania	US	47	0	0	Mar-14
+5555	Queensland	Australia	46	0	8	Mar-14
+5556		Serbia	46	0	0	Mar-14
+5557	Diamond Princess	US	46	0	0	Mar-14
+5558		Slovakia	44	0	0	Mar-14
+5559		Bulgaria	41	2	0	Mar-14
+5560	Virginia	US	41	1	0	Mar-14
+5561		Brunei	40	0	0	Mar-14
+5562		Albania	38	1	0	Mar-14
+5563		Croatia	38	0	1	Mar-14
+5564		Peru	38	0	0	Mar-14
+5565		South Africa	38	0	0	Mar-14
+5566		Algeria	37	3	12	Mar-14
+5567		Panama	36	1	0	Mar-14
+5568		Argentina	34	2	1	Mar-14
+5569	Oregon	US	32	0	0	Mar-14
+5570	Tennessee	US	32	0	0	Mar-14
+5571		Pakistan	31	0	2	Mar-14
+5572		Georgia	30	0	0	Mar-14
+5573		Hungary	30	0	1	Mar-14
+5574	Alberta	Canada	29	0	0	Mar-14
+5575		Ecuador	28	2	0	Mar-14
+5576		Belarus	27	0	3	Mar-14
+5577	Wisconsin	US	27	0	1	Mar-14
+5578		Costa Rica	26	0	0	Mar-14
+5579		Cyprus	26	0	0	Mar-14
+5580		Latvia	26	0	1	Mar-14
+5581		Mexico	26	0	4	Mar-14
+5582	Maryland	US	26	0	0	Mar-14
+5583	Ohio	US	26	0	0	Mar-14
+5584	Michigan	US	25	0	0	Mar-14
+5585	North Carolina	US	24	0	0	Mar-14
+5586		Colombia	22	0	0	Mar-14
+5587	Connecticut	US	22	0	0	Mar-14
+5588	Grand Princess	US	21	0	0	Mar-14
+5589	Minnesota	US	21	0	0	Mar-14
+5590	Nevada	US	21	0	0	Mar-14
+5591	Rhode Island	US	20	0	0	Mar-14
+5592	South Australia	Australia	19	0	3	Mar-14
+5593		Oman	19	0	9	Mar-14
+5594	South Carolina	US	19	0	0	Mar-14
+5595		Armenia	18	0	0	Mar-14
+5596		Bosnia and Herzegovina	18	0	0	Mar-14
+5597	Qinghai	China	18	0	18	Mar-14
+5598		Malta	18	0	1	Mar-14
+5599		Tunisia	18	0	0	Mar-14
+5600	Western Australia	Australia	17	1	0	Mar-14
+5601	Quebec	Canada	17	0	0	Mar-14
+5602		Morocco	17	1	1	Mar-14
+5603	Iowa	US	17	0	0	Mar-14
+5604	Indiana	US	16	0	0	Mar-14
+5605		Azerbaijan	15	1	3	Mar-14
+5606		North Macedonia	14	0	1	Mar-14
+5607	Kentucky	US	14	0	0	Mar-14
+5608	Nebraska	US	14	0	0	Mar-14
+5609		Moldova	12	0	0	Mar-14
+5610	Arizona	US	12	0	1	Mar-14
+5611	Arkansas	US	12	0	0	Mar-14
+5612		Afghanistan	11	0	0	Mar-14
+5613		Dominican Republic	11	0	0	Mar-14
+5614		Bolivia	10	0	0	Mar-14
+5615	Macau	China	10	0	10	Mar-14
+5616		Maldives	10	0	0	Mar-14
+5617		Senegal	10	0	1	Mar-14
+5618		Sri Lanka	10	0	1	Mar-14
+5619	District of Columbia	US	10	0	0	Mar-14
+5620	New Mexico	US	10	0	0	Mar-14
+5621	Utah	US	10	0	0	Mar-14
+5622	Faroe Islands	Denmark	9	0	0	Mar-14
+5623		Martinique	9	0	0	Mar-14
+5624	South Dakota	US	9	1	0	Mar-14
+5625		Jamaica	8	0	0	Mar-14
+5626		Lithuania	8	0	0	Mar-14
+5627	Kansas	US	8	1	0	Mar-14
+5628		Cambodia	7	0	1	Mar-14
+5629	New Hampshire	US	7	0	0	Mar-14
+5630		Kazakhstan	6	0	0	Mar-14
+5631		New Zealand	6	0	0	Mar-14
+5632		Paraguay	6	0	0	Mar-14
+5633		Reunion	6	0	0	Mar-14
+5634	Alabama	US	6	0	0	Mar-14
+5635	Delaware	US	6	0	0	Mar-14
+5636	Mississippi	US	6	0	0	Mar-14
+5637	Tasmania	Australia	5	0	0	Mar-14
+5638	Fench Guiana	France	5	0	0	Mar-14
+5639		French Guiana	5	0	0	Mar-14
+5640		Turkey	5	0	0	Mar-14
+5641	Montana	US	5	0	0	Mar-14
+5642	Vermont	US	5	0	0	Mar-14
+5643	Manitoba	Canada	4	0	0	Mar-14
+5644		Cuba	4	0	0	Mar-14
+5645		Liechtenstein	4	0	0	Mar-14
+5646	Hawaii	US	4	0	0	Mar-14
+5647	Missouri	US	4	0	0	Mar-14
+5648	Oklahoma	US	4	0	0	Mar-14
+5649		Uruguay	4	0	0	Mar-14
+5650		Bangladesh	3	0	0	Mar-14
+5651	French Polynesia	France	3	0	0	Mar-14
+5652		Ghana	3	0	0	Mar-14
+5653	Maine	US	3	0	0	Mar-14
+5654	Puerto Rico	US	3	0	0	Mar-14
+5655		Ukraine	3	1	0	Mar-14
+5656		Aruba	2	0	0	Mar-14
+5657		Burkina Faso	2	0	0	Mar-14
+5658		Cameroon	2	0	0	Mar-14
+5659	Saskatchewan	Canada	2	0	0	Mar-14
+5660		Congo (Kinshasa)	2	0	0	Mar-14
+5661	St Martin	France	2	0	0	Mar-14
+5662		Honduras	2	0	0	Mar-14
+5663		Jersey	2	0	0	Mar-14
+5664		Monaco	2	0	0	Mar-14
+5665		Namibia	2	0	0	Mar-14
+5666		Nigeria	2	0	0	Mar-14
+5667		Seychelles	2	0	0	Mar-14
+5668		Trinidad and Tobago	2	0	0	Mar-14
+5669	Idaho	US	2	0	0	Mar-14
+5670	Wyoming	US	2	0	0	Mar-14
+5671	Channel Islands	United Kingdom	2	0	0	Mar-14
+5672		Venezuela	2	0	0	Mar-14
+5673		Andorra	1	0	1	Mar-14
+5674		Antigua and Barbuda	1	0	0	Mar-14
+5675	Australian Capital Territory	Australia	1	0	0	Mar-14
+5676	Northern Territory	Australia	1	0	0	Mar-14
+5677		Bhutan	1	0	0	Mar-14
+5678	New Brunswick	Canada	1	0	0	Mar-14
+5679		Cayman Islands	1	0	0	Mar-14
+5680	Tibet	China	1	0	1	Mar-14
+5681		Cote d'Ivoire	1	0	0	Mar-14
+5682		Curacao	1	0	0	Mar-14
+5683		Eswatini	1	0	0	Mar-14
+5684		Ethiopia	1	0	0	Mar-14
+5685	Saint Barthelemy	France	1	0	0	Mar-14
+5686		Gabon	1	0	0	Mar-14
+5687		Guadeloupe	1	0	0	Mar-14
+5688		Guatemala	1	0	0	Mar-14
+5689		Guernsey	1	0	0	Mar-14
+5690		Guinea	1	0	0	Mar-14
+5691		Guyana	1	1	0	Mar-14
+5692		Holy See	1	0	0	Mar-14
+5693		Jordan	1	0	1	Mar-14
+5694		Kenya	1	0	0	Mar-14
+5695		Mauritania	1	0	0	Mar-14
+5696		Mongolia	1	0	0	Mar-14
+5697		Nepal	1	0	1	Mar-14
+5698		Rwanda	1	0	0	Mar-14
+5699		Saint Lucia	1	0	0	Mar-14
+5700		Saint Vincent and the Grenadines	1	0	0	Mar-14
+5701		Sudan	1	1	0	Mar-14
+5702		Suriname	1	0	0	Mar-14
+5703		Togo	1	0	0	Mar-14
+5704	North Dakota	US	1	0	0	Mar-14
+5705	Virgin Islands, U.S.	US	1	0	0	Mar-14
+5706	Gibraltar	United Kingdom	1	0	1	Mar-14
+5707	From Diamond Princess	Australia	0	0	0	Mar-14
+5708	West Virginia	US	0	0	0	Mar-14
+5709		occupied Palestinian territory	0	0	0	Mar-14
