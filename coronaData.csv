@@ -5229,7 +5229,6 @@
 5228	Maine	US	0	0	0	Mar-12
 5229	West Virginia	US	0	0	0	Mar-12
 5230		occupied Palestinian territory	0	0	0	Mar-12
-Sno	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
 5231	Hubei	China	67786	3062	51553	Mar-13
 5232	Guangdong	China	1356	8	1296	Mar-13
 5233	Henan	China	1273	22	1249	Mar-13
@@ -5460,7 +5459,6 @@ Sno	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
 5458		Liechtenstein	1	0	0	Mar-13
 5459		Guyana	1	1	0	Mar-13
 5460		Taiwan*	50	1	20	Mar-13
-Sno	Province/State	Country/Region	Confirmed	Deaths	Recovered	recorded_date
 5461	Hubei	China	67790	3075	52960	Mar-14
 5462		Italy	21157	1441	1966	Mar-14
 5463		Iran	12729	611	2959	Mar-14
